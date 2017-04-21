@@ -23,5 +23,8 @@
         "2.0.0": "getProvider"
       }
     }
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0"
   }
 }
