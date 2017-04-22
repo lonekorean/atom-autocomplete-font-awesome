@@ -1,0 +1,112 @@
+[
+	{
+		"id": "lg",
+		"description": "Increase Font Awesome icon size by 33%",
+		"documentationURL": "http://fontawesome.io/examples/#larger"
+	},
+	{
+		"id": "2x",
+		"description": "Make Font Awesome icon 2x as large",
+		"documentationURL": "http://fontawesome.io/examples/#larger"
+	},
+	{
+		"id": "3x",
+		"description": "Make Font Awesome icon 3x as large",
+		"documentationURL": "http://fontawesome.io/examples/#larger"
+	},
+	{
+		"id": "4x",
+		"description": "Make Font Awesome icon 4x as large",
+		"documentationURL": "http://fontawesome.io/examples/#larger"
+	},
+	{
+		"id": "5x",
+		"description": "Make Font Awesome icon 5x as large",
+		"documentationURL": "http://fontawesome.io/examples/#larger"
+	},
+	{
+		"id": "fw",
+		"description": "Set fixed width for a Font Awesome icon",
+		"documentationURL": "http://fontawesome.io/examples/#fixed-width"
+	},
+	{
+		"id": "ul",
+		"description": "Declare a list that uses Font Awesome icons for bullets",
+		"documentationURL": "http://fontawesome.io/examples/#list"
+	},
+	{
+		"id": "li",
+		"description": "Declare a Font Awesome icon as the bullet for a list item",
+		"documentationURL": "http://fontawesome.io/examples/#list"
+	},
+	{
+		"id": "border",
+		"description": "Include a border around a Font Awesome icon",
+		"documentationURL": "http://fontawesome.io/examples/#bordered-pulled"
+	},
+	{
+		"id": "pull-left",
+		"description": "Pull a Font Awesome icon to the left of content",
+		"documentationURL": "http://fontawesome.io/examples/#bordered-pulled"
+	},
+	{
+		"id": "pull-right",
+		"description": "Pull a Font Awesome icon to the right of content",
+		"documentationURL": "http://fontawesome.io/examples/#bordered-pulled"
+	},
+	{
+		"id": "spin",
+		"description": "Make a Font Awesome icon smoothly rotate clockwise",
+		"documentationURL": "http://fontawesome.io/examples/#animated"
+	},
+	{
+		"id": "pulse",
+		"description": "Make a Font Awesome icon rotate clockwise in 8 steps per turn",
+		"documentationURL": "http://fontawesome.io/examples/#animated"
+	},
+	{
+		"id": "rotate-90",
+		"description": "Rotate a Font Awesome icon 90 degrees",
+		"documentationURL": "http://fontawesome.io/examples/#rotated-flipped"
+	},
+	{
+		"id": "rotate-180",
+		"description": "Rotate a Font Awesome icon 180 degrees",
+		"documentationURL": "http://fontawesome.io/examples/#rotated-flipped"
+	},
+	{
+		"id": "rotate-270",
+		"description": "Rotate a Font Awesome icon 270 degrees",
+		"documentationURL": "http://fontawesome.io/examples/#rotated-flipped"
+	},
+	{
+		"id": "flip-horizontal",
+		"description": "Flip a Font Awesome icon horizontally",
+		"documentationURL": "http://fontawesome.io/examples/#rotated-flipped"
+	},
+	{
+		"id": "flip-vertically",
+		"description": "Flip a Font Awesome icon vertically",
+		"documentationURL": "http://fontawesome.io/examples/#rotated-flipped"
+	},
+	{
+		"id": "stack",
+		"description": "Set on the parent of stacked Font Awesome icons",
+		"documentationURL": "http://fontawesome.io/examples/#stacked"
+	},
+	{
+		"id": "stack-1x",
+		"description": "Set on the normal sized Font Awesome icon when stacking",
+		"documentationURL": "http://fontawesome.io/examples/#stacked"
+	},
+	{
+		"id": "stack-2x",
+		"description": "Set on the larger Font Awesome icon when stacking",
+		"documentationURL": "http://fontawesome.io/examples/#stacked"
+	},
+	{
+		"id": "inverse",
+		"description": "Invert the color of a Font Awesome icon",
+		"documentationURL": "http://fontawesome.io/examples/#stacked"
+	}
+]
