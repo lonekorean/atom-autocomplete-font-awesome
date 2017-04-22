@@ -1,0 +1,8 @@
+[
+	{
+		"shortcode": "fa",
+		"body": "<i class=\"fa fa-$1\" aria-hidden=\"true\"></i>",
+		"description": "Font Awesome basic icon markup",
+		"documentationURL": "http://fontawesome.io/examples/"
+	}
+]
