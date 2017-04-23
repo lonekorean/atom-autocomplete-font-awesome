@@ -2,7 +2,20 @@
 	{
 		"shortcode": "fa",
 		"body": "<i class=\"fa fa-$1\" aria-hidden=\"true\"></i>",
-		"description": "Font Awesome basic icon markup",
-		"documentationURL": "http://fontawesome.io/examples/"
+		"description": "Font Awesome basic icon",
+		"documentationURL": "http://fontawesome.io/examples/#accessible"
+	},
+	{
+		"shortcode": "fa-ul",
+		"body": "<ul class=\"fa-ul\">\n\t<li><i class=\"fa-li fa fa-$1\"></i>$2</li>\n</ul>",
+		"description": "Font Awesome list with icon bullets",
+		"documentationURL": "http://fontawesome.io/examples/#list"
+	},
+	{
+		"shortcode": "fa-li",
+		"body": "<li><i class=\"fa-li fa fa-$1\"></i>$2</li>",
+		"description": "Font Awesome list item with an icon bullet",
+		"documentationURL": "http://fontawesome.io/examples/#list"
 	}
+
 ]
