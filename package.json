@@ -2,7 +2,7 @@
   "name": "autocomplete-font-awesome",
   "main": "./lib/main",
   "version": "0.0.0",
-  "description": "Atom autocomplete package for Font Awesome icons.",
+  "description": "Font Awesome autocomplete and icon previews for Atom.",
   "keywords": [
     "autocomplete",
     "provider",
