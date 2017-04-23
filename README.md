@@ -2,6 +2,8 @@
 
 Font Awesome autocomplete and icon previews for Atom.
 
+![Demo](https://cloud.githubusercontent.com/assets/1245573/25317343/213b610a-2845-11e7-9e28-f4c1dc54e118.gif)
+
 ## Features
 
 - Shows icon previews with suggestions
