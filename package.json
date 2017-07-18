@@ -9,7 +9,8 @@
     "font",
     "awesome",
     "fontawesome",
-    "icons"
+    "icons",
+    "preview"
   ],
   "repository": "https://github.com/lonekorean/atom-autocomplete-font-awesome",
   "author": "Will Boyd <will@codersblock.com> (http://codersblock.com)",
