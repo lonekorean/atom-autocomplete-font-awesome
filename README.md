@@ -11,3 +11,13 @@ Font Awesome autocomplete and icon previews for Atom.
 - Also searches aliases so icons are easier to find
 - Displays the unicode value for each icon
 - Includes suggestions for modifiers (such as `fa-2x`) with helper text
+
+## Installation
+
+Go into Atom's Settings/Preferences &gt; Install &gt; search for `autocomplete-font-awesome`
+
+Or install via the command line:
+
+```
+apm install autocomplete-font-awesome
+```
