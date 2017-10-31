@@ -1,6 +1,20 @@
 @import 'ui-variables';
 @import '../node_modules/font-awesome/less/font-awesome';
 
+@fa-font-path: 'atom://autocomplete-font-awesome/node_modules/font-awesome/fonts';
+
+// adapted from path.less, fixes relative path issues on Linux
+@font-face {
+  font-family: 'FontAwesomeFixed';
+  src: url('@{fa-font-path}/fontawesome-webfont.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.fa {
+  font-family: 'FontAwesomeFixed';
+}
+
 .aafa-fa {
 	transform: scale(1.2);
 }
