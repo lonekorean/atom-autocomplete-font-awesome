@@ -1,20 +1,35 @@
 @import 'ui-variables';
-@import '../node_modules/font-awesome/less/font-awesome';
 
-@fa-font-path: 'atom://autocomplete-font-awesome/node_modules/font-awesome/fonts';
+// import version specific stylesheets into namespaces
+.aafa-v-4-7 { @import (less) 'v4.7/font-awesome.min.css'; }
+//.aafa-v-5-0 { @import (less) 'v5.0/font-awesome.min.css'; }
 
-// adapted from path.less, fixes relative path issues on Linux
+// Atom packages run in a different path on Linux, so it's safer to
+// use an absolute path for runtime assets to avoid relativity issues
+@styles-path: 'atom://autocomplete-font-awesome/styles';
+
 @font-face {
-  font-family: 'FontAwesomeFixed';
-  src: url('@{fa-font-path}/fontawesome-webfont.woff2') format('woff2');
-  font-weight: normal;
-  font-style: normal;
+    font-family: 'FontAwesome-v4.7';
+    src: url('@{styles-path}/v4.7/fontawesome-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
 }
 
-.fa {
-  font-family: 'FontAwesomeFixed';
+@font-face {
+    font-family: 'FontAwesome-v5.0';
+    src: url('@{styles-path}/v5.0/fontawesome-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
 }
 
-.aafa-fa {
-	transform: scale(1.2);
+.aafa .fa {
+    transform: scale(1.2);
+}
+
+.aafa-v-4-7 .fa {
+    font-family: 'FontAwesome-v4.7';
+}
+
+.aafa-v-5-0 .fa {
+    font-family: 'FontAwesome-v5.0';
 }
