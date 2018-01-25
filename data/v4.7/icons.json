@@ -5136,9 +5136,6 @@
 		],
 		"label": "Life Ring",
 		"terms": [
-			{
-				"life-bouy": "Deprecated - remove in 5.0.0"
-			},
 			"life-buoy",
 			"life-saver",
 			"support"
