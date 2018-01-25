@@ -1,8 +1,8 @@
 [
 	{
 		"id": "glass",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Glass",
 		"terms": [
@@ -16,8 +16,8 @@
 	},
 	{
 		"id": "music",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Music",
 		"terms": [
@@ -28,8 +28,8 @@
 	},
 	{
 		"id": "search",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Search",
 		"terms": [
@@ -42,8 +42,8 @@
 	},
 	{
 		"id": "envelope-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Envelope Outlined",
 		"terms": [
@@ -59,8 +59,8 @@
 	},
 	{
 		"id": "heart",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Heart",
 		"terms": [
@@ -72,8 +72,8 @@
 	},
 	{
 		"id": "star",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Star",
 		"terms": [
@@ -88,8 +88,8 @@
 	},
 	{
 		"id": "star-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Star Outlined",
 		"terms": [
@@ -104,8 +104,8 @@
 	},
 	{
 		"id": "user",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "User",
 		"terms": [
@@ -118,8 +118,8 @@
 	},
 	{
 		"id": "film",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Film",
 		"terms": [
@@ -129,8 +129,8 @@
 	},
 	{
 		"id": "th-large",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "th-large",
 		"terms": [
@@ -143,8 +143,8 @@
 	},
 	{
 		"id": "th",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "th",
 		"terms": [
@@ -157,8 +157,8 @@
 	},
 	{
 		"id": "th-list",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "th-list",
 		"terms": [
@@ -174,8 +174,8 @@
 	},
 	{
 		"id": "check",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Check",
 		"terms": [
@@ -192,8 +192,8 @@
 	},
 	{
 		"id": "times",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Times",
 		"terms": [
@@ -207,8 +207,8 @@
 	},
 	{
 		"id": "search-plus",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Search Plus",
 		"terms": [
@@ -221,8 +221,8 @@
 	},
 	{
 		"id": "search-minus",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Search Minus",
 		"terms": [
@@ -235,8 +235,8 @@
 	},
 	{
 		"id": "power-off",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Power Off",
 		"terms": [
@@ -246,8 +246,8 @@
 	},
 	{
 		"id": "signal",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "signal",
 		"terms": [
@@ -258,8 +258,8 @@
 	},
 	{
 		"id": "cog",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "cog",
 		"terms": [
@@ -270,8 +270,8 @@
 	},
 	{
 		"id": "trash-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Trash Outlined",
 		"terms": [
@@ -285,8 +285,8 @@
 	},
 	{
 		"id": "home",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "home",
 		"terms": [
@@ -297,8 +297,8 @@
 	},
 	{
 		"id": "file-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "File Outlined",
 		"terms": [
@@ -311,8 +311,8 @@
 	},
 	{
 		"id": "clock-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Clock Outlined",
 		"terms": [
@@ -325,8 +325,8 @@
 	},
 	{
 		"id": "road",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "road",
 		"terms": [
@@ -336,8 +336,8 @@
 	},
 	{
 		"id": "download",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Download",
 		"terms": [
@@ -347,8 +347,8 @@
 	},
 	{
 		"id": "arrow-circle-o-down",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Arrow Circle Outlined Down",
 		"terms": [
@@ -358,8 +358,8 @@
 	},
 	{
 		"id": "arrow-circle-o-up",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Arrow Circle Outlined Up",
 		"terms": [],
@@ -367,8 +367,8 @@
 	},
 	{
 		"id": "inbox",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "inbox",
 		"terms": [],
@@ -376,8 +376,8 @@
 	},
 	{
 		"id": "play-circle-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Play Circle Outlined",
 		"terms": [],
@@ -385,8 +385,8 @@
 	},
 	{
 		"id": "repeat",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Repeat",
 		"terms": [
@@ -398,8 +398,8 @@
 	},
 	{
 		"id": "refresh",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "refresh",
 		"terms": [
@@ -410,8 +410,8 @@
 	},
 	{
 		"id": "list-alt",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "list-alt",
 		"terms": [
@@ -427,8 +427,8 @@
 	},
 	{
 		"id": "lock",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "lock",
 		"terms": [
@@ -440,8 +440,8 @@
 	},
 	{
 		"id": "flag",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "flag",
 		"terms": [
@@ -453,8 +453,8 @@
 	},
 	{
 		"id": "headphones",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "headphones",
 		"terms": [
@@ -467,8 +467,8 @@
 	},
 	{
 		"id": "volume-off",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "volume-off",
 		"terms": [
@@ -481,8 +481,8 @@
 	},
 	{
 		"id": "volume-down",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "volume-down",
 		"terms": [
@@ -496,8 +496,8 @@
 	},
 	{
 		"id": "volume-up",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "volume-up",
 		"terms": [
@@ -511,8 +511,8 @@
 	},
 	{
 		"id": "qrcode",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "qrcode",
 		"terms": [
@@ -522,8 +522,8 @@
 	},
 	{
 		"id": "barcode",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "barcode",
 		"terms": [
@@ -533,8 +533,8 @@
 	},
 	{
 		"id": "tag",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "tag",
 		"terms": [
@@ -544,8 +544,8 @@
 	},
 	{
 		"id": "tags",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "tags",
 		"terms": [
@@ -555,8 +555,8 @@
 	},
 	{
 		"id": "book",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "book",
 		"terms": [
@@ -567,8 +567,8 @@
 	},
 	{
 		"id": "bookmark",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "bookmark",
 		"terms": [
@@ -578,8 +578,8 @@
 	},
 	{
 		"id": "print",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "print",
 		"terms": [],
@@ -587,8 +587,8 @@
 	},
 	{
 		"id": "camera",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "camera",
 		"terms": [
@@ -600,8 +600,8 @@
 	},
 	{
 		"id": "font",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "font",
 		"terms": [
@@ -611,8 +611,8 @@
 	},
 	{
 		"id": "bold",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "bold",
 		"terms": [],
@@ -620,8 +620,8 @@
 	},
 	{
 		"id": "italic",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "italic",
 		"terms": [
@@ -631,8 +631,8 @@
 	},
 	{
 		"id": "text-height",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "text-height",
 		"terms": [],
@@ -640,8 +640,8 @@
 	},
 	{
 		"id": "text-width",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "text-width",
 		"terms": [],
@@ -649,8 +649,8 @@
 	},
 	{
 		"id": "align-left",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "align-left",
 		"terms": [
@@ -660,8 +660,8 @@
 	},
 	{
 		"id": "align-center",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "align-center",
 		"terms": [
@@ -672,8 +672,8 @@
 	},
 	{
 		"id": "align-right",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "align-right",
 		"terms": [
@@ -683,8 +683,8 @@
 	},
 	{
 		"id": "align-justify",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "align-justify",
 		"terms": [
@@ -694,8 +694,8 @@
 	},
 	{
 		"id": "list",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "list",
 		"terms": [
@@ -711,8 +711,8 @@
 	},
 	{
 		"id": "outdent",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Outdent",
 		"terms": [
@@ -722,8 +722,8 @@
 	},
 	{
 		"id": "indent",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Indent",
 		"terms": [],
@@ -731,8 +731,8 @@
 	},
 	{
 		"id": "video-camera",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Video Camera",
 		"terms": [
@@ -744,8 +744,8 @@
 	},
 	{
 		"id": "picture-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Picture Outlined",
 		"terms": [
@@ -756,8 +756,8 @@
 	},
 	{
 		"id": "pencil",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "pencil",
 		"terms": [
@@ -769,8 +769,8 @@
 	},
 	{
 		"id": "map-marker",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "map-marker",
 		"terms": [
@@ -788,8 +788,8 @@
 	},
 	{
 		"id": "adjust",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "adjust",
 		"terms": [
@@ -799,8 +799,8 @@
 	},
 	{
 		"id": "tint",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "tint",
 		"terms": [
@@ -813,8 +813,8 @@
 	},
 	{
 		"id": "pencil-square-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Pencil Square Outlined",
 		"terms": [
@@ -826,8 +826,8 @@
 	},
 	{
 		"id": "share-square-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Share Square Outlined",
 		"terms": [
@@ -839,8 +839,8 @@
 	},
 	{
 		"id": "check-square-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Check Square Outlined",
 		"terms": [
@@ -855,8 +855,8 @@
 	},
 	{
 		"id": "arrows",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Arrows",
 		"terms": [
@@ -868,8 +868,8 @@
 	},
 	{
 		"id": "step-backward",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "step-backward",
 		"terms": [
@@ -883,8 +883,8 @@
 	},
 	{
 		"id": "fast-backward",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "fast-backward",
 		"terms": [
@@ -898,8 +898,8 @@
 	},
 	{
 		"id": "backward",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "backward",
 		"terms": [
@@ -910,8 +910,8 @@
 	},
 	{
 		"id": "play",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "play",
 		"terms": [
@@ -924,8 +924,8 @@
 	},
 	{
 		"id": "pause",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "pause",
 		"terms": [
@@ -935,8 +935,8 @@
 	},
 	{
 		"id": "stop",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "stop",
 		"terms": [
@@ -948,8 +948,8 @@
 	},
 	{
 		"id": "forward",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "forward",
 		"terms": [
@@ -960,8 +960,8 @@
 	},
 	{
 		"id": "fast-forward",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "fast-forward",
 		"terms": [
@@ -973,8 +973,8 @@
 	},
 	{
 		"id": "step-forward",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "step-forward",
 		"terms": [
@@ -986,8 +986,8 @@
 	},
 	{
 		"id": "eject",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "eject",
 		"terms": [],
@@ -995,8 +995,8 @@
 	},
 	{
 		"id": "chevron-left",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "chevron-left",
 		"terms": [
@@ -1008,8 +1008,8 @@
 	},
 	{
 		"id": "chevron-right",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "chevron-right",
 		"terms": [
@@ -1021,8 +1021,8 @@
 	},
 	{
 		"id": "plus-circle",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Plus Circle",
 		"terms": [
@@ -1035,8 +1035,8 @@
 	},
 	{
 		"id": "minus-circle",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Minus Circle",
 		"terms": [
@@ -1049,8 +1049,8 @@
 	},
 	{
 		"id": "times-circle",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Times Circle",
 		"terms": [
@@ -1062,8 +1062,8 @@
 	},
 	{
 		"id": "check-circle",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Check Circle",
 		"terms": [
@@ -1078,8 +1078,8 @@
 	},
 	{
 		"id": "question-circle",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Question Circle",
 		"terms": [
@@ -1092,8 +1092,8 @@
 	},
 	{
 		"id": "info-circle",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Info Circle",
 		"terms": [
@@ -1106,8 +1106,8 @@
 	},
 	{
 		"id": "crosshairs",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Crosshairs",
 		"terms": [
@@ -1117,8 +1117,8 @@
 	},
 	{
 		"id": "times-circle-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Times Circle Outlined",
 		"terms": [
@@ -1130,8 +1130,8 @@
 	},
 	{
 		"id": "check-circle-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Check Circle Outlined",
 		"terms": [
@@ -1146,8 +1146,8 @@
 	},
 	{
 		"id": "ban",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "ban",
 		"terms": [
@@ -1164,8 +1164,8 @@
 	},
 	{
 		"id": "arrow-left",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "arrow-left",
 		"terms": [
@@ -1176,8 +1176,8 @@
 	},
 	{
 		"id": "arrow-right",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "arrow-right",
 		"terms": [
@@ -1188,8 +1188,8 @@
 	},
 	{
 		"id": "arrow-up",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "arrow-up",
 		"terms": [],
@@ -1197,8 +1197,8 @@
 	},
 	{
 		"id": "arrow-down",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "arrow-down",
 		"terms": [
@@ -1208,8 +1208,8 @@
 	},
 	{
 		"id": "share",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Share",
 		"terms": [
@@ -1219,8 +1219,8 @@
 	},
 	{
 		"id": "expand",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Expand",
 		"terms": [
@@ -1232,8 +1232,8 @@
 	},
 	{
 		"id": "compress",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Compress",
 		"terms": [
@@ -1247,8 +1247,8 @@
 	},
 	{
 		"id": "plus",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "plus",
 		"terms": [
@@ -1261,8 +1261,8 @@
 	},
 	{
 		"id": "minus",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "minus",
 		"terms": [
@@ -1277,8 +1277,8 @@
 	},
 	{
 		"id": "asterisk",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "asterisk",
 		"terms": [
@@ -1288,8 +1288,8 @@
 	},
 	{
 		"id": "exclamation-circle",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Exclamation Circle",
 		"terms": [
@@ -1303,8 +1303,8 @@
 	},
 	{
 		"id": "gift",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "gift",
 		"terms": [
@@ -1314,8 +1314,8 @@
 	},
 	{
 		"id": "leaf",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "leaf",
 		"terms": [
@@ -1327,8 +1327,8 @@
 	},
 	{
 		"id": "fire",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "fire",
 		"terms": [
@@ -1340,8 +1340,8 @@
 	},
 	{
 		"id": "eye",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Eye",
 		"terms": [
@@ -1353,8 +1353,8 @@
 	},
 	{
 		"id": "eye-slash",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Eye Slash",
 		"terms": [
@@ -1369,8 +1369,8 @@
 	},
 	{
 		"id": "exclamation-triangle",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Exclamation Triangle",
 		"terms": [
@@ -1384,8 +1384,8 @@
 	},
 	{
 		"id": "plane",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "plane",
 		"terms": [
@@ -1401,8 +1401,8 @@
 	},
 	{
 		"id": "calendar",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "calendar",
 		"terms": [
@@ -1415,8 +1415,8 @@
 	},
 	{
 		"id": "random",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "random",
 		"terms": [
@@ -1427,8 +1427,8 @@
 	},
 	{
 		"id": "comment",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "comment",
 		"terms": [
@@ -1447,8 +1447,8 @@
 	},
 	{
 		"id": "magnet",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "magnet",
 		"terms": [],
@@ -1456,8 +1456,8 @@
 	},
 	{
 		"id": "chevron-up",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "chevron-up",
 		"terms": [],
@@ -1465,8 +1465,8 @@
 	},
 	{
 		"id": "chevron-down",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "chevron-down",
 		"terms": [],
@@ -1474,8 +1474,8 @@
 	},
 	{
 		"id": "retweet",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "retweet",
 		"terms": [
@@ -1487,8 +1487,8 @@
 	},
 	{
 		"id": "shopping-cart",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "shopping-cart",
 		"terms": [
@@ -1501,8 +1501,8 @@
 	},
 	{
 		"id": "folder",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Folder",
 		"terms": [],
@@ -1510,8 +1510,8 @@
 	},
 	{
 		"id": "folder-open",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Folder Open",
 		"terms": [],
@@ -1519,8 +1519,8 @@
 	},
 	{
 		"id": "arrows-v",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Arrows Vertical",
 		"terms": [
@@ -1530,8 +1530,8 @@
 	},
 	{
 		"id": "arrows-h",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Arrows Horizontal",
 		"terms": [
@@ -1541,8 +1541,8 @@
 	},
 	{
 		"id": "bar-chart",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Bar Chart",
 		"terms": [
@@ -1554,8 +1554,8 @@
 	},
 	{
 		"id": "twitter-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Twitter Square",
 		"terms": [
@@ -1566,8 +1566,8 @@
 	},
 	{
 		"id": "facebook-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Facebook Square",
 		"terms": [
@@ -1577,8 +1577,8 @@
 	},
 	{
 		"id": "camera-retro",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "camera-retro",
 		"terms": [
@@ -1590,8 +1590,8 @@
 	},
 	{
 		"id": "key",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "key",
 		"terms": [
@@ -1602,8 +1602,8 @@
 	},
 	{
 		"id": "cogs",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "cogs",
 		"terms": [
@@ -1614,8 +1614,8 @@
 	},
 	{
 		"id": "comments",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "comments",
 		"terms": [
@@ -1634,8 +1634,8 @@
 	},
 	{
 		"id": "thumbs-o-up",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Thumbs Up Outlined",
 		"terms": [
@@ -1649,8 +1649,8 @@
 	},
 	{
 		"id": "thumbs-o-down",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Thumbs Down Outlined",
 		"terms": [
@@ -1663,8 +1663,8 @@
 	},
 	{
 		"id": "star-half",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "star-half",
 		"terms": [
@@ -1677,8 +1677,8 @@
 	},
 	{
 		"id": "heart-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Heart Outlined",
 		"terms": [
@@ -1690,8 +1690,8 @@
 	},
 	{
 		"id": "sign-out",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Sign Out",
 		"terms": [
@@ -1705,8 +1705,8 @@
 	},
 	{
 		"id": "linkedin-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "LinkedIn Square",
 		"terms": [],
@@ -1714,8 +1714,8 @@
 	},
 	{
 		"id": "thumb-tack",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Thumb Tack",
 		"terms": [
@@ -1728,8 +1728,8 @@
 	},
 	{
 		"id": "external-link",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "External Link",
 		"terms": [
@@ -1740,8 +1740,8 @@
 	},
 	{
 		"id": "sign-in",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Sign In",
 		"terms": [
@@ -1759,8 +1759,8 @@
 	},
 	{
 		"id": "trophy",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "trophy",
 		"terms": [
@@ -1774,8 +1774,8 @@
 	},
 	{
 		"id": "github-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "GitHub Square",
 		"terms": [
@@ -1785,8 +1785,8 @@
 	},
 	{
 		"id": "upload",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Upload",
 		"terms": [
@@ -1796,8 +1796,8 @@
 	},
 	{
 		"id": "lemon-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Lemon Outlined",
 		"terms": [
@@ -1807,8 +1807,8 @@
 	},
 	{
 		"id": "phone",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Phone",
 		"terms": [
@@ -1823,8 +1823,8 @@
 	},
 	{
 		"id": "square-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Square Outlined",
 		"terms": [
@@ -1836,8 +1836,8 @@
 	},
 	{
 		"id": "bookmark-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Bookmark Outlined",
 		"terms": [
@@ -1847,8 +1847,8 @@
 	},
 	{
 		"id": "phone-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Phone Square",
 		"terms": [
@@ -1862,8 +1862,8 @@
 	},
 	{
 		"id": "twitter",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Twitter",
 		"terms": [
@@ -1874,8 +1874,8 @@
 	},
 	{
 		"id": "facebook",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Facebook",
 		"terms": [
@@ -1886,8 +1886,8 @@
 	},
 	{
 		"id": "github",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "GitHub",
 		"terms": [
@@ -1897,8 +1897,8 @@
 	},
 	{
 		"id": "unlock",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "unlock",
 		"terms": [
@@ -1911,8 +1911,8 @@
 	},
 	{
 		"id": "credit-card",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "credit-card",
 		"terms": [
@@ -1927,8 +1927,8 @@
 	},
 	{
 		"id": "rss",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "rss",
 		"terms": [
@@ -1939,8 +1939,8 @@
 	},
 	{
 		"id": "hdd-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "HDD",
 		"terms": [
@@ -1953,8 +1953,8 @@
 	},
 	{
 		"id": "bullhorn",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "bullhorn",
 		"terms": [
@@ -1968,8 +1968,8 @@
 	},
 	{
 		"id": "bell",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "bell",
 		"terms": [
@@ -1981,8 +1981,8 @@
 	},
 	{
 		"id": "certificate",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "certificate",
 		"terms": [
@@ -1993,8 +1993,8 @@
 	},
 	{
 		"id": "hand-o-right",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Hand Outlined Right",
 		"terms": [
@@ -2008,8 +2008,8 @@
 	},
 	{
 		"id": "hand-o-left",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Hand Outlined Left",
 		"terms": [
@@ -2023,8 +2023,8 @@
 	},
 	{
 		"id": "hand-o-up",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Hand Outlined Up",
 		"terms": [
@@ -2035,8 +2035,8 @@
 	},
 	{
 		"id": "hand-o-down",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Hand Outlined Down",
 		"terms": [
@@ -2047,8 +2047,8 @@
 	},
 	{
 		"id": "arrow-circle-left",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Arrow Circle Left",
 		"terms": [
@@ -2059,8 +2059,8 @@
 	},
 	{
 		"id": "arrow-circle-right",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Arrow Circle Right",
 		"terms": [
@@ -2071,8 +2071,8 @@
 	},
 	{
 		"id": "arrow-circle-up",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Arrow Circle Up",
 		"terms": [],
@@ -2080,8 +2080,8 @@
 	},
 	{
 		"id": "arrow-circle-down",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Arrow Circle Down",
 		"terms": [
@@ -2091,8 +2091,8 @@
 	},
 	{
 		"id": "globe",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Globe",
 		"terms": [
@@ -2115,8 +2115,8 @@
 	},
 	{
 		"id": "wrench",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Wrench",
 		"terms": [
@@ -2129,8 +2129,8 @@
 	},
 	{
 		"id": "tasks",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Tasks",
 		"terms": [
@@ -2144,8 +2144,8 @@
 	},
 	{
 		"id": "filter",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Filter",
 		"terms": [
@@ -2156,8 +2156,8 @@
 	},
 	{
 		"id": "briefcase",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Briefcase",
 		"terms": [
@@ -2171,8 +2171,8 @@
 	},
 	{
 		"id": "arrows-alt",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Arrows Alt",
 		"terms": [
@@ -2189,8 +2189,8 @@
 	},
 	{
 		"id": "users",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Users",
 		"terms": [
@@ -2203,8 +2203,8 @@
 	},
 	{
 		"id": "link",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Link",
 		"terms": [
@@ -2214,8 +2214,8 @@
 	},
 	{
 		"id": "cloud",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Cloud",
 		"terms": [
@@ -2225,8 +2225,8 @@
 	},
 	{
 		"id": "flask",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Flask",
 		"terms": [
@@ -2239,8 +2239,8 @@
 	},
 	{
 		"id": "scissors",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Scissors",
 		"terms": [
@@ -2250,8 +2250,8 @@
 	},
 	{
 		"id": "files-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Files Outlined",
 		"terms": [
@@ -2263,8 +2263,8 @@
 	},
 	{
 		"id": "paperclip",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Paperclip",
 		"terms": [
@@ -2274,8 +2274,8 @@
 	},
 	{
 		"id": "floppy-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Floppy Outlined",
 		"terms": [
@@ -2285,8 +2285,8 @@
 	},
 	{
 		"id": "square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Square",
 		"terms": [
@@ -2297,8 +2297,8 @@
 	},
 	{
 		"id": "bars",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Bars",
 		"terms": [
@@ -2318,8 +2318,8 @@
 	},
 	{
 		"id": "list-ul",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "list-ul",
 		"terms": [
@@ -2333,8 +2333,8 @@
 	},
 	{
 		"id": "list-ol",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "list-ol",
 		"terms": [
@@ -2349,8 +2349,8 @@
 	},
 	{
 		"id": "strikethrough",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Strikethrough",
 		"terms": [],
@@ -2358,8 +2358,8 @@
 	},
 	{
 		"id": "underline",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Underline",
 		"terms": [],
@@ -2367,8 +2367,8 @@
 	},
 	{
 		"id": "table",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "table",
 		"terms": [
@@ -2380,8 +2380,8 @@
 	},
 	{
 		"id": "magic",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "magic",
 		"terms": [
@@ -2393,8 +2393,8 @@
 	},
 	{
 		"id": "truck",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "truck",
 		"terms": [
@@ -2404,8 +2404,8 @@
 	},
 	{
 		"id": "pinterest",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Pinterest",
 		"terms": [],
@@ -2413,8 +2413,8 @@
 	},
 	{
 		"id": "pinterest-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Pinterest Square",
 		"terms": [],
@@ -2422,8 +2422,8 @@
 	},
 	{
 		"id": "google-plus-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Google Plus Square",
 		"terms": [
@@ -2433,8 +2433,8 @@
 	},
 	{
 		"id": "google-plus",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Google Plus",
 		"terms": [
@@ -2444,8 +2444,8 @@
 	},
 	{
 		"id": "money",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Money",
 		"terms": [
@@ -2460,8 +2460,8 @@
 	},
 	{
 		"id": "caret-down",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Caret Down",
 		"terms": [
@@ -2475,8 +2475,8 @@
 	},
 	{
 		"id": "caret-up",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Caret Up",
 		"terms": [
@@ -2487,8 +2487,8 @@
 	},
 	{
 		"id": "caret-left",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Caret Left",
 		"terms": [
@@ -2501,8 +2501,8 @@
 	},
 	{
 		"id": "caret-right",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Caret Right",
 		"terms": [
@@ -2515,8 +2515,8 @@
 	},
 	{
 		"id": "columns",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Columns",
 		"terms": [
@@ -2527,8 +2527,8 @@
 	},
 	{
 		"id": "sort",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Sort",
 		"terms": [
@@ -2539,8 +2539,8 @@
 	},
 	{
 		"id": "sort-desc",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Sort Descending",
 		"terms": [
@@ -2554,8 +2554,8 @@
 	},
 	{
 		"id": "sort-asc",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Sort Ascending",
 		"terms": [
@@ -2566,8 +2566,8 @@
 	},
 	{
 		"id": "envelope",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Envelope",
 		"terms": [
@@ -2583,8 +2583,8 @@
 	},
 	{
 		"id": "linkedin",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "LinkedIn",
 		"terms": [],
@@ -2592,8 +2592,8 @@
 	},
 	{
 		"id": "undo",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Undo",
 		"terms": [
@@ -2604,8 +2604,8 @@
 	},
 	{
 		"id": "gavel",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Gavel",
 		"terms": [
@@ -2618,8 +2618,8 @@
 	},
 	{
 		"id": "tachometer",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Tachometer",
 		"terms": [
@@ -2631,8 +2631,8 @@
 	},
 	{
 		"id": "comment-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "comment-o",
 		"terms": [
@@ -2651,8 +2651,8 @@
 	},
 	{
 		"id": "comments-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "comments-o",
 		"terms": [
@@ -2671,8 +2671,8 @@
 	},
 	{
 		"id": "bolt",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Lightning Bolt",
 		"terms": [
@@ -2684,8 +2684,8 @@
 	},
 	{
 		"id": "sitemap",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Sitemap",
 		"terms": [
@@ -2697,8 +2697,8 @@
 	},
 	{
 		"id": "umbrella",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Umbrella",
 		"terms": [],
@@ -2706,8 +2706,8 @@
 	},
 	{
 		"id": "clipboard",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Clipboard",
 		"terms": [
@@ -2718,8 +2718,8 @@
 	},
 	{
 		"id": "lightbulb-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Lightbulb Outlined",
 		"terms": [
@@ -2730,8 +2730,8 @@
 	},
 	{
 		"id": "exchange",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Exchange",
 		"terms": [
@@ -2743,8 +2743,8 @@
 	},
 	{
 		"id": "cloud-download",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Cloud Download",
 		"terms": [
@@ -2754,8 +2754,8 @@
 	},
 	{
 		"id": "cloud-upload",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Cloud Upload",
 		"terms": [
@@ -2765,8 +2765,8 @@
 	},
 	{
 		"id": "user-md",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "user-md",
 		"terms": [
@@ -2779,8 +2779,8 @@
 	},
 	{
 		"id": "stethoscope",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Stethoscope",
 		"terms": [],
@@ -2788,8 +2788,8 @@
 	},
 	{
 		"id": "suitcase",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Suitcase",
 		"terms": [
@@ -2803,8 +2803,8 @@
 	},
 	{
 		"id": "bell-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Bell Outlined",
 		"terms": [
@@ -2816,8 +2816,8 @@
 	},
 	{
 		"id": "coffee",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Coffee",
 		"terms": [
@@ -2832,8 +2832,8 @@
 	},
 	{
 		"id": "cutlery",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Cutlery",
 		"terms": [
@@ -2848,8 +2848,8 @@
 	},
 	{
 		"id": "file-text-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "File Text Outlined",
 		"terms": [
@@ -2862,8 +2862,8 @@
 	},
 	{
 		"id": "building-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Building Outlined",
 		"terms": [
@@ -2877,8 +2877,8 @@
 	},
 	{
 		"id": "hospital-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "hospital Outlined",
 		"terms": [
@@ -2888,8 +2888,8 @@
 	},
 	{
 		"id": "ambulance",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "ambulance",
 		"terms": [
@@ -2901,8 +2901,8 @@
 	},
 	{
 		"id": "medkit",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "medkit",
 		"terms": [
@@ -2916,8 +2916,8 @@
 	},
 	{
 		"id": "fighter-jet",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "fighter-jet",
 		"terms": [
@@ -2932,8 +2932,8 @@
 	},
 	{
 		"id": "beer",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "beer",
 		"terms": [
@@ -2948,8 +2948,8 @@
 	},
 	{
 		"id": "h-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "H Square",
 		"terms": [
@@ -2960,8 +2960,8 @@
 	},
 	{
 		"id": "plus-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Plus Square",
 		"terms": [
@@ -2974,8 +2974,8 @@
 	},
 	{
 		"id": "angle-double-left",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Angle Double Left",
 		"terms": [
@@ -2989,8 +2989,8 @@
 	},
 	{
 		"id": "angle-double-right",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Angle Double Right",
 		"terms": [
@@ -3004,8 +3004,8 @@
 	},
 	{
 		"id": "angle-double-up",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Angle Double Up",
 		"terms": [
@@ -3015,8 +3015,8 @@
 	},
 	{
 		"id": "angle-double-down",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Angle Double Down",
 		"terms": [
@@ -3026,8 +3026,8 @@
 	},
 	{
 		"id": "angle-left",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "angle-left",
 		"terms": [
@@ -3039,8 +3039,8 @@
 	},
 	{
 		"id": "angle-right",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "angle-right",
 		"terms": [
@@ -3052,8 +3052,8 @@
 	},
 	{
 		"id": "angle-up",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "angle-up",
 		"terms": [
@@ -3063,8 +3063,8 @@
 	},
 	{
 		"id": "angle-down",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "angle-down",
 		"terms": [
@@ -3074,8 +3074,8 @@
 	},
 	{
 		"id": "desktop",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Desktop",
 		"terms": [
@@ -3090,8 +3090,8 @@
 	},
 	{
 		"id": "laptop",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Laptop",
 		"terms": [
@@ -3103,8 +3103,8 @@
 	},
 	{
 		"id": "tablet",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "tablet",
 		"terms": [
@@ -3115,8 +3115,8 @@
 	},
 	{
 		"id": "mobile",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Mobile Phone",
 		"terms": [
@@ -3133,8 +3133,8 @@
 	},
 	{
 		"id": "circle-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Circle Outlined",
 		"terms": [],
@@ -3142,8 +3142,8 @@
 	},
 	{
 		"id": "quote-left",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "quote-left",
 		"terms": [],
@@ -3151,8 +3151,8 @@
 	},
 	{
 		"id": "quote-right",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "quote-right",
 		"terms": [],
@@ -3160,8 +3160,8 @@
 	},
 	{
 		"id": "spinner",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Spinner",
 		"terms": [
@@ -3172,8 +3172,8 @@
 	},
 	{
 		"id": "circle",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Circle",
 		"terms": [
@@ -3184,8 +3184,8 @@
 	},
 	{
 		"id": "reply",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Reply",
 		"terms": [
@@ -3195,8 +3195,8 @@
 	},
 	{
 		"id": "github-alt",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "GitHub Alt",
 		"terms": [
@@ -3206,8 +3206,8 @@
 	},
 	{
 		"id": "folder-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Folder Outlined",
 		"terms": [],
@@ -3215,8 +3215,8 @@
 	},
 	{
 		"id": "folder-open-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Folder Open Outlined",
 		"terms": [],
@@ -3224,8 +3224,8 @@
 	},
 	{
 		"id": "smile-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Smile Outlined",
 		"terms": [
@@ -3240,8 +3240,8 @@
 	},
 	{
 		"id": "frown-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Frown Outlined",
 		"terms": [
@@ -3255,8 +3255,8 @@
 	},
 	{
 		"id": "meh-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Meh Outlined",
 		"terms": [
@@ -3269,8 +3269,8 @@
 	},
 	{
 		"id": "gamepad",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Gamepad",
 		"terms": [
@@ -3280,8 +3280,8 @@
 	},
 	{
 		"id": "keyboard-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Keyboard Outlined",
 		"terms": [
@@ -3292,8 +3292,8 @@
 	},
 	{
 		"id": "flag-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Flag Outlined",
 		"terms": [
@@ -3304,8 +3304,8 @@
 	},
 	{
 		"id": "flag-checkered",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "flag-checkered",
 		"terms": [
@@ -3317,8 +3317,8 @@
 	},
 	{
 		"id": "terminal",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Terminal",
 		"terms": [
@@ -3330,8 +3330,8 @@
 	},
 	{
 		"id": "code",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Code",
 		"terms": [
@@ -3342,8 +3342,8 @@
 	},
 	{
 		"id": "reply-all",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "reply-all",
 		"terms": [
@@ -3353,8 +3353,8 @@
 	},
 	{
 		"id": "star-half-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Star Half Outlined",
 		"terms": [
@@ -3369,8 +3369,8 @@
 	},
 	{
 		"id": "location-arrow",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "location-arrow",
 		"terms": [
@@ -3385,8 +3385,8 @@
 	},
 	{
 		"id": "crop",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "crop",
 		"terms": [],
@@ -3394,8 +3394,8 @@
 	},
 	{
 		"id": "code-fork",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "code-fork",
 		"terms": [
@@ -3412,8 +3412,8 @@
 	},
 	{
 		"id": "chain-broken",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Chain Broken",
 		"terms": [
@@ -3424,8 +3424,8 @@
 	},
 	{
 		"id": "question",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Question",
 		"terms": [
@@ -3438,8 +3438,8 @@
 	},
 	{
 		"id": "info",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Info",
 		"terms": [
@@ -3452,8 +3452,8 @@
 	},
 	{
 		"id": "exclamation",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "exclamation",
 		"terms": [
@@ -3468,8 +3468,8 @@
 	},
 	{
 		"id": "superscript",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "superscript",
 		"terms": [
@@ -3479,8 +3479,8 @@
 	},
 	{
 		"id": "subscript",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "subscript",
 		"terms": [],
@@ -3488,8 +3488,8 @@
 	},
 	{
 		"id": "eraser",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "eraser",
 		"terms": [
@@ -3500,8 +3500,8 @@
 	},
 	{
 		"id": "puzzle-piece",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Puzzle Piece",
 		"terms": [
@@ -3513,8 +3513,8 @@
 	},
 	{
 		"id": "microphone",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "microphone",
 		"terms": [
@@ -3526,8 +3526,8 @@
 	},
 	{
 		"id": "microphone-slash",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Microphone Slash",
 		"terms": [
@@ -3540,8 +3540,8 @@
 	},
 	{
 		"id": "shield",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "shield",
 		"terms": [
@@ -3554,8 +3554,8 @@
 	},
 	{
 		"id": "calendar-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "calendar-o",
 		"terms": [
@@ -3568,8 +3568,8 @@
 	},
 	{
 		"id": "fire-extinguisher",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "fire-extinguisher",
 		"terms": [],
@@ -3577,8 +3577,8 @@
 	},
 	{
 		"id": "rocket",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "rocket",
 		"terms": [
@@ -3588,8 +3588,8 @@
 	},
 	{
 		"id": "maxcdn",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "MaxCDN",
 		"terms": [],
@@ -3597,8 +3597,8 @@
 	},
 	{
 		"id": "chevron-circle-left",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Chevron Circle Left",
 		"terms": [
@@ -3610,8 +3610,8 @@
 	},
 	{
 		"id": "chevron-circle-right",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Chevron Circle Right",
 		"terms": [
@@ -3623,8 +3623,8 @@
 	},
 	{
 		"id": "chevron-circle-up",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Chevron Circle Up",
 		"terms": [
@@ -3634,8 +3634,8 @@
 	},
 	{
 		"id": "chevron-circle-down",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Chevron Circle Down",
 		"terms": [
@@ -3648,8 +3648,8 @@
 	},
 	{
 		"id": "html5",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "HTML 5 Logo",
 		"terms": [],
@@ -3657,8 +3657,8 @@
 	},
 	{
 		"id": "css3",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "CSS 3 Logo",
 		"terms": [
@@ -3668,8 +3668,8 @@
 	},
 	{
 		"id": "anchor",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Anchor",
 		"terms": [
@@ -3679,8 +3679,8 @@
 	},
 	{
 		"id": "unlock-alt",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Unlock Alt",
 		"terms": [
@@ -3693,8 +3693,8 @@
 	},
 	{
 		"id": "bullseye",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Bullseye",
 		"terms": [
@@ -3704,8 +3704,8 @@
 	},
 	{
 		"id": "ellipsis-h",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Ellipsis Horizontal",
 		"terms": [
@@ -3715,8 +3715,8 @@
 	},
 	{
 		"id": "ellipsis-v",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Ellipsis Vertical",
 		"terms": [
@@ -3726,8 +3726,8 @@
 	},
 	{
 		"id": "rss-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "RSS Square",
 		"terms": [
@@ -3738,8 +3738,8 @@
 	},
 	{
 		"id": "play-circle",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Play Circle",
 		"terms": [
@@ -3750,8 +3750,8 @@
 	},
 	{
 		"id": "ticket",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Ticket",
 		"terms": [
@@ -3763,8 +3763,8 @@
 	},
 	{
 		"id": "minus-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Minus Square",
 		"terms": [
@@ -3779,8 +3779,8 @@
 	},
 	{
 		"id": "minus-square-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Minus Square Outlined",
 		"terms": [
@@ -3795,8 +3795,8 @@
 	},
 	{
 		"id": "level-up",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Level Up",
 		"terms": [
@@ -3806,8 +3806,8 @@
 	},
 	{
 		"id": "level-down",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Level Down",
 		"terms": [
@@ -3817,8 +3817,8 @@
 	},
 	{
 		"id": "check-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Check Square",
 		"terms": [
@@ -3834,8 +3834,8 @@
 	},
 	{
 		"id": "pencil-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Pencil Square",
 		"terms": [
@@ -3847,8 +3847,8 @@
 	},
 	{
 		"id": "external-link-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "External Link Square",
 		"terms": [
@@ -3859,8 +3859,8 @@
 	},
 	{
 		"id": "share-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Share Square",
 		"terms": [
@@ -3871,8 +3871,8 @@
 	},
 	{
 		"id": "compass",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Compass",
 		"terms": [
@@ -3885,8 +3885,8 @@
 	},
 	{
 		"id": "caret-square-o-down",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Caret Square Outlined Down",
 		"terms": [
@@ -3899,8 +3899,8 @@
 	},
 	{
 		"id": "caret-square-o-up",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Caret Square Outlined Up",
 		"terms": [
@@ -3910,8 +3910,8 @@
 	},
 	{
 		"id": "caret-square-o-right",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Caret Square Outlined Right",
 		"terms": [
@@ -3923,8 +3923,8 @@
 	},
 	{
 		"id": "eur",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Euro (EUR)",
 		"terms": [
@@ -3934,8 +3934,8 @@
 	},
 	{
 		"id": "gbp",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "GBP",
 		"terms": [],
@@ -3943,8 +3943,8 @@
 	},
 	{
 		"id": "usd",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "US Dollar",
 		"terms": [
@@ -3954,8 +3954,8 @@
 	},
 	{
 		"id": "inr",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Indian Rupee (INR)",
 		"terms": [
@@ -3965,8 +3965,8 @@
 	},
 	{
 		"id": "jpy",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Japanese Yen (JPY)",
 		"terms": [
@@ -3978,8 +3978,8 @@
 	},
 	{
 		"id": "rub",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Russian Ruble (RUB)",
 		"terms": [
@@ -3990,8 +3990,8 @@
 	},
 	{
 		"id": "krw",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Korean Won (KRW)",
 		"terms": [
@@ -4001,8 +4001,8 @@
 	},
 	{
 		"id": "btc",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Bitcoin (BTC)",
 		"terms": [
@@ -4012,8 +4012,8 @@
 	},
 	{
 		"id": "file",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "File",
 		"terms": [
@@ -4026,8 +4026,8 @@
 	},
 	{
 		"id": "file-text",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "File Text",
 		"terms": [
@@ -4040,8 +4040,8 @@
 	},
 	{
 		"id": "sort-alpha-asc",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Sort Alpha Ascending",
 		"terms": [],
@@ -4049,8 +4049,8 @@
 	},
 	{
 		"id": "sort-alpha-desc",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Sort Alpha Descending",
 		"terms": [],
@@ -4058,8 +4058,8 @@
 	},
 	{
 		"id": "sort-amount-asc",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Sort Amount Ascending",
 		"terms": [],
@@ -4067,8 +4067,8 @@
 	},
 	{
 		"id": "sort-amount-desc",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Sort Amount Descending",
 		"terms": [],
@@ -4076,8 +4076,8 @@
 	},
 	{
 		"id": "sort-numeric-asc",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Sort Numeric Ascending",
 		"terms": [
@@ -4087,8 +4087,8 @@
 	},
 	{
 		"id": "sort-numeric-desc",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Sort Numeric Descending",
 		"terms": [
@@ -4098,8 +4098,8 @@
 	},
 	{
 		"id": "thumbs-up",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "thumbs-up",
 		"terms": [
@@ -4113,8 +4113,8 @@
 	},
 	{
 		"id": "thumbs-down",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "thumbs-down",
 		"terms": [
@@ -4127,8 +4127,8 @@
 	},
 	{
 		"id": "youtube-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "YouTube Square",
 		"terms": [
@@ -4139,8 +4139,8 @@
 	},
 	{
 		"id": "youtube",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "YouTube",
 		"terms": [
@@ -4151,8 +4151,8 @@
 	},
 	{
 		"id": "xing",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Xing",
 		"terms": [],
@@ -4160,8 +4160,8 @@
 	},
 	{
 		"id": "xing-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Xing Square",
 		"terms": [],
@@ -4169,8 +4169,8 @@
 	},
 	{
 		"id": "youtube-play",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "YouTube Play",
 		"terms": [
@@ -4181,8 +4181,8 @@
 	},
 	{
 		"id": "dropbox",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Dropbox",
 		"terms": [],
@@ -4190,8 +4190,8 @@
 	},
 	{
 		"id": "stack-overflow",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Stack Overflow",
 		"terms": [],
@@ -4199,8 +4199,8 @@
 	},
 	{
 		"id": "instagram",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Instagram",
 		"terms": [],
@@ -4208,8 +4208,8 @@
 	},
 	{
 		"id": "flickr",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Flickr",
 		"terms": [],
@@ -4217,8 +4217,8 @@
 	},
 	{
 		"id": "adn",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "App.net",
 		"terms": [],
@@ -4226,8 +4226,8 @@
 	},
 	{
 		"id": "bitbucket",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Bitbucket",
 		"terms": [
@@ -4237,8 +4237,8 @@
 	},
 	{
 		"id": "bitbucket-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Bitbucket Square",
 		"terms": [
@@ -4248,8 +4248,8 @@
 	},
 	{
 		"id": "tumblr",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Tumblr",
 		"terms": [],
@@ -4257,8 +4257,8 @@
 	},
 	{
 		"id": "tumblr-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Tumblr Square",
 		"terms": [],
@@ -4266,8 +4266,8 @@
 	},
 	{
 		"id": "long-arrow-down",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Long Arrow Down",
 		"terms": [],
@@ -4275,8 +4275,8 @@
 	},
 	{
 		"id": "long-arrow-up",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Long Arrow Up",
 		"terms": [],
@@ -4284,8 +4284,8 @@
 	},
 	{
 		"id": "long-arrow-left",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Long Arrow Left",
 		"terms": [
@@ -4296,8 +4296,8 @@
 	},
 	{
 		"id": "long-arrow-right",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Long Arrow Right",
 		"terms": [],
@@ -4305,8 +4305,8 @@
 	},
 	{
 		"id": "apple",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Apple",
 		"terms": [
@@ -4317,8 +4317,8 @@
 	},
 	{
 		"id": "windows",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Windows",
 		"terms": [
@@ -4328,8 +4328,8 @@
 	},
 	{
 		"id": "android",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Android",
 		"terms": [
@@ -4339,8 +4339,8 @@
 	},
 	{
 		"id": "linux",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Linux",
 		"terms": [
@@ -4350,8 +4350,8 @@
 	},
 	{
 		"id": "dribbble",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Dribbble",
 		"terms": [],
@@ -4359,8 +4359,8 @@
 	},
 	{
 		"id": "skype",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Skype",
 		"terms": [],
@@ -4368,8 +4368,8 @@
 	},
 	{
 		"id": "foursquare",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Foursquare",
 		"terms": [],
@@ -4377,8 +4377,8 @@
 	},
 	{
 		"id": "trello",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Trello",
 		"terms": [],
@@ -4386,8 +4386,8 @@
 	},
 	{
 		"id": "female",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Female",
 		"terms": [
@@ -4400,8 +4400,8 @@
 	},
 	{
 		"id": "male",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Male",
 		"terms": [
@@ -4414,8 +4414,8 @@
 	},
 	{
 		"id": "gratipay",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Gratipay (Gittip)",
 		"terms": [
@@ -4429,8 +4429,8 @@
 	},
 	{
 		"id": "sun-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Sun Outlined",
 		"terms": [
@@ -4444,8 +4444,8 @@
 	},
 	{
 		"id": "moon-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Moon Outlined",
 		"terms": [
@@ -4457,8 +4457,8 @@
 	},
 	{
 		"id": "archive",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Archive",
 		"terms": [
@@ -4469,8 +4469,8 @@
 	},
 	{
 		"id": "bug",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Bug",
 		"terms": [
@@ -4481,8 +4481,8 @@
 	},
 	{
 		"id": "vk",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "VK",
 		"terms": [],
@@ -4490,8 +4490,8 @@
 	},
 	{
 		"id": "weibo",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Weibo",
 		"terms": [],
@@ -4499,8 +4499,8 @@
 	},
 	{
 		"id": "renren",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Renren",
 		"terms": [],
@@ -4508,8 +4508,8 @@
 	},
 	{
 		"id": "pagelines",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Pagelines",
 		"terms": [
@@ -4524,8 +4524,8 @@
 	},
 	{
 		"id": "stack-exchange",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Stack Exchange",
 		"terms": [],
@@ -4533,8 +4533,8 @@
 	},
 	{
 		"id": "arrow-circle-o-right",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Arrow Circle Outlined Right",
 		"terms": [
@@ -4545,8 +4545,8 @@
 	},
 	{
 		"id": "arrow-circle-o-left",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Arrow Circle Outlined Left",
 		"terms": [
@@ -4557,8 +4557,8 @@
 	},
 	{
 		"id": "caret-square-o-left",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Caret Square Outlined Left",
 		"terms": [
@@ -4570,8 +4570,8 @@
 	},
 	{
 		"id": "dot-circle-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Dot Circle Outlined",
 		"terms": [
@@ -4583,8 +4583,8 @@
 	},
 	{
 		"id": "wheelchair",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Wheelchair",
 		"terms": [
@@ -4595,8 +4595,8 @@
 	},
 	{
 		"id": "vimeo-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Vimeo Square",
 		"terms": [],
@@ -4604,8 +4604,8 @@
 	},
 	{
 		"id": "try",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Turkish Lira (TRY)",
 		"terms": [
@@ -4615,8 +4615,8 @@
 	},
 	{
 		"id": "plus-square-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Plus Square Outlined",
 		"terms": [
@@ -4629,8 +4629,8 @@
 	},
 	{
 		"id": "space-shuttle",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Space Shuttle",
 		"terms": [],
@@ -4638,8 +4638,8 @@
 	},
 	{
 		"id": "slack",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Slack Logo",
 		"terms": [
@@ -4651,8 +4651,8 @@
 	},
 	{
 		"id": "envelope-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Envelope Square",
 		"terms": [
@@ -4668,8 +4668,8 @@
 	},
 	{
 		"id": "wordpress",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "WordPress Logo",
 		"terms": [],
@@ -4677,8 +4677,8 @@
 	},
 	{
 		"id": "openid",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "OpenID",
 		"terms": [],
@@ -4686,8 +4686,8 @@
 	},
 	{
 		"id": "university",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "University",
 		"terms": [
@@ -4698,8 +4698,8 @@
 	},
 	{
 		"id": "graduation-cap",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Graduation Cap",
 		"terms": [
@@ -4712,8 +4712,8 @@
 	},
 	{
 		"id": "yahoo",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Yahoo Logo",
 		"terms": [],
@@ -4721,8 +4721,8 @@
 	},
 	{
 		"id": "google",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Google Logo",
 		"terms": [],
@@ -4730,8 +4730,8 @@
 	},
 	{
 		"id": "reddit",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "reddit Logo",
 		"terms": [],
@@ -4739,8 +4739,8 @@
 	},
 	{
 		"id": "reddit-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "reddit Square",
 		"terms": [],
@@ -4748,8 +4748,8 @@
 	},
 	{
 		"id": "stumbleupon-circle",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "StumbleUpon Circle",
 		"terms": [],
@@ -4757,8 +4757,8 @@
 	},
 	{
 		"id": "stumbleupon",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "StumbleUpon Logo",
 		"terms": [],
@@ -4766,8 +4766,8 @@
 	},
 	{
 		"id": "delicious",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Delicious Logo",
 		"terms": [],
@@ -4775,8 +4775,8 @@
 	},
 	{
 		"id": "digg",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Digg Logo",
 		"terms": [],
@@ -4784,8 +4784,8 @@
 	},
 	{
 		"id": "pied-piper-pp",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Pied Piper PP Logo (Old)",
 		"terms": [],
@@ -4793,8 +4793,8 @@
 	},
 	{
 		"id": "pied-piper-alt",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Pied Piper Alternate Logo",
 		"terms": [],
@@ -4802,8 +4802,8 @@
 	},
 	{
 		"id": "drupal",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Drupal Logo",
 		"terms": [],
@@ -4811,8 +4811,8 @@
 	},
 	{
 		"id": "joomla",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Joomla Logo",
 		"terms": [],
@@ -4820,8 +4820,8 @@
 	},
 	{
 		"id": "language",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Language",
 		"terms": [],
@@ -4829,8 +4829,8 @@
 	},
 	{
 		"id": "fax",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Fax",
 		"terms": [],
@@ -4838,8 +4838,8 @@
 	},
 	{
 		"id": "building",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Building",
 		"terms": [
@@ -4853,8 +4853,8 @@
 	},
 	{
 		"id": "child",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Child",
 		"terms": [],
@@ -4862,8 +4862,8 @@
 	},
 	{
 		"id": "paw",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Paw",
 		"terms": [
@@ -4873,8 +4873,8 @@
 	},
 	{
 		"id": "spoon",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "spoon",
 		"terms": [],
@@ -4882,8 +4882,8 @@
 	},
 	{
 		"id": "cube",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Cube",
 		"terms": [],
@@ -4891,8 +4891,8 @@
 	},
 	{
 		"id": "cubes",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Cubes",
 		"terms": [],
@@ -4900,8 +4900,8 @@
 	},
 	{
 		"id": "behance",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Behance",
 		"terms": [],
@@ -4909,8 +4909,8 @@
 	},
 	{
 		"id": "behance-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Behance Square",
 		"terms": [],
@@ -4918,8 +4918,8 @@
 	},
 	{
 		"id": "steam",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Steam",
 		"terms": [],
@@ -4927,8 +4927,8 @@
 	},
 	{
 		"id": "steam-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Steam Square",
 		"terms": [],
@@ -4936,8 +4936,8 @@
 	},
 	{
 		"id": "recycle",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Recycle",
 		"terms": [],
@@ -4945,8 +4945,8 @@
 	},
 	{
 		"id": "car",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Car",
 		"terms": [
@@ -4957,8 +4957,8 @@
 	},
 	{
 		"id": "taxi",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Taxi",
 		"terms": [
@@ -4969,8 +4969,8 @@
 	},
 	{
 		"id": "tree",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Tree",
 		"terms": [],
@@ -4978,8 +4978,8 @@
 	},
 	{
 		"id": "spotify",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Spotify",
 		"terms": [],
@@ -4987,8 +4987,8 @@
 	},
 	{
 		"id": "deviantart",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "deviantART",
 		"terms": [],
@@ -4996,8 +4996,8 @@
 	},
 	{
 		"id": "soundcloud",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "SoundCloud",
 		"terms": [],
@@ -5005,8 +5005,8 @@
 	},
 	{
 		"id": "database",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Database",
 		"terms": [],
@@ -5014,8 +5014,8 @@
 	},
 	{
 		"id": "file-pdf-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "PDF File Outlined",
 		"terms": [],
@@ -5023,8 +5023,8 @@
 	},
 	{
 		"id": "file-word-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Word File Outlined",
 		"terms": [],
@@ -5032,8 +5032,8 @@
 	},
 	{
 		"id": "file-excel-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Excel File Outlined",
 		"terms": [],
@@ -5041,8 +5041,8 @@
 	},
 	{
 		"id": "file-powerpoint-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Powerpoint File Outlined",
 		"terms": [],
@@ -5050,8 +5050,8 @@
 	},
 	{
 		"id": "file-image-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Image File Outlined",
 		"terms": [
@@ -5062,8 +5062,8 @@
 	},
 	{
 		"id": "file-archive-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Archive File Outlined",
 		"terms": [
@@ -5073,8 +5073,8 @@
 	},
 	{
 		"id": "file-audio-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Audio File Outlined",
 		"terms": [
@@ -5084,8 +5084,8 @@
 	},
 	{
 		"id": "file-video-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Video File Outlined",
 		"terms": [
@@ -5095,8 +5095,8 @@
 	},
 	{
 		"id": "file-code-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Code File Outlined",
 		"terms": [],
@@ -5104,8 +5104,8 @@
 	},
 	{
 		"id": "vine",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Vine",
 		"terms": [],
@@ -5113,8 +5113,8 @@
 	},
 	{
 		"id": "codepen",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Codepen",
 		"terms": [],
@@ -5122,8 +5122,8 @@
 	},
 	{
 		"id": "jsfiddle",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "jsFiddle",
 		"terms": [],
@@ -5131,8 +5131,8 @@
 	},
 	{
 		"id": "life-ring",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Life Ring",
 		"terms": [
@@ -5147,8 +5147,8 @@
 	},
 	{
 		"id": "circle-o-notch",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Circle Outlined Notched",
 		"terms": [],
@@ -5156,8 +5156,8 @@
 	},
 	{
 		"id": "rebel",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Rebel Alliance",
 		"terms": [
@@ -5168,8 +5168,8 @@
 	},
 	{
 		"id": "empire",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Galactic Empire",
 		"terms": [
@@ -5179,8 +5179,8 @@
 	},
 	{
 		"id": "git-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Git Square",
 		"terms": [],
@@ -5188,8 +5188,8 @@
 	},
 	{
 		"id": "git",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Git",
 		"terms": [],
@@ -5197,8 +5197,8 @@
 	},
 	{
 		"id": "hacker-news",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Hacker News",
 		"terms": [
@@ -5209,8 +5209,8 @@
 	},
 	{
 		"id": "tencent-weibo",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Tencent Weibo",
 		"terms": [],
@@ -5218,8 +5218,8 @@
 	},
 	{
 		"id": "qq",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "QQ",
 		"terms": [],
@@ -5227,8 +5227,8 @@
 	},
 	{
 		"id": "weixin",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Weixin (WeChat)",
 		"terms": [
@@ -5238,8 +5238,8 @@
 	},
 	{
 		"id": "paper-plane",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Paper Plane",
 		"terms": [
@@ -5249,8 +5249,8 @@
 	},
 	{
 		"id": "paper-plane-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Paper Plane Outlined",
 		"terms": [
@@ -5260,8 +5260,8 @@
 	},
 	{
 		"id": "history",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "History",
 		"terms": [],
@@ -5269,8 +5269,8 @@
 	},
 	{
 		"id": "circle-thin",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Circle Outlined Thin",
 		"terms": [],
@@ -5278,8 +5278,8 @@
 	},
 	{
 		"id": "header",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "header",
 		"terms": [
@@ -5289,8 +5289,8 @@
 	},
 	{
 		"id": "paragraph",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "paragraph",
 		"terms": [],
@@ -5298,8 +5298,8 @@
 	},
 	{
 		"id": "sliders",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Sliders",
 		"terms": [
@@ -5309,8 +5309,8 @@
 	},
 	{
 		"id": "share-alt",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Share Alt",
 		"terms": [],
@@ -5318,8 +5318,8 @@
 	},
 	{
 		"id": "share-alt-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Share Alt Square",
 		"terms": [],
@@ -5327,8 +5327,8 @@
 	},
 	{
 		"id": "bomb",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Bomb",
 		"terms": [],
@@ -5336,8 +5336,8 @@
 	},
 	{
 		"id": "futbol-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Futbol Outlined",
 		"terms": [
@@ -5347,8 +5347,8 @@
 	},
 	{
 		"id": "tty",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "TTY",
 		"terms": [],
@@ -5356,8 +5356,8 @@
 	},
 	{
 		"id": "binoculars",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Binoculars",
 		"terms": [],
@@ -5365,8 +5365,8 @@
 	},
 	{
 		"id": "plug",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Plug",
 		"terms": [
@@ -5377,8 +5377,8 @@
 	},
 	{
 		"id": "slideshare",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Slideshare",
 		"terms": [],
@@ -5386,8 +5386,8 @@
 	},
 	{
 		"id": "twitch",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Twitch",
 		"terms": [],
@@ -5395,8 +5395,8 @@
 	},
 	{
 		"id": "yelp",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Yelp",
 		"terms": [],
@@ -5404,8 +5404,8 @@
 	},
 	{
 		"id": "newspaper-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Newspaper Outlined",
 		"terms": [
@@ -5415,8 +5415,8 @@
 	},
 	{
 		"id": "wifi",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "WiFi",
 		"terms": [],
@@ -5424,8 +5424,8 @@
 	},
 	{
 		"id": "calculator",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Calculator",
 		"terms": [],
@@ -5433,8 +5433,8 @@
 	},
 	{
 		"id": "paypal",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Paypal",
 		"terms": [],
@@ -5442,8 +5442,8 @@
 	},
 	{
 		"id": "google-wallet",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Google Wallet",
 		"terms": [],
@@ -5451,8 +5451,8 @@
 	},
 	{
 		"id": "cc-visa",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Visa Credit Card",
 		"terms": [],
@@ -5460,8 +5460,8 @@
 	},
 	{
 		"id": "cc-mastercard",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "MasterCard Credit Card",
 		"terms": [],
@@ -5469,8 +5469,8 @@
 	},
 	{
 		"id": "cc-discover",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Discover Credit Card",
 		"terms": [],
@@ -5478,8 +5478,8 @@
 	},
 	{
 		"id": "cc-amex",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "American Express Credit Card",
 		"terms": [
@@ -5489,8 +5489,8 @@
 	},
 	{
 		"id": "cc-paypal",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Paypal Credit Card",
 		"terms": [],
@@ -5498,8 +5498,8 @@
 	},
 	{
 		"id": "cc-stripe",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Stripe Credit Card",
 		"terms": [],
@@ -5507,8 +5507,8 @@
 	},
 	{
 		"id": "bell-slash",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Bell Slash",
 		"terms": [],
@@ -5516,8 +5516,8 @@
 	},
 	{
 		"id": "bell-slash-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Bell Slash Outlined",
 		"terms": [],
@@ -5525,8 +5525,8 @@
 	},
 	{
 		"id": "trash",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Trash",
 		"terms": [
@@ -5539,8 +5539,8 @@
 	},
 	{
 		"id": "copyright",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Copyright",
 		"terms": [],
@@ -5548,8 +5548,8 @@
 	},
 	{
 		"id": "at",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "At",
 		"terms": [],
@@ -5557,8 +5557,8 @@
 	},
 	{
 		"id": "eyedropper",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Eyedropper",
 		"terms": [],
@@ -5566,8 +5566,8 @@
 	},
 	{
 		"id": "paint-brush",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Paint Brush",
 		"terms": [],
@@ -5575,8 +5575,8 @@
 	},
 	{
 		"id": "birthday-cake",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Birthday Cake",
 		"terms": [],
@@ -5584,8 +5584,8 @@
 	},
 	{
 		"id": "area-chart",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Area Chart",
 		"terms": [
@@ -5596,8 +5596,8 @@
 	},
 	{
 		"id": "pie-chart",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Pie Chart",
 		"terms": [
@@ -5608,8 +5608,8 @@
 	},
 	{
 		"id": "line-chart",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Line Chart",
 		"terms": [
@@ -5620,8 +5620,8 @@
 	},
 	{
 		"id": "lastfm",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "last.fm",
 		"terms": [],
@@ -5629,8 +5629,8 @@
 	},
 	{
 		"id": "lastfm-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "last.fm Square",
 		"terms": [],
@@ -5638,8 +5638,8 @@
 	},
 	{
 		"id": "toggle-off",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Toggle Off",
 		"terms": [],
@@ -5647,8 +5647,8 @@
 	},
 	{
 		"id": "toggle-on",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Toggle On",
 		"terms": [],
@@ -5656,8 +5656,8 @@
 	},
 	{
 		"id": "bicycle",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Bicycle",
 		"terms": [
@@ -5668,8 +5668,8 @@
 	},
 	{
 		"id": "bus",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Bus",
 		"terms": [
@@ -5679,8 +5679,8 @@
 	},
 	{
 		"id": "ioxhost",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "ioxhost",
 		"terms": [],
@@ -5688,8 +5688,8 @@
 	},
 	{
 		"id": "angellist",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "AngelList",
 		"terms": [],
@@ -5697,8 +5697,8 @@
 	},
 	{
 		"id": "cc",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Closed Captions",
 		"terms": [],
@@ -5706,8 +5706,8 @@
 	},
 	{
 		"id": "ils",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Shekel (ILS)",
 		"terms": [
@@ -5718,8 +5718,8 @@
 	},
 	{
 		"id": "meanpath",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "meanpath",
 		"terms": [],
@@ -5727,8 +5727,8 @@
 	},
 	{
 		"id": "buysellads",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "BuySellAds",
 		"terms": [],
@@ -5736,8 +5736,8 @@
 	},
 	{
 		"id": "connectdevelop",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Connect Develop",
 		"terms": [],
@@ -5745,8 +5745,8 @@
 	},
 	{
 		"id": "dashcube",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "DashCube",
 		"terms": [],
@@ -5754,8 +5754,8 @@
 	},
 	{
 		"id": "forumbee",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Forumbee",
 		"terms": [],
@@ -5763,8 +5763,8 @@
 	},
 	{
 		"id": "leanpub",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Leanpub",
 		"terms": [],
@@ -5772,8 +5772,8 @@
 	},
 	{
 		"id": "sellsy",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Sellsy",
 		"terms": [],
@@ -5781,8 +5781,8 @@
 	},
 	{
 		"id": "shirtsinbulk",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Shirts in Bulk",
 		"terms": [],
@@ -5790,8 +5790,8 @@
 	},
 	{
 		"id": "simplybuilt",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "SimplyBuilt",
 		"terms": [],
@@ -5799,8 +5799,8 @@
 	},
 	{
 		"id": "skyatlas",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "skyatlas",
 		"terms": [],
@@ -5808,8 +5808,8 @@
 	},
 	{
 		"id": "cart-plus",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Add to Shopping Cart",
 		"terms": [
@@ -5820,8 +5820,8 @@
 	},
 	{
 		"id": "cart-arrow-down",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Shopping Cart Arrow Down",
 		"terms": [
@@ -5831,8 +5831,8 @@
 	},
 	{
 		"id": "diamond",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Diamond",
 		"terms": [
@@ -5843,8 +5843,8 @@
 	},
 	{
 		"id": "ship",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Ship",
 		"terms": [
@@ -5855,8 +5855,8 @@
 	},
 	{
 		"id": "user-secret",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "User Secret",
 		"terms": [
@@ -5869,8 +5869,8 @@
 	},
 	{
 		"id": "motorcycle",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Motorcycle",
 		"terms": [
@@ -5881,8 +5881,8 @@
 	},
 	{
 		"id": "street-view",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Street View",
 		"terms": [
@@ -5892,8 +5892,8 @@
 	},
 	{
 		"id": "heartbeat",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Heartbeat",
 		"terms": [
@@ -5903,8 +5903,8 @@
 	},
 	{
 		"id": "venus",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Venus",
 		"terms": [
@@ -5914,8 +5914,8 @@
 	},
 	{
 		"id": "mars",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Mars",
 		"terms": [
@@ -5925,8 +5925,8 @@
 	},
 	{
 		"id": "mercury",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Mercury",
 		"terms": [
@@ -5936,8 +5936,8 @@
 	},
 	{
 		"id": "transgender",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Transgender",
 		"terms": [
@@ -5947,8 +5947,8 @@
 	},
 	{
 		"id": "transgender-alt",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Transgender Alt",
 		"terms": [],
@@ -5956,8 +5956,8 @@
 	},
 	{
 		"id": "venus-double",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Venus Double",
 		"terms": [],
@@ -5965,8 +5965,8 @@
 	},
 	{
 		"id": "mars-double",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Mars Double",
 		"terms": [],
@@ -5974,8 +5974,8 @@
 	},
 	{
 		"id": "venus-mars",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Venus Mars",
 		"terms": [],
@@ -5983,8 +5983,8 @@
 	},
 	{
 		"id": "mars-stroke",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Mars Stroke",
 		"terms": [],
@@ -5992,8 +5992,8 @@
 	},
 	{
 		"id": "mars-stroke-v",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Mars Stroke Vertical",
 		"terms": [],
@@ -6001,8 +6001,8 @@
 	},
 	{
 		"id": "mars-stroke-h",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Mars Stroke Horizontal",
 		"terms": [],
@@ -6010,8 +6010,8 @@
 	},
 	{
 		"id": "neuter",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Neuter",
 		"terms": [],
@@ -6019,8 +6019,8 @@
 	},
 	{
 		"id": "genderless",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Genderless",
 		"terms": [],
@@ -6028,8 +6028,8 @@
 	},
 	{
 		"id": "facebook-official",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Facebook Official",
 		"terms": [],
@@ -6037,8 +6037,8 @@
 	},
 	{
 		"id": "pinterest-p",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Pinterest P",
 		"terms": [],
@@ -6046,8 +6046,8 @@
 	},
 	{
 		"id": "whatsapp",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "What's App",
 		"terms": [],
@@ -6055,8 +6055,8 @@
 	},
 	{
 		"id": "server",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Server",
 		"terms": [],
@@ -6064,8 +6064,8 @@
 	},
 	{
 		"id": "user-plus",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Add User",
 		"terms": [
@@ -6076,8 +6076,8 @@
 	},
 	{
 		"id": "user-times",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Remove User",
 		"terms": [],
@@ -6085,8 +6085,8 @@
 	},
 	{
 		"id": "bed",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Bed",
 		"terms": [
@@ -6097,8 +6097,8 @@
 	},
 	{
 		"id": "viacoin",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Viacoin",
 		"terms": [],
@@ -6106,8 +6106,8 @@
 	},
 	{
 		"id": "train",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Train",
 		"terms": [],
@@ -6115,8 +6115,8 @@
 	},
 	{
 		"id": "subway",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Subway",
 		"terms": [],
@@ -6124,8 +6124,8 @@
 	},
 	{
 		"id": "medium",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Medium",
 		"terms": [],
@@ -6133,8 +6133,8 @@
 	},
 	{
 		"id": "y-combinator",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Y Combinator",
 		"terms": [
@@ -6144,8 +6144,8 @@
 	},
 	{
 		"id": "optin-monster",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Optin Monster",
 		"terms": [],
@@ -6153,8 +6153,8 @@
 	},
 	{
 		"id": "opencart",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "OpenCart",
 		"terms": [],
@@ -6162,8 +6162,8 @@
 	},
 	{
 		"id": "expeditedssl",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "ExpeditedSSL",
 		"terms": [],
@@ -6171,8 +6171,8 @@
 	},
 	{
 		"id": "battery-full",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Battery Full",
 		"terms": [
@@ -6184,8 +6184,8 @@
 	},
 	{
 		"id": "battery-three-quarters",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Battery 3/4 Full",
 		"terms": [
@@ -6196,8 +6196,8 @@
 	},
 	{
 		"id": "battery-half",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Battery 1/2 Full",
 		"terms": [
@@ -6208,8 +6208,8 @@
 	},
 	{
 		"id": "battery-quarter",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Battery 1/4 Full",
 		"terms": [
@@ -6220,8 +6220,8 @@
 	},
 	{
 		"id": "battery-empty",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Battery Empty",
 		"terms": [
@@ -6232,8 +6232,8 @@
 	},
 	{
 		"id": "mouse-pointer",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Mouse Pointer",
 		"terms": [],
@@ -6241,8 +6241,8 @@
 	},
 	{
 		"id": "i-cursor",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "I Beam Cursor",
 		"terms": [],
@@ -6250,8 +6250,8 @@
 	},
 	{
 		"id": "object-group",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Object Group",
 		"terms": [],
@@ -6259,8 +6259,8 @@
 	},
 	{
 		"id": "object-ungroup",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Object Ungroup",
 		"terms": [],
@@ -6268,8 +6268,8 @@
 	},
 	{
 		"id": "sticky-note",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Sticky Note",
 		"terms": [],
@@ -6277,8 +6277,8 @@
 	},
 	{
 		"id": "sticky-note-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Sticky Note Outlined",
 		"terms": [],
@@ -6286,8 +6286,8 @@
 	},
 	{
 		"id": "cc-jcb",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "JCB Credit Card",
 		"terms": [],
@@ -6295,8 +6295,8 @@
 	},
 	{
 		"id": "cc-diners-club",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Diner's Club Credit Card",
 		"terms": [],
@@ -6304,8 +6304,8 @@
 	},
 	{
 		"id": "clone",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Clone",
 		"terms": [
@@ -6315,8 +6315,8 @@
 	},
 	{
 		"id": "balance-scale",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Balance Scale",
 		"terms": [],
@@ -6324,8 +6324,8 @@
 	},
 	{
 		"id": "hourglass-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Hourglass Outlined",
 		"terms": [],
@@ -6333,8 +6333,8 @@
 	},
 	{
 		"id": "hourglass-start",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Hourglass Start",
 		"terms": [
@@ -6344,8 +6344,8 @@
 	},
 	{
 		"id": "hourglass-half",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Hourglass Half",
 		"terms": [
@@ -6355,8 +6355,8 @@
 	},
 	{
 		"id": "hourglass-end",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Hourglass End",
 		"terms": [
@@ -6366,8 +6366,8 @@
 	},
 	{
 		"id": "hourglass",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Hourglass",
 		"terms": [],
@@ -6375,8 +6375,8 @@
 	},
 	{
 		"id": "hand-rock-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Rock (Hand)",
 		"terms": [
@@ -6386,8 +6386,8 @@
 	},
 	{
 		"id": "hand-paper-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Paper (Hand)",
 		"terms": [
@@ -6398,8 +6398,8 @@
 	},
 	{
 		"id": "hand-scissors-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Scissors (Hand)",
 		"terms": [],
@@ -6407,8 +6407,8 @@
 	},
 	{
 		"id": "hand-lizard-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Lizard (Hand)",
 		"terms": [],
@@ -6416,8 +6416,8 @@
 	},
 	{
 		"id": "hand-spock-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Spock (Hand)",
 		"terms": [],
@@ -6425,8 +6425,8 @@
 	},
 	{
 		"id": "hand-pointer-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Hand Pointer",
 		"terms": [],
@@ -6434,8 +6434,8 @@
 	},
 	{
 		"id": "hand-peace-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Hand Peace",
 		"terms": [],
@@ -6443,8 +6443,8 @@
 	},
 	{
 		"id": "trademark",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Trademark",
 		"terms": [],
@@ -6452,8 +6452,8 @@
 	},
 	{
 		"id": "registered",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Registered Trademark",
 		"terms": [],
@@ -6461,8 +6461,8 @@
 	},
 	{
 		"id": "creative-commons",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Creative Commons",
 		"terms": [],
@@ -6470,8 +6470,8 @@
 	},
 	{
 		"id": "gg",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "GG Currency",
 		"terms": [],
@@ -6479,8 +6479,8 @@
 	},
 	{
 		"id": "gg-circle",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "GG Currency Circle",
 		"terms": [],
@@ -6488,8 +6488,8 @@
 	},
 	{
 		"id": "tripadvisor",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "TripAdvisor",
 		"terms": [],
@@ -6497,8 +6497,8 @@
 	},
 	{
 		"id": "odnoklassniki",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Odnoklassniki",
 		"terms": [],
@@ -6506,8 +6506,8 @@
 	},
 	{
 		"id": "odnoklassniki-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Odnoklassniki Square",
 		"terms": [],
@@ -6515,8 +6515,8 @@
 	},
 	{
 		"id": "get-pocket",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Get Pocket",
 		"terms": [],
@@ -6524,8 +6524,8 @@
 	},
 	{
 		"id": "wikipedia-w",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Wikipedia W",
 		"terms": [],
@@ -6533,8 +6533,8 @@
 	},
 	{
 		"id": "safari",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Safari",
 		"terms": [
@@ -6544,8 +6544,8 @@
 	},
 	{
 		"id": "chrome",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Chrome",
 		"terms": [
@@ -6555,8 +6555,8 @@
 	},
 	{
 		"id": "firefox",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Firefox",
 		"terms": [
@@ -6566,8 +6566,8 @@
 	},
 	{
 		"id": "opera",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Opera",
 		"terms": [],
@@ -6575,8 +6575,8 @@
 	},
 	{
 		"id": "internet-explorer",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Internet-explorer",
 		"terms": [
@@ -6587,8 +6587,8 @@
 	},
 	{
 		"id": "television",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Television",
 		"terms": [
@@ -6601,8 +6601,8 @@
 	},
 	{
 		"id": "contao",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Contao",
 		"terms": [],
@@ -6610,8 +6610,8 @@
 	},
 	{
 		"id": "500px",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "500px",
 		"terms": [],
@@ -6619,8 +6619,8 @@
 	},
 	{
 		"id": "amazon",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Amazon",
 		"terms": [],
@@ -6628,8 +6628,8 @@
 	},
 	{
 		"id": "calendar-plus-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Calendar Plus Outlined",
 		"terms": [],
@@ -6637,8 +6637,8 @@
 	},
 	{
 		"id": "calendar-minus-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Calendar Minus Outlined",
 		"terms": [],
@@ -6646,8 +6646,8 @@
 	},
 	{
 		"id": "calendar-times-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Calendar Times Outlined",
 		"terms": [],
@@ -6655,8 +6655,8 @@
 	},
 	{
 		"id": "calendar-check-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Calendar Check Outlined",
 		"terms": [
@@ -6666,8 +6666,8 @@
 	},
 	{
 		"id": "industry",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Industry",
 		"terms": [
@@ -6677,8 +6677,8 @@
 	},
 	{
 		"id": "map-pin",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Map Pin",
 		"terms": [],
@@ -6686,8 +6686,8 @@
 	},
 	{
 		"id": "map-signs",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Map Signs",
 		"terms": [],
@@ -6695,8 +6695,8 @@
 	},
 	{
 		"id": "map-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Map Outlined",
 		"terms": [],
@@ -6704,8 +6704,8 @@
 	},
 	{
 		"id": "map",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Map",
 		"terms": [],
@@ -6713,8 +6713,8 @@
 	},
 	{
 		"id": "commenting",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Commenting",
 		"terms": [
@@ -6733,8 +6733,8 @@
 	},
 	{
 		"id": "commenting-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Commenting Outlined",
 		"terms": [
@@ -6753,8 +6753,8 @@
 	},
 	{
 		"id": "houzz",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Houzz",
 		"terms": [],
@@ -6762,8 +6762,8 @@
 	},
 	{
 		"id": "vimeo",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Vimeo",
 		"terms": [],
@@ -6771,8 +6771,8 @@
 	},
 	{
 		"id": "black-tie",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Font Awesome Black Tie",
 		"terms": [],
@@ -6780,8 +6780,8 @@
 	},
 	{
 		"id": "fonticons",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Fonticons",
 		"terms": [],
@@ -6789,8 +6789,8 @@
 	},
 	{
 		"id": "reddit-alien",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "reddit Alien",
 		"terms": [],
@@ -6798,8 +6798,8 @@
 	},
 	{
 		"id": "edge",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Edge Browser",
 		"terms": [
@@ -6810,8 +6810,8 @@
 	},
 	{
 		"id": "credit-card-alt",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Credit Card",
 		"terms": [
@@ -6827,8 +6827,8 @@
 	},
 	{
 		"id": "codiepie",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Codie Pie",
 		"terms": [],
@@ -6836,8 +6836,8 @@
 	},
 	{
 		"id": "modx",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "MODX",
 		"terms": [],
@@ -6845,8 +6845,8 @@
 	},
 	{
 		"id": "fort-awesome",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Fort Awesome",
 		"terms": [],
@@ -6854,8 +6854,8 @@
 	},
 	{
 		"id": "usb",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "USB",
 		"terms": [],
@@ -6863,8 +6863,8 @@
 	},
 	{
 		"id": "product-hunt",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Product Hunt",
 		"terms": [],
@@ -6872,8 +6872,8 @@
 	},
 	{
 		"id": "mixcloud",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Mixcloud",
 		"terms": [],
@@ -6881,8 +6881,8 @@
 	},
 	{
 		"id": "scribd",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Scribd",
 		"terms": [],
@@ -6890,8 +6890,8 @@
 	},
 	{
 		"id": "pause-circle",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Pause Circle",
 		"terms": [],
@@ -6899,8 +6899,8 @@
 	},
 	{
 		"id": "pause-circle-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Pause Circle Outlined",
 		"terms": [],
@@ -6908,8 +6908,8 @@
 	},
 	{
 		"id": "stop-circle",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Stop Circle",
 		"terms": [],
@@ -6917,8 +6917,8 @@
 	},
 	{
 		"id": "stop-circle-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Stop Circle Outlined",
 		"terms": [],
@@ -6926,8 +6926,8 @@
 	},
 	{
 		"id": "shopping-bag",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Shopping Bag",
 		"terms": [],
@@ -6935,8 +6935,8 @@
 	},
 	{
 		"id": "shopping-basket",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Shopping Basket",
 		"terms": [],
@@ -6944,8 +6944,8 @@
 	},
 	{
 		"id": "hashtag",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Hashtag",
 		"terms": [],
@@ -6953,8 +6953,8 @@
 	},
 	{
 		"id": "bluetooth",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Bluetooth",
 		"terms": [],
@@ -6962,8 +6962,8 @@
 	},
 	{
 		"id": "bluetooth-b",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Bluetooth",
 		"terms": [],
@@ -6971,8 +6971,8 @@
 	},
 	{
 		"id": "percent",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Percent",
 		"terms": [],
@@ -6980,8 +6980,8 @@
 	},
 	{
 		"id": "gitlab",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "GitLab",
 		"terms": [],
@@ -6989,8 +6989,8 @@
 	},
 	{
 		"id": "wpbeginner",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "WPBeginner",
 		"terms": [],
@@ -6998,8 +6998,8 @@
 	},
 	{
 		"id": "wpforms",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "WPForms",
 		"terms": [],
@@ -7007,8 +7007,8 @@
 	},
 	{
 		"id": "envira",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Envira Gallery",
 		"terms": [
@@ -7018,8 +7018,8 @@
 	},
 	{
 		"id": "universal-access",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Universal Access",
 		"terms": [],
@@ -7027,8 +7027,8 @@
 	},
 	{
 		"id": "wheelchair-alt",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Wheelchair Alt",
 		"terms": [
@@ -7039,8 +7039,8 @@
 	},
 	{
 		"id": "question-circle-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Question Circle Outlined",
 		"terms": [],
@@ -7048,8 +7048,8 @@
 	},
 	{
 		"id": "blind",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Blind",
 		"terms": [],
@@ -7057,8 +7057,8 @@
 	},
 	{
 		"id": "audio-description",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Audio Description",
 		"terms": [],
@@ -7066,8 +7066,8 @@
 	},
 	{
 		"id": "volume-control-phone",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Volume Control Phone",
 		"terms": [
@@ -7077,8 +7077,8 @@
 	},
 	{
 		"id": "braille",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Braille",
 		"terms": [],
@@ -7086,8 +7086,8 @@
 	},
 	{
 		"id": "assistive-listening-systems",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Assistive Listening Systems",
 		"terms": [],
@@ -7095,8 +7095,8 @@
 	},
 	{
 		"id": "american-sign-language-interpreting",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "American Sign Language Interpreting",
 		"terms": [
@@ -7106,8 +7106,8 @@
 	},
 	{
 		"id": "deaf",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Deaf",
 		"terms": [
@@ -7118,8 +7118,8 @@
 	},
 	{
 		"id": "glide",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Glide",
 		"terms": [],
@@ -7127,8 +7127,8 @@
 	},
 	{
 		"id": "glide-g",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Glide G",
 		"terms": [],
@@ -7136,8 +7136,8 @@
 	},
 	{
 		"id": "sign-language",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Sign Language",
 		"terms": [
@@ -7147,8 +7147,8 @@
 	},
 	{
 		"id": "low-vision",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Low Vision",
 		"terms": [],
@@ -7156,8 +7156,8 @@
 	},
 	{
 		"id": "viadeo",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Viadeo",
 		"terms": [],
@@ -7165,8 +7165,8 @@
 	},
 	{
 		"id": "viadeo-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Viadeo Square",
 		"terms": [],
@@ -7174,8 +7174,8 @@
 	},
 	{
 		"id": "snapchat",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Snapchat",
 		"terms": [],
@@ -7183,8 +7183,8 @@
 	},
 	{
 		"id": "snapchat-ghost",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Snapchat Ghost",
 		"terms": [],
@@ -7192,8 +7192,8 @@
 	},
 	{
 		"id": "snapchat-square",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Snapchat Square",
 		"terms": [],
@@ -7201,8 +7201,8 @@
 	},
 	{
 		"id": "pied-piper",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Pied Piper Logo",
 		"terms": [],
@@ -7210,8 +7210,8 @@
 	},
 	{
 		"id": "first-order",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "First Order",
 		"terms": [],
@@ -7219,8 +7219,8 @@
 	},
 	{
 		"id": "yoast",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Yoast",
 		"terms": [],
@@ -7228,8 +7228,8 @@
 	},
 	{
 		"id": "themeisle",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "ThemeIsle",
 		"terms": [],
@@ -7237,8 +7237,8 @@
 	},
 	{
 		"id": "google-plus-official",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Google Plus Official",
 		"terms": [
@@ -7248,8 +7248,8 @@
 	},
 	{
 		"id": "font-awesome",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Font Awesome",
 		"terms": [
@@ -7259,8 +7259,8 @@
 	},
 	{
 		"id": "handshake-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Handshake Outlined",
 		"terms": [],
@@ -7268,8 +7268,8 @@
 	},
 	{
 		"id": "envelope-open",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Envelope Open",
 		"terms": [
@@ -7285,8 +7285,8 @@
 	},
 	{
 		"id": "envelope-open-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Envelope Open Outlined",
 		"terms": [
@@ -7302,8 +7302,8 @@
 	},
 	{
 		"id": "linode",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Linode",
 		"terms": [],
@@ -7311,8 +7311,8 @@
 	},
 	{
 		"id": "address-book",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Address Book",
 		"terms": [],
@@ -7320,8 +7320,8 @@
 	},
 	{
 		"id": "address-book-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Address Book Outlined",
 		"terms": [],
@@ -7329,8 +7329,8 @@
 	},
 	{
 		"id": "address-card",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Address Card",
 		"terms": [
@@ -7340,8 +7340,8 @@
 	},
 	{
 		"id": "address-card-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Address Card Outlined",
 		"terms": [
@@ -7351,8 +7351,8 @@
 	},
 	{
 		"id": "user-circle",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "User Circle",
 		"terms": [],
@@ -7360,8 +7360,8 @@
 	},
 	{
 		"id": "user-circle-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "User Circle Outlined",
 		"terms": [],
@@ -7369,8 +7369,8 @@
 	},
 	{
 		"id": "user-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "User Outlined",
 		"terms": [],
@@ -7378,8 +7378,8 @@
 	},
 	{
 		"id": "id-badge",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Identification Badge",
 		"terms": [],
@@ -7387,8 +7387,8 @@
 	},
 	{
 		"id": "id-card",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Identification Card",
 		"terms": [
@@ -7398,8 +7398,8 @@
 	},
 	{
 		"id": "id-card-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Identification Card Outlined",
 		"terms": [
@@ -7409,8 +7409,8 @@
 	},
 	{
 		"id": "quora",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Quora",
 		"terms": [],
@@ -7418,8 +7418,8 @@
 	},
 	{
 		"id": "free-code-camp",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Free Code Camp",
 		"terms": [],
@@ -7427,8 +7427,8 @@
 	},
 	{
 		"id": "telegram",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Telegram",
 		"terms": [],
@@ -7436,8 +7436,8 @@
 	},
 	{
 		"id": "thermometer-full",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Thermometer Full",
 		"terms": [
@@ -7448,8 +7448,8 @@
 	},
 	{
 		"id": "thermometer-three-quarters",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Thermometer 3/4 Full",
 		"terms": [
@@ -7459,8 +7459,8 @@
 	},
 	{
 		"id": "thermometer-half",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Thermometer 1/2 Full",
 		"terms": [
@@ -7470,8 +7470,8 @@
 	},
 	{
 		"id": "thermometer-quarter",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Thermometer 1/4 Full",
 		"terms": [
@@ -7481,8 +7481,8 @@
 	},
 	{
 		"id": "thermometer-empty",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Thermometer Empty",
 		"terms": [
@@ -7492,8 +7492,8 @@
 	},
 	{
 		"id": "shower",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Shower",
 		"terms": [],
@@ -7501,8 +7501,8 @@
 	},
 	{
 		"id": "bath",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Bath",
 		"terms": [
@@ -7513,8 +7513,8 @@
 	},
 	{
 		"id": "podcast",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Podcast",
 		"terms": [],
@@ -7522,8 +7522,8 @@
 	},
 	{
 		"id": "window-maximize",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Window Maximize",
 		"terms": [],
@@ -7531,8 +7531,8 @@
 	},
 	{
 		"id": "window-minimize",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Window Minimize",
 		"terms": [],
@@ -7540,8 +7540,8 @@
 	},
 	{
 		"id": "window-restore",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Window Restore",
 		"terms": [],
@@ -7549,8 +7549,8 @@
 	},
 	{
 		"id": "window-close",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Window Close",
 		"terms": [
@@ -7560,8 +7560,8 @@
 	},
 	{
 		"id": "window-close-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Window Close Outline",
 		"terms": [
@@ -7571,8 +7571,8 @@
 	},
 	{
 		"id": "bandcamp",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Bandcamp",
 		"terms": [],
@@ -7580,8 +7580,8 @@
 	},
 	{
 		"id": "grav",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Grav",
 		"terms": [],
@@ -7589,8 +7589,8 @@
 	},
 	{
 		"id": "etsy",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Etsy",
 		"terms": [],
@@ -7598,8 +7598,8 @@
 	},
 	{
 		"id": "imdb",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "IMDB",
 		"terms": [],
@@ -7607,8 +7607,8 @@
 	},
 	{
 		"id": "ravelry",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Ravelry",
 		"terms": [],
@@ -7616,8 +7616,8 @@
 	},
 	{
 		"id": "eercast",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Eercast",
 		"terms": [],
@@ -7625,8 +7625,8 @@
 	},
 	{
 		"id": "microchip",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Microchip",
 		"terms": [],
@@ -7634,8 +7634,8 @@
 	},
 	{
 		"id": "snowflake-o",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Snowflake Outlined",
 		"terms": [],
@@ -7643,8 +7643,8 @@
 	},
 	{
 		"id": "superpowers",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Superpowers",
 		"terms": [],
@@ -7652,8 +7652,8 @@
 	},
 	{
 		"id": "wpexplorer",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "WPExplorer",
 		"terms": [],
@@ -7661,8 +7661,8 @@
 	},
 	{
 		"id": "meetup",
-		"prefixes": [
-			"fa"
+		"styles": [
+			"default"
 		],
 		"label": "Meetup",
 		"terms": [],

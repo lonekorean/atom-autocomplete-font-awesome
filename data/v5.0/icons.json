@@ -1,8 +1,8 @@
 [
 	{
 		"id": "500px",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "500px",
 		"terms": [],
@@ -10,8 +10,8 @@
 	},
 	{
 		"id": "accessible-icon",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Accessible Icon",
 		"terms": [
@@ -25,8 +25,8 @@
 	},
 	{
 		"id": "accusoft",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Accusoft",
 		"terms": [],
@@ -34,9 +34,9 @@
 	},
 	{
 		"id": "address-book",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Address Book",
 		"terms": [],
@@ -44,9 +44,9 @@
 	},
 	{
 		"id": "address-card",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Address Card",
 		"terms": [],
@@ -54,8 +54,8 @@
 	},
 	{
 		"id": "adjust",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "adjust",
 		"terms": [
@@ -65,8 +65,8 @@
 	},
 	{
 		"id": "adn",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "App.net",
 		"terms": [],
@@ -74,8 +74,8 @@
 	},
 	{
 		"id": "adversal",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Adversal",
 		"terms": [],
@@ -83,8 +83,8 @@
 	},
 	{
 		"id": "affiliatetheme",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "affiliatetheme",
 		"terms": [],
@@ -92,8 +92,8 @@
 	},
 	{
 		"id": "algolia",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Algolia",
 		"terms": [],
@@ -101,8 +101,8 @@
 	},
 	{
 		"id": "align-center",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "align-center",
 		"terms": [
@@ -113,8 +113,8 @@
 	},
 	{
 		"id": "align-justify",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "align-justify",
 		"terms": [
@@ -124,8 +124,8 @@
 	},
 	{
 		"id": "align-left",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "align-left",
 		"terms": [
@@ -135,8 +135,8 @@
 	},
 	{
 		"id": "align-right",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "align-right",
 		"terms": [
@@ -146,8 +146,8 @@
 	},
 	{
 		"id": "amazon",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Amazon",
 		"terms": [],
@@ -155,8 +155,8 @@
 	},
 	{
 		"id": "amazon-pay",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Amazon Pay",
 		"terms": [],
@@ -164,8 +164,8 @@
 	},
 	{
 		"id": "ambulance",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "ambulance",
 		"terms": [
@@ -177,8 +177,8 @@
 	},
 	{
 		"id": "american-sign-language-interpreting",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "American Sign Language Interpreting",
 		"terms": [],
@@ -186,8 +186,8 @@
 	},
 	{
 		"id": "amilia",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Amilia",
 		"terms": [],
@@ -195,8 +195,8 @@
 	},
 	{
 		"id": "anchor",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Anchor",
 		"terms": [
@@ -206,8 +206,8 @@
 	},
 	{
 		"id": "android",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Android",
 		"terms": [
@@ -217,8 +217,8 @@
 	},
 	{
 		"id": "angellist",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "AngelList",
 		"terms": [],
@@ -226,8 +226,8 @@
 	},
 	{
 		"id": "angle-double-down",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Angle Double Down",
 		"terms": [
@@ -237,8 +237,8 @@
 	},
 	{
 		"id": "angle-double-left",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Angle Double Left",
 		"terms": [
@@ -252,8 +252,8 @@
 	},
 	{
 		"id": "angle-double-right",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Angle Double Right",
 		"terms": [
@@ -267,8 +267,8 @@
 	},
 	{
 		"id": "angle-double-up",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Angle Double Up",
 		"terms": [
@@ -278,8 +278,8 @@
 	},
 	{
 		"id": "angle-down",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "angle-down",
 		"terms": [
@@ -289,8 +289,8 @@
 	},
 	{
 		"id": "angle-left",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "angle-left",
 		"terms": [
@@ -302,8 +302,8 @@
 	},
 	{
 		"id": "angle-right",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "angle-right",
 		"terms": [
@@ -315,8 +315,8 @@
 	},
 	{
 		"id": "angle-up",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "angle-up",
 		"terms": [
@@ -326,8 +326,8 @@
 	},
 	{
 		"id": "angrycreative",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Angry Creative",
 		"terms": [],
@@ -335,8 +335,8 @@
 	},
 	{
 		"id": "angular",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Angular",
 		"terms": [],
@@ -344,8 +344,8 @@
 	},
 	{
 		"id": "app-store",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "App Store",
 		"terms": [],
@@ -353,8 +353,8 @@
 	},
 	{
 		"id": "app-store-ios",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "iOS App Store",
 		"terms": [],
@@ -362,8 +362,8 @@
 	},
 	{
 		"id": "apper",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Apper Systems AB",
 		"terms": [],
@@ -371,8 +371,8 @@
 	},
 	{
 		"id": "apple",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Apple",
 		"terms": [
@@ -383,8 +383,8 @@
 	},
 	{
 		"id": "apple-pay",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Apple Pay",
 		"terms": [],
@@ -392,8 +392,8 @@
 	},
 	{
 		"id": "archive",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Archive",
 		"terms": [
@@ -404,9 +404,9 @@
 	},
 	{
 		"id": "arrow-alt-circle-down",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Alternate Arrow Circle Down",
 		"terms": [
@@ -417,9 +417,9 @@
 	},
 	{
 		"id": "arrow-alt-circle-left",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Alternate Arrow Circle Left",
 		"terms": [
@@ -431,9 +431,9 @@
 	},
 	{
 		"id": "arrow-alt-circle-right",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Alternate Arrow Circle Right",
 		"terms": [
@@ -445,9 +445,9 @@
 	},
 	{
 		"id": "arrow-alt-circle-up",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Alternate Arrow Circle Up",
 		"terms": [
@@ -457,8 +457,8 @@
 	},
 	{
 		"id": "arrow-circle-down",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Arrow Circle Down",
 		"terms": [
@@ -468,8 +468,8 @@
 	},
 	{
 		"id": "arrow-circle-left",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Arrow Circle Left",
 		"terms": [
@@ -480,8 +480,8 @@
 	},
 	{
 		"id": "arrow-circle-right",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Arrow Circle Right",
 		"terms": [
@@ -492,8 +492,8 @@
 	},
 	{
 		"id": "arrow-circle-up",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Arrow Circle Up",
 		"terms": [],
@@ -501,8 +501,8 @@
 	},
 	{
 		"id": "arrow-down",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "arrow-down",
 		"terms": [
@@ -512,8 +512,8 @@
 	},
 	{
 		"id": "arrow-left",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "arrow-left",
 		"terms": [
@@ -524,8 +524,8 @@
 	},
 	{
 		"id": "arrow-right",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "arrow-right",
 		"terms": [
@@ -536,8 +536,8 @@
 	},
 	{
 		"id": "arrow-up",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "arrow-up",
 		"terms": [],
@@ -545,8 +545,8 @@
 	},
 	{
 		"id": "arrows-alt",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Alternate Arrows",
 		"terms": [
@@ -564,8 +564,8 @@
 	},
 	{
 		"id": "arrows-alt-h",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Alternate Arrows Horizontal",
 		"terms": [
@@ -576,8 +576,8 @@
 	},
 	{
 		"id": "arrows-alt-v",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Alternate Arrows Vertical",
 		"terms": [
@@ -588,8 +588,8 @@
 	},
 	{
 		"id": "assistive-listening-systems",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Assistive Listening Systems",
 		"terms": [],
@@ -597,8 +597,8 @@
 	},
 	{
 		"id": "asterisk",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "asterisk",
 		"terms": [
@@ -608,8 +608,8 @@
 	},
 	{
 		"id": "asymmetrik",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Asymmetrik, Ltd.",
 		"terms": [],
@@ -617,8 +617,8 @@
 	},
 	{
 		"id": "at",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "At",
 		"terms": [
@@ -629,8 +629,8 @@
 	},
 	{
 		"id": "audible",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Audible",
 		"terms": [],
@@ -638,8 +638,8 @@
 	},
 	{
 		"id": "audio-description",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Audio Description",
 		"terms": [],
@@ -647,8 +647,8 @@
 	},
 	{
 		"id": "autoprefixer",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Autoprefixer",
 		"terms": [],
@@ -656,8 +656,8 @@
 	},
 	{
 		"id": "avianex",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "avianex",
 		"terms": [],
@@ -665,8 +665,8 @@
 	},
 	{
 		"id": "aviato",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Aviato",
 		"terms": [],
@@ -674,8 +674,8 @@
 	},
 	{
 		"id": "aws",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Amazon Web Services (AWS)",
 		"terms": [],
@@ -683,8 +683,8 @@
 	},
 	{
 		"id": "backward",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "backward",
 		"terms": [
@@ -695,8 +695,8 @@
 	},
 	{
 		"id": "balance-scale",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Balance Scale",
 		"terms": [],
@@ -704,8 +704,8 @@
 	},
 	{
 		"id": "ban",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "ban",
 		"terms": [
@@ -722,8 +722,8 @@
 	},
 	{
 		"id": "bandcamp",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Bandcamp",
 		"terms": [],
@@ -731,8 +731,8 @@
 	},
 	{
 		"id": "barcode",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "barcode",
 		"terms": [
@@ -742,8 +742,8 @@
 	},
 	{
 		"id": "bars",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Bars",
 		"terms": [
@@ -762,8 +762,8 @@
 	},
 	{
 		"id": "bath",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Bath",
 		"terms": [],
@@ -771,8 +771,8 @@
 	},
 	{
 		"id": "battery-empty",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Battery Empty",
 		"terms": [
@@ -782,8 +782,8 @@
 	},
 	{
 		"id": "battery-full",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Battery Full",
 		"terms": [
@@ -793,8 +793,8 @@
 	},
 	{
 		"id": "battery-half",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Battery 1/2 Full",
 		"terms": [
@@ -804,8 +804,8 @@
 	},
 	{
 		"id": "battery-quarter",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Battery 1/4 Full",
 		"terms": [
@@ -815,8 +815,8 @@
 	},
 	{
 		"id": "battery-three-quarters",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Battery 3/4 Full",
 		"terms": [
@@ -826,8 +826,8 @@
 	},
 	{
 		"id": "bed",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Bed",
 		"terms": [
@@ -837,8 +837,8 @@
 	},
 	{
 		"id": "beer",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "beer",
 		"terms": [
@@ -853,8 +853,8 @@
 	},
 	{
 		"id": "behance",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Behance",
 		"terms": [],
@@ -862,8 +862,8 @@
 	},
 	{
 		"id": "behance-square",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Behance Square",
 		"terms": [],
@@ -871,9 +871,9 @@
 	},
 	{
 		"id": "bell",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "bell",
 		"terms": [
@@ -885,9 +885,9 @@
 	},
 	{
 		"id": "bell-slash",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Bell Slash",
 		"terms": [],
@@ -895,8 +895,8 @@
 	},
 	{
 		"id": "bicycle",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Bicycle",
 		"terms": [
@@ -907,8 +907,8 @@
 	},
 	{
 		"id": "bimobject",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "BIMobject",
 		"terms": [],
@@ -916,8 +916,8 @@
 	},
 	{
 		"id": "binoculars",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Binoculars",
 		"terms": [],
@@ -925,8 +925,8 @@
 	},
 	{
 		"id": "birthday-cake",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Birthday Cake",
 		"terms": [],
@@ -934,8 +934,8 @@
 	},
 	{
 		"id": "bitbucket",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Bitbucket",
 		"terms": [
@@ -946,8 +946,8 @@
 	},
 	{
 		"id": "bitcoin",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Bitcoin",
 		"terms": [],
@@ -955,8 +955,8 @@
 	},
 	{
 		"id": "bity",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Bity",
 		"terms": [],
@@ -964,8 +964,8 @@
 	},
 	{
 		"id": "black-tie",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Font Awesome Black Tie",
 		"terms": [],
@@ -973,8 +973,8 @@
 	},
 	{
 		"id": "blackberry",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "BlackBerry",
 		"terms": [],
@@ -982,8 +982,8 @@
 	},
 	{
 		"id": "blind",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Blind",
 		"terms": [],
@@ -991,8 +991,8 @@
 	},
 	{
 		"id": "blogger",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Blogger",
 		"terms": [],
@@ -1000,8 +1000,8 @@
 	},
 	{
 		"id": "blogger-b",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Blogger B",
 		"terms": [],
@@ -1009,8 +1009,8 @@
 	},
 	{
 		"id": "bluetooth",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Bluetooth",
 		"terms": [],
@@ -1018,8 +1018,8 @@
 	},
 	{
 		"id": "bluetooth-b",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Bluetooth",
 		"terms": [],
@@ -1027,8 +1027,8 @@
 	},
 	{
 		"id": "bold",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "bold",
 		"terms": [],
@@ -1036,8 +1036,8 @@
 	},
 	{
 		"id": "bolt",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Lightning Bolt",
 		"terms": [
@@ -1048,8 +1048,8 @@
 	},
 	{
 		"id": "bomb",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Bomb",
 		"terms": [],
@@ -1057,8 +1057,8 @@
 	},
 	{
 		"id": "book",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "book",
 		"terms": [
@@ -1069,9 +1069,9 @@
 	},
 	{
 		"id": "bookmark",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "bookmark",
 		"terms": [
@@ -1081,8 +1081,8 @@
 	},
 	{
 		"id": "braille",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Braille",
 		"terms": [],
@@ -1090,8 +1090,8 @@
 	},
 	{
 		"id": "briefcase",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Briefcase",
 		"terms": [
@@ -1105,8 +1105,8 @@
 	},
 	{
 		"id": "btc",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "BTC",
 		"terms": [],
@@ -1114,8 +1114,8 @@
 	},
 	{
 		"id": "bug",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Bug",
 		"terms": [
@@ -1126,9 +1126,9 @@
 	},
 	{
 		"id": "building",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Building",
 		"terms": [
@@ -1142,8 +1142,8 @@
 	},
 	{
 		"id": "bullhorn",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "bullhorn",
 		"terms": [
@@ -1157,8 +1157,8 @@
 	},
 	{
 		"id": "bullseye",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Bullseye",
 		"terms": [
@@ -1168,8 +1168,8 @@
 	},
 	{
 		"id": "buromobelexperte",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Büromöbel-Experte GmbH & Co. KG.",
 		"terms": [],
@@ -1177,8 +1177,8 @@
 	},
 	{
 		"id": "bus",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Bus",
 		"terms": [
@@ -1188,8 +1188,8 @@
 	},
 	{
 		"id": "buysellads",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "BuySellAds",
 		"terms": [],
@@ -1197,8 +1197,8 @@
 	},
 	{
 		"id": "calculator",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Calculator",
 		"terms": [],
@@ -1206,9 +1206,9 @@
 	},
 	{
 		"id": "calendar",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Calendar",
 		"terms": [
@@ -1222,9 +1222,9 @@
 	},
 	{
 		"id": "calendar-alt",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Alternate Calendar",
 		"terms": [
@@ -1238,9 +1238,9 @@
 	},
 	{
 		"id": "calendar-check",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Calendar Check",
 		"terms": [
@@ -1250,9 +1250,9 @@
 	},
 	{
 		"id": "calendar-minus",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Calendar Minus",
 		"terms": [],
@@ -1260,9 +1260,9 @@
 	},
 	{
 		"id": "calendar-plus",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Calendar Plus",
 		"terms": [],
@@ -1270,9 +1270,9 @@
 	},
 	{
 		"id": "calendar-times",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Calendar Times",
 		"terms": [],
@@ -1280,8 +1280,8 @@
 	},
 	{
 		"id": "camera",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "camera",
 		"terms": [
@@ -1293,8 +1293,8 @@
 	},
 	{
 		"id": "camera-retro",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Retro Camera",
 		"terms": [
@@ -1306,8 +1306,8 @@
 	},
 	{
 		"id": "car",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Car",
 		"terms": [
@@ -1317,8 +1317,8 @@
 	},
 	{
 		"id": "caret-down",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Caret Down",
 		"terms": [
@@ -1332,8 +1332,8 @@
 	},
 	{
 		"id": "caret-left",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Caret Left",
 		"terms": [
@@ -1346,8 +1346,8 @@
 	},
 	{
 		"id": "caret-right",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Caret Right",
 		"terms": [
@@ -1360,9 +1360,9 @@
 	},
 	{
 		"id": "caret-square-down",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Caret Square Down",
 		"terms": [
@@ -1375,9 +1375,9 @@
 	},
 	{
 		"id": "caret-square-left",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Caret Square Left",
 		"terms": [
@@ -1389,9 +1389,9 @@
 	},
 	{
 		"id": "caret-square-right",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Caret Square Right",
 		"terms": [
@@ -1403,9 +1403,9 @@
 	},
 	{
 		"id": "caret-square-up",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Caret Square Up",
 		"terms": [
@@ -1415,8 +1415,8 @@
 	},
 	{
 		"id": "caret-up",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Caret Up",
 		"terms": [
@@ -1427,8 +1427,8 @@
 	},
 	{
 		"id": "cart-arrow-down",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Shopping Cart Arrow Down",
 		"terms": [
@@ -1438,8 +1438,8 @@
 	},
 	{
 		"id": "cart-plus",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Add to Shopping Cart",
 		"terms": [
@@ -1450,8 +1450,8 @@
 	},
 	{
 		"id": "cc-amazon-pay",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Amazon Pay Credit Card",
 		"terms": [],
@@ -1459,8 +1459,8 @@
 	},
 	{
 		"id": "cc-amex",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "American Express Credit Card",
 		"terms": [
@@ -1470,8 +1470,8 @@
 	},
 	{
 		"id": "cc-apple-pay",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Apple Pay Credit Card",
 		"terms": [],
@@ -1479,8 +1479,8 @@
 	},
 	{
 		"id": "cc-diners-club",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Diner's Club Credit Card",
 		"terms": [],
@@ -1488,8 +1488,8 @@
 	},
 	{
 		"id": "cc-discover",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Discover Credit Card",
 		"terms": [],
@@ -1497,8 +1497,8 @@
 	},
 	{
 		"id": "cc-jcb",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "JCB Credit Card",
 		"terms": [],
@@ -1506,8 +1506,8 @@
 	},
 	{
 		"id": "cc-mastercard",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "MasterCard Credit Card",
 		"terms": [],
@@ -1515,8 +1515,8 @@
 	},
 	{
 		"id": "cc-paypal",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Paypal Credit Card",
 		"terms": [],
@@ -1524,8 +1524,8 @@
 	},
 	{
 		"id": "cc-stripe",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Stripe Credit Card",
 		"terms": [],
@@ -1533,8 +1533,8 @@
 	},
 	{
 		"id": "cc-visa",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Visa Credit Card",
 		"terms": [],
@@ -1542,8 +1542,8 @@
 	},
 	{
 		"id": "centercode",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Centercode",
 		"terms": [],
@@ -1551,8 +1551,8 @@
 	},
 	{
 		"id": "certificate",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "certificate",
 		"terms": [
@@ -1563,8 +1563,8 @@
 	},
 	{
 		"id": "chart-area",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Area Chart",
 		"terms": [
@@ -1576,9 +1576,9 @@
 	},
 	{
 		"id": "chart-bar",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Bar Chart",
 		"terms": [
@@ -1590,8 +1590,8 @@
 	},
 	{
 		"id": "chart-line",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Line Chart",
 		"terms": [
@@ -1603,8 +1603,8 @@
 	},
 	{
 		"id": "chart-pie",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Pie Chart",
 		"terms": [
@@ -1616,8 +1616,8 @@
 	},
 	{
 		"id": "check",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Check",
 		"terms": [
@@ -1634,9 +1634,9 @@
 	},
 	{
 		"id": "check-circle",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Check Circle",
 		"terms": [
@@ -1651,9 +1651,9 @@
 	},
 	{
 		"id": "check-square",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Check Square",
 		"terms": [
@@ -1669,8 +1669,8 @@
 	},
 	{
 		"id": "chevron-circle-down",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Chevron Circle Down",
 		"terms": [
@@ -1683,8 +1683,8 @@
 	},
 	{
 		"id": "chevron-circle-left",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Chevron Circle Left",
 		"terms": [
@@ -1696,8 +1696,8 @@
 	},
 	{
 		"id": "chevron-circle-right",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Chevron Circle Right",
 		"terms": [
@@ -1709,8 +1709,8 @@
 	},
 	{
 		"id": "chevron-circle-up",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Chevron Circle Up",
 		"terms": [
@@ -1720,8 +1720,8 @@
 	},
 	{
 		"id": "chevron-down",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "chevron-down",
 		"terms": [],
@@ -1729,8 +1729,8 @@
 	},
 	{
 		"id": "chevron-left",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "chevron-left",
 		"terms": [
@@ -1742,8 +1742,8 @@
 	},
 	{
 		"id": "chevron-right",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "chevron-right",
 		"terms": [
@@ -1755,8 +1755,8 @@
 	},
 	{
 		"id": "chevron-up",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "chevron-up",
 		"terms": [],
@@ -1764,8 +1764,8 @@
 	},
 	{
 		"id": "child",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Child",
 		"terms": [],
@@ -1773,8 +1773,8 @@
 	},
 	{
 		"id": "chrome",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Chrome",
 		"terms": [
@@ -1784,9 +1784,9 @@
 	},
 	{
 		"id": "circle",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Circle",
 		"terms": [
@@ -1798,8 +1798,8 @@
 	},
 	{
 		"id": "circle-notch",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Circle Notched",
 		"terms": [
@@ -1809,9 +1809,9 @@
 	},
 	{
 		"id": "clipboard",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Clipboard",
 		"terms": [
@@ -1821,9 +1821,9 @@
 	},
 	{
 		"id": "clock",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Clock",
 		"terms": [
@@ -1837,9 +1837,9 @@
 	},
 	{
 		"id": "clone",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Clone",
 		"terms": [
@@ -1849,9 +1849,9 @@
 	},
 	{
 		"id": "closed-captioning",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Closed Captioning",
 		"terms": [
@@ -1861,8 +1861,8 @@
 	},
 	{
 		"id": "cloud",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Cloud",
 		"terms": [
@@ -1872,8 +1872,8 @@
 	},
 	{
 		"id": "cloud-download-alt",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Cloud Download-alt",
 		"terms": [
@@ -1883,8 +1883,8 @@
 	},
 	{
 		"id": "cloud-upload-alt",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Cloud Upload-alt",
 		"terms": [
@@ -1894,8 +1894,8 @@
 	},
 	{
 		"id": "cloudscale",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "cloudscale.ch",
 		"terms": [],
@@ -1903,8 +1903,8 @@
 	},
 	{
 		"id": "cloudsmith",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Cloudsmith",
 		"terms": [],
@@ -1912,8 +1912,8 @@
 	},
 	{
 		"id": "cloudversify",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "cloudversify",
 		"terms": [],
@@ -1921,8 +1921,8 @@
 	},
 	{
 		"id": "code",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Code",
 		"terms": [
@@ -1933,8 +1933,8 @@
 	},
 	{
 		"id": "code-branch",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Code Branch",
 		"terms": [
@@ -1952,8 +1952,8 @@
 	},
 	{
 		"id": "codepen",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Codepen",
 		"terms": [],
@@ -1961,8 +1961,8 @@
 	},
 	{
 		"id": "codiepie",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Codie Pie",
 		"terms": [],
@@ -1970,8 +1970,8 @@
 	},
 	{
 		"id": "coffee",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Coffee",
 		"terms": [
@@ -1986,8 +1986,8 @@
 	},
 	{
 		"id": "cog",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "cog",
 		"terms": [
@@ -1997,8 +1997,8 @@
 	},
 	{
 		"id": "cogs",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "cogs",
 		"terms": [
@@ -2008,8 +2008,8 @@
 	},
 	{
 		"id": "columns",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Columns",
 		"terms": [
@@ -2020,9 +2020,9 @@
 	},
 	{
 		"id": "comment",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "comment",
 		"terms": [
@@ -2041,9 +2041,9 @@
 	},
 	{
 		"id": "comment-alt",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Alternate Comment",
 		"terms": [
@@ -2063,9 +2063,9 @@
 	},
 	{
 		"id": "comments",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "comments",
 		"terms": [
@@ -2084,9 +2084,9 @@
 	},
 	{
 		"id": "compass",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Compass",
 		"terms": [
@@ -2099,8 +2099,8 @@
 	},
 	{
 		"id": "compress",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Compress",
 		"terms": [
@@ -2114,8 +2114,8 @@
 	},
 	{
 		"id": "connectdevelop",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Connect Develop",
 		"terms": [],
@@ -2123,8 +2123,8 @@
 	},
 	{
 		"id": "contao",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Contao",
 		"terms": [],
@@ -2132,9 +2132,9 @@
 	},
 	{
 		"id": "copy",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Copy",
 		"terms": [
@@ -2147,9 +2147,9 @@
 	},
 	{
 		"id": "copyright",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Copyright",
 		"terms": [],
@@ -2157,8 +2157,8 @@
 	},
 	{
 		"id": "cpanel",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "cPanel",
 		"terms": [],
@@ -2166,8 +2166,8 @@
 	},
 	{
 		"id": "creative-commons",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Creative Commons",
 		"terms": [],
@@ -2175,9 +2175,9 @@
 	},
 	{
 		"id": "credit-card",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Credit Card",
 		"terms": [
@@ -2193,8 +2193,8 @@
 	},
 	{
 		"id": "crop",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "crop",
 		"terms": [],
@@ -2202,8 +2202,8 @@
 	},
 	{
 		"id": "crosshairs",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Crosshairs",
 		"terms": [
@@ -2213,8 +2213,8 @@
 	},
 	{
 		"id": "css3",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "CSS 3 Logo",
 		"terms": [
@@ -2224,8 +2224,8 @@
 	},
 	{
 		"id": "css3-alt",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Alternate CSS3 Logo",
 		"terms": [],
@@ -2233,8 +2233,8 @@
 	},
 	{
 		"id": "cube",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Cube",
 		"terms": [],
@@ -2242,8 +2242,8 @@
 	},
 	{
 		"id": "cubes",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Cubes",
 		"terms": [],
@@ -2251,8 +2251,8 @@
 	},
 	{
 		"id": "cut",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Cut",
 		"terms": [
@@ -2262,8 +2262,8 @@
 	},
 	{
 		"id": "cuttlefish",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Cuttlefish",
 		"terms": [],
@@ -2271,8 +2271,8 @@
 	},
 	{
 		"id": "d-and-d",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Dungeons & Dragons",
 		"terms": [],
@@ -2280,8 +2280,8 @@
 	},
 	{
 		"id": "dashcube",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "DashCube",
 		"terms": [],
@@ -2289,8 +2289,8 @@
 	},
 	{
 		"id": "database",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Database",
 		"terms": [],
@@ -2298,8 +2298,8 @@
 	},
 	{
 		"id": "deaf",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Deaf",
 		"terms": [],
@@ -2307,8 +2307,8 @@
 	},
 	{
 		"id": "delicious",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Delicious Logo",
 		"terms": [],
@@ -2316,8 +2316,8 @@
 	},
 	{
 		"id": "deploydog",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "deploy.dog",
 		"terms": [],
@@ -2325,8 +2325,8 @@
 	},
 	{
 		"id": "deskpro",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Deskpro",
 		"terms": [],
@@ -2334,8 +2334,8 @@
 	},
 	{
 		"id": "desktop",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Desktop",
 		"terms": [
@@ -2350,8 +2350,8 @@
 	},
 	{
 		"id": "deviantart",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "deviantART",
 		"terms": [],
@@ -2359,8 +2359,8 @@
 	},
 	{
 		"id": "digg",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Digg Logo",
 		"terms": [],
@@ -2368,8 +2368,8 @@
 	},
 	{
 		"id": "digital-ocean",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Digital Ocean",
 		"terms": [],
@@ -2377,8 +2377,8 @@
 	},
 	{
 		"id": "discord",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Discord",
 		"terms": [],
@@ -2386,8 +2386,8 @@
 	},
 	{
 		"id": "discourse",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Discourse",
 		"terms": [],
@@ -2395,8 +2395,8 @@
 	},
 	{
 		"id": "dochub",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "DocHub",
 		"terms": [],
@@ -2404,8 +2404,8 @@
 	},
 	{
 		"id": "docker",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Docker",
 		"terms": [],
@@ -2413,8 +2413,8 @@
 	},
 	{
 		"id": "dollar-sign",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Dollar Sign",
 		"terms": [
@@ -2424,9 +2424,9 @@
 	},
 	{
 		"id": "dot-circle",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Dot Circle",
 		"terms": [
@@ -2438,8 +2438,8 @@
 	},
 	{
 		"id": "download",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Download",
 		"terms": [
@@ -2449,8 +2449,8 @@
 	},
 	{
 		"id": "draft2digital",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Draft2digital",
 		"terms": [],
@@ -2458,8 +2458,8 @@
 	},
 	{
 		"id": "dribbble",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Dribbble",
 		"terms": [],
@@ -2467,8 +2467,8 @@
 	},
 	{
 		"id": "dribbble-square",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Dribbble Square",
 		"terms": [],
@@ -2476,8 +2476,8 @@
 	},
 	{
 		"id": "dropbox",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Dropbox",
 		"terms": [],
@@ -2485,8 +2485,8 @@
 	},
 	{
 		"id": "drupal",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Drupal Logo",
 		"terms": [],
@@ -2494,8 +2494,8 @@
 	},
 	{
 		"id": "dyalog",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Dyalog",
 		"terms": [],
@@ -2503,8 +2503,8 @@
 	},
 	{
 		"id": "earlybirds",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Earlybirds",
 		"terms": [],
@@ -2512,8 +2512,8 @@
 	},
 	{
 		"id": "edge",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Edge Browser",
 		"terms": [
@@ -2524,9 +2524,9 @@
 	},
 	{
 		"id": "edit",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Edit",
 		"terms": [
@@ -2540,8 +2540,8 @@
 	},
 	{
 		"id": "eject",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "eject",
 		"terms": [],
@@ -2549,8 +2549,8 @@
 	},
 	{
 		"id": "elementor",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Elementor",
 		"terms": [],
@@ -2558,8 +2558,8 @@
 	},
 	{
 		"id": "ellipsis-h",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Horizontal Ellipsis",
 		"terms": [
@@ -2569,8 +2569,8 @@
 	},
 	{
 		"id": "ellipsis-v",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Vertical Ellipsis",
 		"terms": [
@@ -2580,8 +2580,8 @@
 	},
 	{
 		"id": "ember",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Ember",
 		"terms": [],
@@ -2589,8 +2589,8 @@
 	},
 	{
 		"id": "empire",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Galactic Empire",
 		"terms": [],
@@ -2598,9 +2598,9 @@
 	},
 	{
 		"id": "envelope",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Envelope",
 		"terms": [
@@ -2616,9 +2616,9 @@
 	},
 	{
 		"id": "envelope-open",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Envelope Open",
 		"terms": [
@@ -2634,8 +2634,8 @@
 	},
 	{
 		"id": "envelope-square",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Envelope Square",
 		"terms": [
@@ -2651,8 +2651,8 @@
 	},
 	{
 		"id": "envira",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Envira Gallery",
 		"terms": [
@@ -2662,8 +2662,8 @@
 	},
 	{
 		"id": "eraser",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "eraser",
 		"terms": [
@@ -2674,8 +2674,8 @@
 	},
 	{
 		"id": "erlang",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Erlang",
 		"terms": [],
@@ -2683,8 +2683,8 @@
 	},
 	{
 		"id": "ethereum",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Ethereum",
 		"terms": [],
@@ -2692,8 +2692,8 @@
 	},
 	{
 		"id": "etsy",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Etsy",
 		"terms": [],
@@ -2701,8 +2701,8 @@
 	},
 	{
 		"id": "euro-sign",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Euro Sign",
 		"terms": [
@@ -2712,8 +2712,8 @@
 	},
 	{
 		"id": "exchange-alt",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Alternate Exchange",
 		"terms": [
@@ -2726,8 +2726,8 @@
 	},
 	{
 		"id": "exclamation",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "exclamation",
 		"terms": [
@@ -2742,8 +2742,8 @@
 	},
 	{
 		"id": "exclamation-circle",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Exclamation Circle",
 		"terms": [
@@ -2758,8 +2758,8 @@
 	},
 	{
 		"id": "exclamation-triangle",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Exclamation Triangle",
 		"terms": [
@@ -2774,8 +2774,8 @@
 	},
 	{
 		"id": "expand",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Expand",
 		"terms": [
@@ -2787,8 +2787,8 @@
 	},
 	{
 		"id": "expand-arrows-alt",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Alternate Expand Arrows",
 		"terms": [
@@ -2802,8 +2802,8 @@
 	},
 	{
 		"id": "expeditedssl",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "ExpeditedSSL",
 		"terms": [],
@@ -2811,8 +2811,8 @@
 	},
 	{
 		"id": "external-link-alt",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Alternate External Link",
 		"terms": [
@@ -2824,8 +2824,8 @@
 	},
 	{
 		"id": "external-link-square-alt",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Alternate External Link Square",
 		"terms": [
@@ -2837,8 +2837,8 @@
 	},
 	{
 		"id": "eye",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Eye",
 		"terms": [
@@ -2850,8 +2850,8 @@
 	},
 	{
 		"id": "eye-dropper",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Eye Dropper",
 		"terms": [
@@ -2861,9 +2861,9 @@
 	},
 	{
 		"id": "eye-slash",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Eye Slash",
 		"terms": [
@@ -2878,8 +2878,8 @@
 	},
 	{
 		"id": "facebook",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Facebook",
 		"terms": [
@@ -2890,8 +2890,8 @@
 	},
 	{
 		"id": "facebook-f",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Facebook F",
 		"terms": [
@@ -2901,8 +2901,8 @@
 	},
 	{
 		"id": "facebook-messenger",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Facebook Messenger",
 		"terms": [],
@@ -2910,8 +2910,8 @@
 	},
 	{
 		"id": "facebook-square",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Facebook Square",
 		"terms": [
@@ -2921,8 +2921,8 @@
 	},
 	{
 		"id": "fast-backward",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "fast-backward",
 		"terms": [
@@ -2936,8 +2936,8 @@
 	},
 	{
 		"id": "fast-forward",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "fast-forward",
 		"terms": [
@@ -2949,8 +2949,8 @@
 	},
 	{
 		"id": "fax",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Fax",
 		"terms": [],
@@ -2958,8 +2958,8 @@
 	},
 	{
 		"id": "female",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Female",
 		"terms": [
@@ -2972,8 +2972,8 @@
 	},
 	{
 		"id": "fighter-jet",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "fighter-jet",
 		"terms": [
@@ -2988,9 +2988,9 @@
 	},
 	{
 		"id": "file",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "File",
 		"terms": [
@@ -3003,9 +3003,9 @@
 	},
 	{
 		"id": "file-alt",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Alternate File",
 		"terms": [
@@ -3019,9 +3019,9 @@
 	},
 	{
 		"id": "file-archive",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Archive File",
 		"terms": [],
@@ -3029,9 +3029,9 @@
 	},
 	{
 		"id": "file-audio",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Audio File",
 		"terms": [],
@@ -3039,9 +3039,9 @@
 	},
 	{
 		"id": "file-code",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Code File",
 		"terms": [],
@@ -3049,9 +3049,9 @@
 	},
 	{
 		"id": "file-excel",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Excel File",
 		"terms": [],
@@ -3059,9 +3059,9 @@
 	},
 	{
 		"id": "file-image",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Image File",
 		"terms": [],
@@ -3069,9 +3069,9 @@
 	},
 	{
 		"id": "file-pdf",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "PDF File",
 		"terms": [],
@@ -3079,9 +3079,9 @@
 	},
 	{
 		"id": "file-powerpoint",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Powerpoint File",
 		"terms": [],
@@ -3089,9 +3089,9 @@
 	},
 	{
 		"id": "file-video",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Video File",
 		"terms": [],
@@ -3099,9 +3099,9 @@
 	},
 	{
 		"id": "file-word",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Word File",
 		"terms": [],
@@ -3109,8 +3109,8 @@
 	},
 	{
 		"id": "film",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Film",
 		"terms": [
@@ -3120,8 +3120,8 @@
 	},
 	{
 		"id": "filter",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Filter",
 		"terms": [
@@ -3132,8 +3132,8 @@
 	},
 	{
 		"id": "fire",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "fire",
 		"terms": [
@@ -3145,8 +3145,8 @@
 	},
 	{
 		"id": "fire-extinguisher",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "fire-extinguisher",
 		"terms": [],
@@ -3154,8 +3154,8 @@
 	},
 	{
 		"id": "firefox",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Firefox",
 		"terms": [
@@ -3165,8 +3165,8 @@
 	},
 	{
 		"id": "first-order",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "First Order",
 		"terms": [],
@@ -3174,8 +3174,8 @@
 	},
 	{
 		"id": "firstdraft",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "firstdraft",
 		"terms": [],
@@ -3183,9 +3183,9 @@
 	},
 	{
 		"id": "flag",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "flag",
 		"terms": [
@@ -3197,8 +3197,8 @@
 	},
 	{
 		"id": "flag-checkered",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "flag-checkered",
 		"terms": [
@@ -3210,8 +3210,8 @@
 	},
 	{
 		"id": "flask",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Flask",
 		"terms": [
@@ -3224,8 +3224,8 @@
 	},
 	{
 		"id": "flickr",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Flickr",
 		"terms": [],
@@ -3233,8 +3233,8 @@
 	},
 	{
 		"id": "fly",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Fly",
 		"terms": [],
@@ -3242,9 +3242,9 @@
 	},
 	{
 		"id": "folder",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Folder",
 		"terms": [],
@@ -3252,9 +3252,9 @@
 	},
 	{
 		"id": "folder-open",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Folder Open",
 		"terms": [],
@@ -3262,8 +3262,8 @@
 	},
 	{
 		"id": "font",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "font",
 		"terms": [
@@ -3273,8 +3273,8 @@
 	},
 	{
 		"id": "font-awesome",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Font Awesome",
 		"terms": [
@@ -3284,8 +3284,8 @@
 	},
 	{
 		"id": "font-awesome-alt",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Alternate Font Awesome",
 		"terms": [],
@@ -3293,8 +3293,8 @@
 	},
 	{
 		"id": "font-awesome-flag",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Font Awesome Flag",
 		"terms": [],
@@ -3302,8 +3302,8 @@
 	},
 	{
 		"id": "fonticons",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Fonticons",
 		"terms": [],
@@ -3311,8 +3311,8 @@
 	},
 	{
 		"id": "fonticons-fi",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Fonticons Fi",
 		"terms": [],
@@ -3320,8 +3320,8 @@
 	},
 	{
 		"id": "fort-awesome",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Fort Awesome",
 		"terms": [],
@@ -3329,8 +3329,8 @@
 	},
 	{
 		"id": "fort-awesome-alt",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Alternate Fort Awesome",
 		"terms": [],
@@ -3338,8 +3338,8 @@
 	},
 	{
 		"id": "forumbee",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Forumbee",
 		"terms": [],
@@ -3347,8 +3347,8 @@
 	},
 	{
 		"id": "forward",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "forward",
 		"terms": [
@@ -3359,8 +3359,8 @@
 	},
 	{
 		"id": "foursquare",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Foursquare",
 		"terms": [],
@@ -3368,8 +3368,8 @@
 	},
 	{
 		"id": "free-code-camp",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Free Code Camp",
 		"terms": [],
@@ -3377,8 +3377,8 @@
 	},
 	{
 		"id": "freebsd",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "FreeBSD",
 		"terms": [],
@@ -3386,9 +3386,9 @@
 	},
 	{
 		"id": "frown",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Frown",
 		"terms": [
@@ -3402,9 +3402,9 @@
 	},
 	{
 		"id": "futbol",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Futbol",
 		"terms": [],
@@ -3412,8 +3412,8 @@
 	},
 	{
 		"id": "gamepad",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Gamepad",
 		"terms": [
@@ -3423,8 +3423,8 @@
 	},
 	{
 		"id": "gavel",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Gavel",
 		"terms": [
@@ -3436,9 +3436,9 @@
 	},
 	{
 		"id": "gem",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Gem",
 		"terms": [
@@ -3448,8 +3448,8 @@
 	},
 	{
 		"id": "genderless",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Genderless",
 		"terms": [],
@@ -3457,8 +3457,8 @@
 	},
 	{
 		"id": "get-pocket",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Get Pocket",
 		"terms": [],
@@ -3466,8 +3466,8 @@
 	},
 	{
 		"id": "gg",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "GG Currency",
 		"terms": [],
@@ -3475,8 +3475,8 @@
 	},
 	{
 		"id": "gg-circle",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "GG Currency Circle",
 		"terms": [],
@@ -3484,8 +3484,8 @@
 	},
 	{
 		"id": "gift",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "gift",
 		"terms": [
@@ -3495,8 +3495,8 @@
 	},
 	{
 		"id": "git",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Git",
 		"terms": [],
@@ -3504,8 +3504,8 @@
 	},
 	{
 		"id": "git-square",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Git Square",
 		"terms": [],
@@ -3513,8 +3513,8 @@
 	},
 	{
 		"id": "github",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "GitHub",
 		"terms": [
@@ -3524,8 +3524,8 @@
 	},
 	{
 		"id": "github-alt",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Alternate GitHub",
 		"terms": [
@@ -3535,8 +3535,8 @@
 	},
 	{
 		"id": "github-square",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "GitHub Square",
 		"terms": [
@@ -3546,8 +3546,8 @@
 	},
 	{
 		"id": "gitkraken",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "GitKraken",
 		"terms": [],
@@ -3555,8 +3555,8 @@
 	},
 	{
 		"id": "gitlab",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "GitLab",
 		"terms": [
@@ -3566,8 +3566,8 @@
 	},
 	{
 		"id": "gitter",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Gitter",
 		"terms": [],
@@ -3575,8 +3575,8 @@
 	},
 	{
 		"id": "glass-martini",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Martini Glass",
 		"terms": [
@@ -3591,8 +3591,8 @@
 	},
 	{
 		"id": "glide",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Glide",
 		"terms": [],
@@ -3600,8 +3600,8 @@
 	},
 	{
 		"id": "glide-g",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Glide G",
 		"terms": [],
@@ -3609,8 +3609,8 @@
 	},
 	{
 		"id": "globe",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Globe",
 		"terms": [
@@ -3633,8 +3633,8 @@
 	},
 	{
 		"id": "gofore",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Gofore",
 		"terms": [],
@@ -3642,8 +3642,8 @@
 	},
 	{
 		"id": "goodreads",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Goodreads",
 		"terms": [],
@@ -3651,8 +3651,8 @@
 	},
 	{
 		"id": "goodreads-g",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Goodreads G",
 		"terms": [],
@@ -3660,8 +3660,8 @@
 	},
 	{
 		"id": "google",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Google Logo",
 		"terms": [],
@@ -3669,8 +3669,8 @@
 	},
 	{
 		"id": "google-drive",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Google Drive",
 		"terms": [],
@@ -3678,8 +3678,8 @@
 	},
 	{
 		"id": "google-play",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Google Play",
 		"terms": [],
@@ -3687,8 +3687,8 @@
 	},
 	{
 		"id": "google-plus",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Google Plus",
 		"terms": [
@@ -3699,8 +3699,8 @@
 	},
 	{
 		"id": "google-plus-g",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Google Plus G",
 		"terms": [
@@ -3711,8 +3711,8 @@
 	},
 	{
 		"id": "google-plus-square",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Google Plus Square",
 		"terms": [
@@ -3722,8 +3722,8 @@
 	},
 	{
 		"id": "google-wallet",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Google Wallet",
 		"terms": [],
@@ -3731,8 +3731,8 @@
 	},
 	{
 		"id": "graduation-cap",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Graduation Cap",
 		"terms": [
@@ -3744,8 +3744,8 @@
 	},
 	{
 		"id": "gratipay",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Gratipay (Gittip)",
 		"terms": [
@@ -3758,8 +3758,8 @@
 	},
 	{
 		"id": "grav",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Grav",
 		"terms": [],
@@ -3767,8 +3767,8 @@
 	},
 	{
 		"id": "gripfire",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Gripfire, Inc.",
 		"terms": [],
@@ -3776,8 +3776,8 @@
 	},
 	{
 		"id": "grunt",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Grunt",
 		"terms": [],
@@ -3785,8 +3785,8 @@
 	},
 	{
 		"id": "gulp",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Gulp",
 		"terms": [],
@@ -3794,8 +3794,8 @@
 	},
 	{
 		"id": "h-square",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "H Square",
 		"terms": [
@@ -3806,8 +3806,8 @@
 	},
 	{
 		"id": "hacker-news",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Hacker News",
 		"terms": [],
@@ -3815,8 +3815,8 @@
 	},
 	{
 		"id": "hacker-news-square",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Hacker News Square",
 		"terms": [],
@@ -3824,9 +3824,9 @@
 	},
 	{
 		"id": "hand-lizard",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Lizard (Hand)",
 		"terms": [],
@@ -3834,9 +3834,9 @@
 	},
 	{
 		"id": "hand-paper",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Paper (Hand)",
 		"terms": [
@@ -3846,9 +3846,9 @@
 	},
 	{
 		"id": "hand-peace",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Peace (Hand)",
 		"terms": [],
@@ -3856,9 +3856,9 @@
 	},
 	{
 		"id": "hand-point-down",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Hand Pointing Down",
 		"terms": [
@@ -3870,9 +3870,9 @@
 	},
 	{
 		"id": "hand-point-left",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Hand Pointing Left",
 		"terms": [
@@ -3887,9 +3887,9 @@
 	},
 	{
 		"id": "hand-point-right",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Hand Pointing Right",
 		"terms": [
@@ -3904,9 +3904,9 @@
 	},
 	{
 		"id": "hand-point-up",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Hand Pointing Up",
 		"terms": [
@@ -3918,9 +3918,9 @@
 	},
 	{
 		"id": "hand-pointer",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Pointer (Hand)",
 		"terms": [],
@@ -3928,9 +3928,9 @@
 	},
 	{
 		"id": "hand-rock",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Rock (Hand)",
 		"terms": [],
@@ -3938,9 +3938,9 @@
 	},
 	{
 		"id": "hand-scissors",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Scissors (Hand)",
 		"terms": [],
@@ -3948,9 +3948,9 @@
 	},
 	{
 		"id": "hand-spock",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Spock (Hand)",
 		"terms": [],
@@ -3958,9 +3958,9 @@
 	},
 	{
 		"id": "handshake",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Handshake",
 		"terms": [],
@@ -3968,8 +3968,8 @@
 	},
 	{
 		"id": "hashtag",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Hashtag",
 		"terms": [],
@@ -3977,9 +3977,9 @@
 	},
 	{
 		"id": "hdd",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "HDD",
 		"terms": [
@@ -3992,8 +3992,8 @@
 	},
 	{
 		"id": "heading",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "heading",
 		"terms": [
@@ -4003,8 +4003,8 @@
 	},
 	{
 		"id": "headphones",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "headphones",
 		"terms": [
@@ -4017,9 +4017,9 @@
 	},
 	{
 		"id": "heart",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Heart",
 		"terms": [
@@ -4031,8 +4031,8 @@
 	},
 	{
 		"id": "heartbeat",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Heartbeat",
 		"terms": [
@@ -4042,8 +4042,8 @@
 	},
 	{
 		"id": "hire-a-helper",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "HireAHelper",
 		"terms": [],
@@ -4051,8 +4051,8 @@
 	},
 	{
 		"id": "history",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "History",
 		"terms": [],
@@ -4060,8 +4060,8 @@
 	},
 	{
 		"id": "home",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "home",
 		"terms": [
@@ -4072,8 +4072,8 @@
 	},
 	{
 		"id": "hooli",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Hooli",
 		"terms": [],
@@ -4081,9 +4081,9 @@
 	},
 	{
 		"id": "hospital",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "hospital",
 		"terms": [
@@ -4093,8 +4093,8 @@
 	},
 	{
 		"id": "hotjar",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Hotjar",
 		"terms": [],
@@ -4102,9 +4102,9 @@
 	},
 	{
 		"id": "hourglass",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Hourglass",
 		"terms": [],
@@ -4112,8 +4112,8 @@
 	},
 	{
 		"id": "hourglass-end",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Hourglass End",
 		"terms": [],
@@ -4121,8 +4121,8 @@
 	},
 	{
 		"id": "hourglass-half",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Hourglass Half",
 		"terms": [],
@@ -4130,8 +4130,8 @@
 	},
 	{
 		"id": "hourglass-start",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Hourglass Start",
 		"terms": [],
@@ -4139,8 +4139,8 @@
 	},
 	{
 		"id": "houzz",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Houzz",
 		"terms": [],
@@ -4148,8 +4148,8 @@
 	},
 	{
 		"id": "html5",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "HTML 5 Logo",
 		"terms": [],
@@ -4157,8 +4157,8 @@
 	},
 	{
 		"id": "hubspot",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "HubSpot",
 		"terms": [],
@@ -4166,8 +4166,8 @@
 	},
 	{
 		"id": "i-cursor",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "I Beam Cursor",
 		"terms": [],
@@ -4175,9 +4175,9 @@
 	},
 	{
 		"id": "id-badge",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Identification Badge",
 		"terms": [],
@@ -4185,9 +4185,9 @@
 	},
 	{
 		"id": "id-card",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Identification Card",
 		"terms": [],
@@ -4195,9 +4195,9 @@
 	},
 	{
 		"id": "image",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Image",
 		"terms": [
@@ -4209,9 +4209,9 @@
 	},
 	{
 		"id": "images",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Images",
 		"terms": [
@@ -4223,8 +4223,8 @@
 	},
 	{
 		"id": "imdb",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "IMDB",
 		"terms": [],
@@ -4232,8 +4232,8 @@
 	},
 	{
 		"id": "inbox",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "inbox",
 		"terms": [],
@@ -4241,8 +4241,8 @@
 	},
 	{
 		"id": "indent",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Indent",
 		"terms": [],
@@ -4250,8 +4250,8 @@
 	},
 	{
 		"id": "industry",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Industry",
 		"terms": [
@@ -4261,8 +4261,8 @@
 	},
 	{
 		"id": "info",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Info",
 		"terms": [
@@ -4275,8 +4275,8 @@
 	},
 	{
 		"id": "info-circle",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Info Circle",
 		"terms": [
@@ -4289,8 +4289,8 @@
 	},
 	{
 		"id": "instagram",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Instagram",
 		"terms": [],
@@ -4298,8 +4298,8 @@
 	},
 	{
 		"id": "internet-explorer",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Internet-explorer",
 		"terms": [
@@ -4310,8 +4310,8 @@
 	},
 	{
 		"id": "ioxhost",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "ioxhost",
 		"terms": [],
@@ -4319,8 +4319,8 @@
 	},
 	{
 		"id": "italic",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "italic",
 		"terms": [
@@ -4330,8 +4330,8 @@
 	},
 	{
 		"id": "itunes",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "iTunes",
 		"terms": [],
@@ -4339,8 +4339,8 @@
 	},
 	{
 		"id": "itunes-note",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Itunes Note",
 		"terms": [],
@@ -4348,8 +4348,8 @@
 	},
 	{
 		"id": "jenkins",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Jenkis",
 		"terms": [],
@@ -4357,8 +4357,8 @@
 	},
 	{
 		"id": "joget",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Joget",
 		"terms": [],
@@ -4366,8 +4366,8 @@
 	},
 	{
 		"id": "joomla",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Joomla Logo",
 		"terms": [],
@@ -4375,8 +4375,8 @@
 	},
 	{
 		"id": "js",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "JavaScript (JS)",
 		"terms": [],
@@ -4384,8 +4384,8 @@
 	},
 	{
 		"id": "js-square",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "JavaScript (JS) Square",
 		"terms": [],
@@ -4393,8 +4393,8 @@
 	},
 	{
 		"id": "jsfiddle",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "jsFiddle",
 		"terms": [],
@@ -4402,8 +4402,8 @@
 	},
 	{
 		"id": "key",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "key",
 		"terms": [
@@ -4414,9 +4414,9 @@
 	},
 	{
 		"id": "keyboard",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Keyboard",
 		"terms": [
@@ -4427,8 +4427,8 @@
 	},
 	{
 		"id": "keycdn",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "KeyCDN",
 		"terms": [],
@@ -4436,8 +4436,8 @@
 	},
 	{
 		"id": "kickstarter",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Kickstarter",
 		"terms": [],
@@ -4445,8 +4445,8 @@
 	},
 	{
 		"id": "kickstarter-k",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Kickstarter K",
 		"terms": [],
@@ -4454,8 +4454,8 @@
 	},
 	{
 		"id": "korvue",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "KORVUE",
 		"terms": [],
@@ -4463,8 +4463,8 @@
 	},
 	{
 		"id": "language",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Language",
 		"terms": [],
@@ -4472,8 +4472,8 @@
 	},
 	{
 		"id": "laptop",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Laptop",
 		"terms": [
@@ -4485,8 +4485,8 @@
 	},
 	{
 		"id": "laravel",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Laravel",
 		"terms": [],
@@ -4494,8 +4494,8 @@
 	},
 	{
 		"id": "lastfm",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "last.fm",
 		"terms": [],
@@ -4503,8 +4503,8 @@
 	},
 	{
 		"id": "lastfm-square",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "last.fm Square",
 		"terms": [],
@@ -4512,8 +4512,8 @@
 	},
 	{
 		"id": "leaf",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "leaf",
 		"terms": [
@@ -4525,8 +4525,8 @@
 	},
 	{
 		"id": "leanpub",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Leanpub",
 		"terms": [],
@@ -4534,9 +4534,9 @@
 	},
 	{
 		"id": "lemon",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Lemon",
 		"terms": [
@@ -4546,8 +4546,8 @@
 	},
 	{
 		"id": "less",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Less",
 		"terms": [],
@@ -4555,8 +4555,8 @@
 	},
 	{
 		"id": "level-down-alt",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Level Down-alt",
 		"terms": [
@@ -4566,8 +4566,8 @@
 	},
 	{
 		"id": "level-up-alt",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Level Up-alt",
 		"terms": [
@@ -4577,9 +4577,9 @@
 	},
 	{
 		"id": "life-ring",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Life Ring",
 		"terms": [
@@ -4589,9 +4589,9 @@
 	},
 	{
 		"id": "lightbulb",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Lightbulb",
 		"terms": [
@@ -4602,8 +4602,8 @@
 	},
 	{
 		"id": "line",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Line",
 		"terms": [],
@@ -4611,8 +4611,8 @@
 	},
 	{
 		"id": "link",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Link",
 		"terms": [
@@ -4622,8 +4622,8 @@
 	},
 	{
 		"id": "linkedin",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "LinkedIn",
 		"terms": [
@@ -4633,8 +4633,8 @@
 	},
 	{
 		"id": "linkedin-in",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "LinkedIn In",
 		"terms": [
@@ -4644,8 +4644,8 @@
 	},
 	{
 		"id": "linode",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Linode",
 		"terms": [],
@@ -4653,8 +4653,8 @@
 	},
 	{
 		"id": "linux",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Linux",
 		"terms": [
@@ -4664,8 +4664,8 @@
 	},
 	{
 		"id": "lira-sign",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Turkish Lira Sign",
 		"terms": [
@@ -4676,8 +4676,8 @@
 	},
 	{
 		"id": "list",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "list",
 		"terms": [
@@ -4693,9 +4693,9 @@
 	},
 	{
 		"id": "list-alt",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "list-alt",
 		"terms": [
@@ -4711,8 +4711,8 @@
 	},
 	{
 		"id": "list-ol",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "list-ol",
 		"terms": [
@@ -4727,8 +4727,8 @@
 	},
 	{
 		"id": "list-ul",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "list-ul",
 		"terms": [
@@ -4742,8 +4742,8 @@
 	},
 	{
 		"id": "location-arrow",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "location-arrow",
 		"terms": [
@@ -4758,8 +4758,8 @@
 	},
 	{
 		"id": "lock",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "lock",
 		"terms": [
@@ -4771,8 +4771,8 @@
 	},
 	{
 		"id": "lock-open",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Lock Open",
 		"terms": [
@@ -4786,8 +4786,8 @@
 	},
 	{
 		"id": "long-arrow-alt-down",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Alternate Long Arrow Down",
 		"terms": [
@@ -4797,8 +4797,8 @@
 	},
 	{
 		"id": "long-arrow-alt-left",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Alternate Long Arrow Left",
 		"terms": [
@@ -4810,8 +4810,8 @@
 	},
 	{
 		"id": "long-arrow-alt-right",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Alternate Long Arrow Right",
 		"terms": [
@@ -4821,8 +4821,8 @@
 	},
 	{
 		"id": "long-arrow-alt-up",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Alternate Long Arrow Up",
 		"terms": [
@@ -4832,8 +4832,8 @@
 	},
 	{
 		"id": "low-vision",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Low Vision",
 		"terms": [],
@@ -4841,8 +4841,8 @@
 	},
 	{
 		"id": "lyft",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "lyft",
 		"terms": [],
@@ -4850,8 +4850,8 @@
 	},
 	{
 		"id": "magento",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Magento",
 		"terms": [],
@@ -4859,8 +4859,8 @@
 	},
 	{
 		"id": "magic",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "magic",
 		"terms": [
@@ -4872,8 +4872,8 @@
 	},
 	{
 		"id": "magnet",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "magnet",
 		"terms": [],
@@ -4881,8 +4881,8 @@
 	},
 	{
 		"id": "male",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Male",
 		"terms": [
@@ -4895,9 +4895,9 @@
 	},
 	{
 		"id": "map",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Map",
 		"terms": [],
@@ -4905,8 +4905,8 @@
 	},
 	{
 		"id": "map-marker",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "map-marker",
 		"terms": [
@@ -4924,8 +4924,8 @@
 	},
 	{
 		"id": "map-marker-alt",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Map Marker-alt",
 		"terms": [
@@ -4935,8 +4935,8 @@
 	},
 	{
 		"id": "map-pin",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Map Pin",
 		"terms": [],
@@ -4944,8 +4944,8 @@
 	},
 	{
 		"id": "map-signs",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Map Signs",
 		"terms": [],
@@ -4953,8 +4953,8 @@
 	},
 	{
 		"id": "mars",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Mars",
 		"terms": [
@@ -4964,8 +4964,8 @@
 	},
 	{
 		"id": "mars-double",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Mars Double",
 		"terms": [],
@@ -4973,8 +4973,8 @@
 	},
 	{
 		"id": "mars-stroke",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Mars Stroke",
 		"terms": [],
@@ -4982,8 +4982,8 @@
 	},
 	{
 		"id": "mars-stroke-h",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Mars Stroke Horizontal",
 		"terms": [],
@@ -4991,8 +4991,8 @@
 	},
 	{
 		"id": "mars-stroke-v",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Mars Stroke Vertical",
 		"terms": [],
@@ -5000,8 +5000,8 @@
 	},
 	{
 		"id": "maxcdn",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "MaxCDN",
 		"terms": [],
@@ -5009,8 +5009,8 @@
 	},
 	{
 		"id": "medapps",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "MedApps",
 		"terms": [],
@@ -5018,8 +5018,8 @@
 	},
 	{
 		"id": "medium",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Medium",
 		"terms": [],
@@ -5027,8 +5027,8 @@
 	},
 	{
 		"id": "medium-m",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Medium M",
 		"terms": [],
@@ -5036,8 +5036,8 @@
 	},
 	{
 		"id": "medkit",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "medkit",
 		"terms": [
@@ -5051,8 +5051,8 @@
 	},
 	{
 		"id": "medrt",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "MRT",
 		"terms": [],
@@ -5060,8 +5060,8 @@
 	},
 	{
 		"id": "meetup",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Meetup",
 		"terms": [],
@@ -5069,9 +5069,9 @@
 	},
 	{
 		"id": "meh",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Meh",
 		"terms": [
@@ -5084,8 +5084,8 @@
 	},
 	{
 		"id": "mercury",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Mercury",
 		"terms": [
@@ -5095,8 +5095,8 @@
 	},
 	{
 		"id": "microchip",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Microchip",
 		"terms": [],
@@ -5104,8 +5104,8 @@
 	},
 	{
 		"id": "microphone",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "microphone",
 		"terms": [
@@ -5117,8 +5117,8 @@
 	},
 	{
 		"id": "microphone-slash",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Microphone Slash",
 		"terms": [
@@ -5131,8 +5131,8 @@
 	},
 	{
 		"id": "microsoft",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Microsoft",
 		"terms": [],
@@ -5140,8 +5140,8 @@
 	},
 	{
 		"id": "minus",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "minus",
 		"terms": [
@@ -5156,8 +5156,8 @@
 	},
 	{
 		"id": "minus-circle",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Minus Circle",
 		"terms": [
@@ -5170,9 +5170,9 @@
 	},
 	{
 		"id": "minus-square",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Minus Square",
 		"terms": [
@@ -5187,8 +5187,8 @@
 	},
 	{
 		"id": "mix",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Mix",
 		"terms": [],
@@ -5196,8 +5196,8 @@
 	},
 	{
 		"id": "mixcloud",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Mixcloud",
 		"terms": [],
@@ -5205,8 +5205,8 @@
 	},
 	{
 		"id": "mizuni",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Mizuni",
 		"terms": [],
@@ -5214,8 +5214,8 @@
 	},
 	{
 		"id": "mobile",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Mobile Phone",
 		"terms": [
@@ -5231,8 +5231,8 @@
 	},
 	{
 		"id": "mobile-alt",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Alternate Mobile",
 		"terms": [
@@ -5242,8 +5242,8 @@
 	},
 	{
 		"id": "modx",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "MODX",
 		"terms": [],
@@ -5251,8 +5251,8 @@
 	},
 	{
 		"id": "monero",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Monero",
 		"terms": [],
@@ -5260,9 +5260,9 @@
 	},
 	{
 		"id": "money-bill-alt",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Money Bill-alt",
 		"terms": [
@@ -5272,9 +5272,9 @@
 	},
 	{
 		"id": "moon",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Moon",
 		"terms": [
@@ -5286,8 +5286,8 @@
 	},
 	{
 		"id": "motorcycle",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Motorcycle",
 		"terms": [
@@ -5298,8 +5298,8 @@
 	},
 	{
 		"id": "mouse-pointer",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Mouse Pointer",
 		"terms": [],
@@ -5307,8 +5307,8 @@
 	},
 	{
 		"id": "music",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Music",
 		"terms": [
@@ -5319,8 +5319,8 @@
 	},
 	{
 		"id": "napster",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Napster",
 		"terms": [],
@@ -5328,8 +5328,8 @@
 	},
 	{
 		"id": "neuter",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Neuter",
 		"terms": [],
@@ -5337,9 +5337,9 @@
 	},
 	{
 		"id": "newspaper",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Newspaper",
 		"terms": [
@@ -5349,8 +5349,8 @@
 	},
 	{
 		"id": "nintendo-switch",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Nintendo Switch",
 		"terms": [],
@@ -5358,8 +5358,8 @@
 	},
 	{
 		"id": "node",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Node.js",
 		"terms": [],
@@ -5367,8 +5367,8 @@
 	},
 	{
 		"id": "node-js",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Node.js JS",
 		"terms": [],
@@ -5376,8 +5376,8 @@
 	},
 	{
 		"id": "npm",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "npm",
 		"terms": [],
@@ -5385,8 +5385,8 @@
 	},
 	{
 		"id": "ns8",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "NS8",
 		"terms": [],
@@ -5394,8 +5394,8 @@
 	},
 	{
 		"id": "nutritionix",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Nutritionix",
 		"terms": [],
@@ -5403,9 +5403,9 @@
 	},
 	{
 		"id": "object-group",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Object Group",
 		"terms": [],
@@ -5413,9 +5413,9 @@
 	},
 	{
 		"id": "object-ungroup",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Object Ungroup",
 		"terms": [],
@@ -5423,8 +5423,8 @@
 	},
 	{
 		"id": "odnoklassniki",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Odnoklassniki",
 		"terms": [],
@@ -5432,8 +5432,8 @@
 	},
 	{
 		"id": "odnoklassniki-square",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Odnoklassniki Square",
 		"terms": [],
@@ -5441,8 +5441,8 @@
 	},
 	{
 		"id": "opencart",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "OpenCart",
 		"terms": [],
@@ -5450,8 +5450,8 @@
 	},
 	{
 		"id": "openid",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "OpenID",
 		"terms": [],
@@ -5459,8 +5459,8 @@
 	},
 	{
 		"id": "opera",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Opera",
 		"terms": [],
@@ -5468,8 +5468,8 @@
 	},
 	{
 		"id": "optin-monster",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Optin Monster",
 		"terms": [],
@@ -5477,8 +5477,8 @@
 	},
 	{
 		"id": "osi",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Open Source Initiative",
 		"terms": [],
@@ -5486,8 +5486,8 @@
 	},
 	{
 		"id": "outdent",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Outdent",
 		"terms": [],
@@ -5495,8 +5495,8 @@
 	},
 	{
 		"id": "page4",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "page4 Corporation",
 		"terms": [],
@@ -5504,8 +5504,8 @@
 	},
 	{
 		"id": "pagelines",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Pagelines",
 		"terms": [
@@ -5520,8 +5520,8 @@
 	},
 	{
 		"id": "paint-brush",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Paint Brush",
 		"terms": [],
@@ -5529,8 +5529,8 @@
 	},
 	{
 		"id": "palfed",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Palfed",
 		"terms": [],
@@ -5538,9 +5538,9 @@
 	},
 	{
 		"id": "paper-plane",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Paper Plane",
 		"terms": [],
@@ -5548,8 +5548,8 @@
 	},
 	{
 		"id": "paperclip",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Paperclip",
 		"terms": [
@@ -5559,8 +5559,8 @@
 	},
 	{
 		"id": "paragraph",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "paragraph",
 		"terms": [],
@@ -5568,8 +5568,8 @@
 	},
 	{
 		"id": "paste",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Paste",
 		"terms": [
@@ -5580,8 +5580,8 @@
 	},
 	{
 		"id": "patreon",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Patreon",
 		"terms": [],
@@ -5589,8 +5589,8 @@
 	},
 	{
 		"id": "pause",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "pause",
 		"terms": [
@@ -5600,9 +5600,9 @@
 	},
 	{
 		"id": "pause-circle",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Pause Circle",
 		"terms": [],
@@ -5610,8 +5610,8 @@
 	},
 	{
 		"id": "paw",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Paw",
 		"terms": [
@@ -5621,8 +5621,8 @@
 	},
 	{
 		"id": "paypal",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Paypal",
 		"terms": [],
@@ -5630,8 +5630,8 @@
 	},
 	{
 		"id": "pen-square",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Pen Square",
 		"terms": [
@@ -5644,8 +5644,8 @@
 	},
 	{
 		"id": "pencil-alt",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Alternate Pencil",
 		"terms": [
@@ -5658,8 +5658,8 @@
 	},
 	{
 		"id": "percent",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Percent",
 		"terms": [],
@@ -5667,8 +5667,8 @@
 	},
 	{
 		"id": "periscope",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Periscope",
 		"terms": [],
@@ -5676,8 +5676,8 @@
 	},
 	{
 		"id": "phabricator",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Phabricator",
 		"terms": [],
@@ -5685,8 +5685,8 @@
 	},
 	{
 		"id": "phoenix-framework",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Phoenix Framework",
 		"terms": [],
@@ -5694,8 +5694,8 @@
 	},
 	{
 		"id": "phone",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Phone",
 		"terms": [
@@ -5710,8 +5710,8 @@
 	},
 	{
 		"id": "phone-square",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Phone Square",
 		"terms": [
@@ -5725,8 +5725,8 @@
 	},
 	{
 		"id": "phone-volume",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Phone Volume",
 		"terms": [
@@ -5737,8 +5737,8 @@
 	},
 	{
 		"id": "pied-piper",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Pied Piper Logo",
 		"terms": [],
@@ -5746,8 +5746,8 @@
 	},
 	{
 		"id": "pied-piper-alt",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Alternate Pied Piper Logo",
 		"terms": [],
@@ -5755,8 +5755,8 @@
 	},
 	{
 		"id": "pied-piper-pp",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Pied Piper PP Logo (Old)",
 		"terms": [],
@@ -5764,8 +5764,8 @@
 	},
 	{
 		"id": "pinterest",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Pinterest",
 		"terms": [],
@@ -5773,8 +5773,8 @@
 	},
 	{
 		"id": "pinterest-p",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Pinterest P",
 		"terms": [],
@@ -5782,8 +5782,8 @@
 	},
 	{
 		"id": "pinterest-square",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Pinterest Square",
 		"terms": [],
@@ -5791,8 +5791,8 @@
 	},
 	{
 		"id": "plane",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "plane",
 		"terms": [
@@ -5808,8 +5808,8 @@
 	},
 	{
 		"id": "play",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "play",
 		"terms": [
@@ -5822,9 +5822,9 @@
 	},
 	{
 		"id": "play-circle",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Play Circle",
 		"terms": [
@@ -5835,8 +5835,8 @@
 	},
 	{
 		"id": "playstation",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "PlayStation",
 		"terms": [],
@@ -5844,8 +5844,8 @@
 	},
 	{
 		"id": "plug",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Plug",
 		"terms": [
@@ -5856,8 +5856,8 @@
 	},
 	{
 		"id": "plus",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "plus",
 		"terms": [
@@ -5870,8 +5870,8 @@
 	},
 	{
 		"id": "plus-circle",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Plus Circle",
 		"terms": [
@@ -5884,9 +5884,9 @@
 	},
 	{
 		"id": "plus-square",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Plus Square",
 		"terms": [
@@ -5899,8 +5899,8 @@
 	},
 	{
 		"id": "podcast",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Podcast",
 		"terms": [],
@@ -5908,8 +5908,8 @@
 	},
 	{
 		"id": "pound-sign",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Pound Sign",
 		"terms": [
@@ -5919,8 +5919,8 @@
 	},
 	{
 		"id": "power-off",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Power Off",
 		"terms": [
@@ -5930,8 +5930,8 @@
 	},
 	{
 		"id": "print",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "print",
 		"terms": [],
@@ -5939,8 +5939,8 @@
 	},
 	{
 		"id": "product-hunt",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Product Hunt",
 		"terms": [],
@@ -5948,8 +5948,8 @@
 	},
 	{
 		"id": "pushed",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Pushed",
 		"terms": [],
@@ -5957,8 +5957,8 @@
 	},
 	{
 		"id": "puzzle-piece",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Puzzle Piece",
 		"terms": [
@@ -5970,8 +5970,8 @@
 	},
 	{
 		"id": "python",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Python",
 		"terms": [],
@@ -5979,8 +5979,8 @@
 	},
 	{
 		"id": "qq",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "QQ",
 		"terms": [],
@@ -5988,8 +5988,8 @@
 	},
 	{
 		"id": "qrcode",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "qrcode",
 		"terms": [
@@ -5999,8 +5999,8 @@
 	},
 	{
 		"id": "question",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Question",
 		"terms": [
@@ -6013,9 +6013,9 @@
 	},
 	{
 		"id": "question-circle",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Question Circle",
 		"terms": [
@@ -6028,8 +6028,8 @@
 	},
 	{
 		"id": "quora",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Quora",
 		"terms": [],
@@ -6037,8 +6037,8 @@
 	},
 	{
 		"id": "quote-left",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "quote-left",
 		"terms": [],
@@ -6046,8 +6046,8 @@
 	},
 	{
 		"id": "quote-right",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "quote-right",
 		"terms": [],
@@ -6055,8 +6055,8 @@
 	},
 	{
 		"id": "random",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "random",
 		"terms": [
@@ -6067,8 +6067,8 @@
 	},
 	{
 		"id": "ravelry",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Ravelry",
 		"terms": [],
@@ -6076,8 +6076,8 @@
 	},
 	{
 		"id": "react",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "React",
 		"terms": [],
@@ -6085,8 +6085,8 @@
 	},
 	{
 		"id": "rebel",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Rebel Alliance",
 		"terms": [],
@@ -6094,8 +6094,8 @@
 	},
 	{
 		"id": "recycle",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Recycle",
 		"terms": [],
@@ -6103,8 +6103,8 @@
 	},
 	{
 		"id": "red-river",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "red river",
 		"terms": [],
@@ -6112,8 +6112,8 @@
 	},
 	{
 		"id": "reddit",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "reddit Logo",
 		"terms": [],
@@ -6121,8 +6121,8 @@
 	},
 	{
 		"id": "reddit-alien",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "reddit Alien",
 		"terms": [],
@@ -6130,8 +6130,8 @@
 	},
 	{
 		"id": "reddit-square",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "reddit Square",
 		"terms": [],
@@ -6139,8 +6139,8 @@
 	},
 	{
 		"id": "redo",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Redo",
 		"terms": [
@@ -6151,8 +6151,8 @@
 	},
 	{
 		"id": "redo-alt",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Alternate Redo",
 		"terms": [
@@ -6163,9 +6163,9 @@
 	},
 	{
 		"id": "registered",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Registered Trademark",
 		"terms": [],
@@ -6173,8 +6173,8 @@
 	},
 	{
 		"id": "rendact",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Rendact",
 		"terms": [],
@@ -6182,8 +6182,8 @@
 	},
 	{
 		"id": "renren",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Renren",
 		"terms": [],
@@ -6191,8 +6191,8 @@
 	},
 	{
 		"id": "reply",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Reply",
 		"terms": [],
@@ -6200,8 +6200,8 @@
 	},
 	{
 		"id": "reply-all",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "reply-all",
 		"terms": [],
@@ -6209,8 +6209,8 @@
 	},
 	{
 		"id": "replyd",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "replyd",
 		"terms": [],
@@ -6218,8 +6218,8 @@
 	},
 	{
 		"id": "resolving",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Resolving",
 		"terms": [],
@@ -6227,8 +6227,8 @@
 	},
 	{
 		"id": "retweet",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Retweet",
 		"terms": [
@@ -6240,8 +6240,8 @@
 	},
 	{
 		"id": "road",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "road",
 		"terms": [
@@ -6251,8 +6251,8 @@
 	},
 	{
 		"id": "rocket",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "rocket",
 		"terms": [
@@ -6262,8 +6262,8 @@
 	},
 	{
 		"id": "rocketchat",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Rocket.Chat",
 		"terms": [],
@@ -6271,8 +6271,8 @@
 	},
 	{
 		"id": "rockrms",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Rockrms",
 		"terms": [],
@@ -6280,8 +6280,8 @@
 	},
 	{
 		"id": "rss",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "rss",
 		"terms": [
@@ -6291,8 +6291,8 @@
 	},
 	{
 		"id": "rss-square",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "RSS Square",
 		"terms": [
@@ -6303,8 +6303,8 @@
 	},
 	{
 		"id": "ruble-sign",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Ruble Sign",
 		"terms": [
@@ -6314,8 +6314,8 @@
 	},
 	{
 		"id": "rupee-sign",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Indian Rupee Sign",
 		"terms": [
@@ -6326,8 +6326,8 @@
 	},
 	{
 		"id": "safari",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Safari",
 		"terms": [
@@ -6337,8 +6337,8 @@
 	},
 	{
 		"id": "sass",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Sass",
 		"terms": [],
@@ -6346,9 +6346,9 @@
 	},
 	{
 		"id": "save",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Save",
 		"terms": [
@@ -6359,8 +6359,8 @@
 	},
 	{
 		"id": "schlix",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "SCHLIX",
 		"terms": [],
@@ -6368,8 +6368,8 @@
 	},
 	{
 		"id": "scribd",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Scribd",
 		"terms": [],
@@ -6377,8 +6377,8 @@
 	},
 	{
 		"id": "search",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Search",
 		"terms": [
@@ -6391,8 +6391,8 @@
 	},
 	{
 		"id": "search-minus",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Search Minus",
 		"terms": [
@@ -6405,8 +6405,8 @@
 	},
 	{
 		"id": "search-plus",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Search Plus",
 		"terms": [
@@ -6419,8 +6419,8 @@
 	},
 	{
 		"id": "searchengin",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Searchengin",
 		"terms": [],
@@ -6428,8 +6428,8 @@
 	},
 	{
 		"id": "sellcast",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Sellcast",
 		"terms": [
@@ -6439,8 +6439,8 @@
 	},
 	{
 		"id": "sellsy",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Sellsy",
 		"terms": [],
@@ -6448,8 +6448,8 @@
 	},
 	{
 		"id": "server",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Server",
 		"terms": [],
@@ -6457,8 +6457,8 @@
 	},
 	{
 		"id": "servicestack",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Servicestack",
 		"terms": [],
@@ -6466,8 +6466,8 @@
 	},
 	{
 		"id": "share",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Share",
 		"terms": [],
@@ -6475,8 +6475,8 @@
 	},
 	{
 		"id": "share-alt",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Alternate Share",
 		"terms": [],
@@ -6484,8 +6484,8 @@
 	},
 	{
 		"id": "share-alt-square",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Alternate Share Square",
 		"terms": [],
@@ -6493,9 +6493,9 @@
 	},
 	{
 		"id": "share-square",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Share Square",
 		"terms": [
@@ -6506,8 +6506,8 @@
 	},
 	{
 		"id": "shekel-sign",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Shekel Sign",
 		"terms": [
@@ -6517,8 +6517,8 @@
 	},
 	{
 		"id": "shield-alt",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Alternate Shield",
 		"terms": [
@@ -6528,8 +6528,8 @@
 	},
 	{
 		"id": "ship",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Ship",
 		"terms": [
@@ -6540,8 +6540,8 @@
 	},
 	{
 		"id": "shirtsinbulk",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Shirts in Bulk",
 		"terms": [],
@@ -6549,8 +6549,8 @@
 	},
 	{
 		"id": "shopping-bag",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Shopping Bag",
 		"terms": [],
@@ -6558,8 +6558,8 @@
 	},
 	{
 		"id": "shopping-basket",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Shopping Basket",
 		"terms": [],
@@ -6567,8 +6567,8 @@
 	},
 	{
 		"id": "shopping-cart",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "shopping-cart",
 		"terms": [
@@ -6581,8 +6581,8 @@
 	},
 	{
 		"id": "shower",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Shower",
 		"terms": [],
@@ -6590,8 +6590,8 @@
 	},
 	{
 		"id": "sign-in-alt",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Alernate Sign In",
 		"terms": [
@@ -6610,8 +6610,8 @@
 	},
 	{
 		"id": "sign-language",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Sign Language",
 		"terms": [],
@@ -6619,8 +6619,8 @@
 	},
 	{
 		"id": "sign-out-alt",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Alernate Sign Out",
 		"terms": [
@@ -6635,8 +6635,8 @@
 	},
 	{
 		"id": "signal",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "signal",
 		"terms": [
@@ -6647,8 +6647,8 @@
 	},
 	{
 		"id": "simplybuilt",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "SimplyBuilt",
 		"terms": [],
@@ -6656,8 +6656,8 @@
 	},
 	{
 		"id": "sistrix",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "SISTRIX",
 		"terms": [],
@@ -6665,8 +6665,8 @@
 	},
 	{
 		"id": "sitemap",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Sitemap",
 		"terms": [
@@ -6678,8 +6678,8 @@
 	},
 	{
 		"id": "skyatlas",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "skyatlas",
 		"terms": [],
@@ -6687,8 +6687,8 @@
 	},
 	{
 		"id": "skype",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Skype",
 		"terms": [],
@@ -6696,8 +6696,8 @@
 	},
 	{
 		"id": "slack",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Slack Logo",
 		"terms": [
@@ -6709,8 +6709,8 @@
 	},
 	{
 		"id": "slack-hash",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Slack Hashtag",
 		"terms": [
@@ -6722,8 +6722,8 @@
 	},
 	{
 		"id": "sliders-h",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Horizontal Sliders",
 		"terms": [
@@ -6734,8 +6734,8 @@
 	},
 	{
 		"id": "slideshare",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Slideshare",
 		"terms": [],
@@ -6743,9 +6743,9 @@
 	},
 	{
 		"id": "smile",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Smile",
 		"terms": [
@@ -6760,8 +6760,8 @@
 	},
 	{
 		"id": "snapchat",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Snapchat",
 		"terms": [],
@@ -6769,8 +6769,8 @@
 	},
 	{
 		"id": "snapchat-ghost",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Snapchat Ghost",
 		"terms": [],
@@ -6778,8 +6778,8 @@
 	},
 	{
 		"id": "snapchat-square",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Snapchat Square",
 		"terms": [],
@@ -6787,9 +6787,9 @@
 	},
 	{
 		"id": "snowflake",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Snowflake",
 		"terms": [],
@@ -6797,8 +6797,8 @@
 	},
 	{
 		"id": "sort",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Sort",
 		"terms": [
@@ -6808,8 +6808,8 @@
 	},
 	{
 		"id": "sort-alpha-down",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Sort Alpha Down",
 		"terms": [
@@ -6819,8 +6819,8 @@
 	},
 	{
 		"id": "sort-alpha-up",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Sort Alpha Up",
 		"terms": [
@@ -6830,8 +6830,8 @@
 	},
 	{
 		"id": "sort-amount-down",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Sort Amount Down",
 		"terms": [
@@ -6841,8 +6841,8 @@
 	},
 	{
 		"id": "sort-amount-up",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Sort Amount Up",
 		"terms": [
@@ -6852,8 +6852,8 @@
 	},
 	{
 		"id": "sort-down",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Sort Down (Descending)",
 		"terms": [
@@ -6865,8 +6865,8 @@
 	},
 	{
 		"id": "sort-numeric-down",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Sort Numeric Down",
 		"terms": [
@@ -6877,8 +6877,8 @@
 	},
 	{
 		"id": "sort-numeric-up",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Sort Numeric Up",
 		"terms": [
@@ -6889,8 +6889,8 @@
 	},
 	{
 		"id": "sort-up",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Sort Up (Ascending)",
 		"terms": [
@@ -6902,8 +6902,8 @@
 	},
 	{
 		"id": "soundcloud",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "SoundCloud",
 		"terms": [],
@@ -6911,8 +6911,8 @@
 	},
 	{
 		"id": "space-shuttle",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Space Shuttle",
 		"terms": [],
@@ -6920,8 +6920,8 @@
 	},
 	{
 		"id": "speakap",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Speakap",
 		"terms": [],
@@ -6929,8 +6929,8 @@
 	},
 	{
 		"id": "spinner",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Spinner",
 		"terms": [
@@ -6941,8 +6941,8 @@
 	},
 	{
 		"id": "spotify",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Spotify",
 		"terms": [],
@@ -6950,9 +6950,9 @@
 	},
 	{
 		"id": "square",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Square",
 		"terms": [
@@ -6963,8 +6963,8 @@
 	},
 	{
 		"id": "stack-exchange",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Stack Exchange",
 		"terms": [],
@@ -6972,8 +6972,8 @@
 	},
 	{
 		"id": "stack-overflow",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Stack Overflow",
 		"terms": [],
@@ -6981,9 +6981,9 @@
 	},
 	{
 		"id": "star",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Star",
 		"terms": [
@@ -6998,9 +6998,9 @@
 	},
 	{
 		"id": "star-half",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "star-half",
 		"terms": [
@@ -7015,8 +7015,8 @@
 	},
 	{
 		"id": "staylinked",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "StayLinked",
 		"terms": [],
@@ -7024,8 +7024,8 @@
 	},
 	{
 		"id": "steam",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Steam",
 		"terms": [],
@@ -7033,8 +7033,8 @@
 	},
 	{
 		"id": "steam-square",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Steam Square",
 		"terms": [],
@@ -7042,8 +7042,8 @@
 	},
 	{
 		"id": "steam-symbol",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Steam Symbol",
 		"terms": [],
@@ -7051,8 +7051,8 @@
 	},
 	{
 		"id": "step-backward",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "step-backward",
 		"terms": [
@@ -7066,8 +7066,8 @@
 	},
 	{
 		"id": "step-forward",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "step-forward",
 		"terms": [
@@ -7079,8 +7079,8 @@
 	},
 	{
 		"id": "stethoscope",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Stethoscope",
 		"terms": [],
@@ -7088,8 +7088,8 @@
 	},
 	{
 		"id": "sticker-mule",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Sticker Mule",
 		"terms": [],
@@ -7097,9 +7097,9 @@
 	},
 	{
 		"id": "sticky-note",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Sticky Note",
 		"terms": [],
@@ -7107,8 +7107,8 @@
 	},
 	{
 		"id": "stop",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "stop",
 		"terms": [
@@ -7120,9 +7120,9 @@
 	},
 	{
 		"id": "stop-circle",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Stop Circle",
 		"terms": [],
@@ -7130,8 +7130,8 @@
 	},
 	{
 		"id": "stopwatch",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Stopwatch",
 		"terms": [
@@ -7141,8 +7141,8 @@
 	},
 	{
 		"id": "strava",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Strava",
 		"terms": [],
@@ -7150,8 +7150,8 @@
 	},
 	{
 		"id": "street-view",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Street View",
 		"terms": [
@@ -7161,8 +7161,8 @@
 	},
 	{
 		"id": "strikethrough",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Strikethrough",
 		"terms": [],
@@ -7170,8 +7170,8 @@
 	},
 	{
 		"id": "stripe",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Stripe",
 		"terms": [],
@@ -7179,8 +7179,8 @@
 	},
 	{
 		"id": "stripe-s",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Stripe S",
 		"terms": [],
@@ -7188,8 +7188,8 @@
 	},
 	{
 		"id": "studiovinari",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Studio Vinari",
 		"terms": [],
@@ -7197,8 +7197,8 @@
 	},
 	{
 		"id": "stumbleupon",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "StumbleUpon Logo",
 		"terms": [],
@@ -7206,8 +7206,8 @@
 	},
 	{
 		"id": "stumbleupon-circle",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "StumbleUpon Circle",
 		"terms": [],
@@ -7215,8 +7215,8 @@
 	},
 	{
 		"id": "subscript",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "subscript",
 		"terms": [],
@@ -7224,8 +7224,8 @@
 	},
 	{
 		"id": "subway",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Subway",
 		"terms": [],
@@ -7233,8 +7233,8 @@
 	},
 	{
 		"id": "suitcase",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Suitcase",
 		"terms": [
@@ -7248,9 +7248,9 @@
 	},
 	{
 		"id": "sun",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Sun",
 		"terms": [
@@ -7264,8 +7264,8 @@
 	},
 	{
 		"id": "superpowers",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Superpowers",
 		"terms": [],
@@ -7273,8 +7273,8 @@
 	},
 	{
 		"id": "superscript",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "superscript",
 		"terms": [
@@ -7284,8 +7284,8 @@
 	},
 	{
 		"id": "supple",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Supple",
 		"terms": [],
@@ -7293,8 +7293,8 @@
 	},
 	{
 		"id": "sync",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Sync",
 		"terms": [
@@ -7305,8 +7305,8 @@
 	},
 	{
 		"id": "sync-alt",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Alternate Sync",
 		"terms": [
@@ -7317,8 +7317,8 @@
 	},
 	{
 		"id": "table",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "table",
 		"terms": [
@@ -7330,8 +7330,8 @@
 	},
 	{
 		"id": "tablet",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "tablet",
 		"terms": [
@@ -7342,8 +7342,8 @@
 	},
 	{
 		"id": "tablet-alt",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Alternate Tablet",
 		"terms": [
@@ -7353,8 +7353,8 @@
 	},
 	{
 		"id": "tachometer-alt",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Alternate Tachometer",
 		"terms": [
@@ -7364,8 +7364,8 @@
 	},
 	{
 		"id": "tag",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "tag",
 		"terms": [
@@ -7375,8 +7375,8 @@
 	},
 	{
 		"id": "tags",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "tags",
 		"terms": [
@@ -7386,8 +7386,8 @@
 	},
 	{
 		"id": "tasks",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Tasks",
 		"terms": [
@@ -7401,8 +7401,8 @@
 	},
 	{
 		"id": "taxi",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Taxi",
 		"terms": [
@@ -7412,8 +7412,8 @@
 	},
 	{
 		"id": "telegram",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Telegram",
 		"terms": [],
@@ -7421,8 +7421,8 @@
 	},
 	{
 		"id": "telegram-plane",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Telegram Plane",
 		"terms": [],
@@ -7430,8 +7430,8 @@
 	},
 	{
 		"id": "tencent-weibo",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Tencent Weibo",
 		"terms": [],
@@ -7439,8 +7439,8 @@
 	},
 	{
 		"id": "terminal",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Terminal",
 		"terms": [
@@ -7452,8 +7452,8 @@
 	},
 	{
 		"id": "text-height",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "text-height",
 		"terms": [],
@@ -7461,8 +7461,8 @@
 	},
 	{
 		"id": "text-width",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "text-width",
 		"terms": [],
@@ -7470,8 +7470,8 @@
 	},
 	{
 		"id": "th",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "th",
 		"terms": [
@@ -7484,8 +7484,8 @@
 	},
 	{
 		"id": "th-large",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "th-large",
 		"terms": [
@@ -7498,8 +7498,8 @@
 	},
 	{
 		"id": "th-list",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "th-list",
 		"terms": [
@@ -7515,8 +7515,8 @@
 	},
 	{
 		"id": "themeisle",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "ThemeIsle",
 		"terms": [],
@@ -7524,8 +7524,8 @@
 	},
 	{
 		"id": "thermometer-empty",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Thermometer Empty",
 		"terms": [],
@@ -7533,8 +7533,8 @@
 	},
 	{
 		"id": "thermometer-full",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Thermometer Full",
 		"terms": [],
@@ -7542,8 +7542,8 @@
 	},
 	{
 		"id": "thermometer-half",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Thermometer 1/2 Full",
 		"terms": [],
@@ -7551,8 +7551,8 @@
 	},
 	{
 		"id": "thermometer-quarter",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Thermometer 1/4 Full",
 		"terms": [],
@@ -7560,8 +7560,8 @@
 	},
 	{
 		"id": "thermometer-three-quarters",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Thermometer 3/4 Full",
 		"terms": [],
@@ -7569,9 +7569,9 @@
 	},
 	{
 		"id": "thumbs-down",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "thumbs-down",
 		"terms": [
@@ -7585,9 +7585,9 @@
 	},
 	{
 		"id": "thumbs-up",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "thumbs-up",
 		"terms": [
@@ -7602,8 +7602,8 @@
 	},
 	{
 		"id": "thumbtack",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Thumbtack",
 		"terms": [
@@ -7617,8 +7617,8 @@
 	},
 	{
 		"id": "ticket-alt",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Alernate Ticket",
 		"terms": [
@@ -7628,8 +7628,8 @@
 	},
 	{
 		"id": "times",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Times",
 		"terms": [
@@ -7642,9 +7642,9 @@
 	},
 	{
 		"id": "times-circle",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Times Circle",
 		"terms": [
@@ -7656,8 +7656,8 @@
 	},
 	{
 		"id": "tint",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "tint",
 		"terms": [
@@ -7670,8 +7670,8 @@
 	},
 	{
 		"id": "toggle-off",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Toggle Off",
 		"terms": [],
@@ -7679,8 +7679,8 @@
 	},
 	{
 		"id": "toggle-on",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Toggle On",
 		"terms": [],
@@ -7688,8 +7688,8 @@
 	},
 	{
 		"id": "trademark",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Trademark",
 		"terms": [],
@@ -7697,8 +7697,8 @@
 	},
 	{
 		"id": "train",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Train",
 		"terms": [],
@@ -7706,8 +7706,8 @@
 	},
 	{
 		"id": "transgender",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Transgender",
 		"terms": [
@@ -7717,8 +7717,8 @@
 	},
 	{
 		"id": "transgender-alt",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Alternate Transgender",
 		"terms": [],
@@ -7726,8 +7726,8 @@
 	},
 	{
 		"id": "trash",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Trash",
 		"terms": [
@@ -7740,9 +7740,9 @@
 	},
 	{
 		"id": "trash-alt",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Alternate Trash",
 		"terms": [
@@ -7757,8 +7757,8 @@
 	},
 	{
 		"id": "tree",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Tree",
 		"terms": [],
@@ -7766,8 +7766,8 @@
 	},
 	{
 		"id": "trello",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Trello",
 		"terms": [],
@@ -7775,8 +7775,8 @@
 	},
 	{
 		"id": "tripadvisor",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "TripAdvisor",
 		"terms": [],
@@ -7784,8 +7784,8 @@
 	},
 	{
 		"id": "trophy",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "trophy",
 		"terms": [
@@ -7799,8 +7799,8 @@
 	},
 	{
 		"id": "truck",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "truck",
 		"terms": [
@@ -7810,8 +7810,8 @@
 	},
 	{
 		"id": "tty",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "TTY",
 		"terms": [],
@@ -7819,8 +7819,8 @@
 	},
 	{
 		"id": "tumblr",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Tumblr",
 		"terms": [],
@@ -7828,8 +7828,8 @@
 	},
 	{
 		"id": "tumblr-square",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Tumblr Square",
 		"terms": [],
@@ -7837,8 +7837,8 @@
 	},
 	{
 		"id": "tv",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Television",
 		"terms": [
@@ -7851,8 +7851,8 @@
 	},
 	{
 		"id": "twitch",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Twitch",
 		"terms": [],
@@ -7860,8 +7860,8 @@
 	},
 	{
 		"id": "twitter",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Twitter",
 		"terms": [
@@ -7872,8 +7872,8 @@
 	},
 	{
 		"id": "twitter-square",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Twitter Square",
 		"terms": [
@@ -7884,8 +7884,8 @@
 	},
 	{
 		"id": "typo3",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Typo3",
 		"terms": [],
@@ -7893,8 +7893,8 @@
 	},
 	{
 		"id": "uber",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Uber",
 		"terms": [],
@@ -7902,8 +7902,8 @@
 	},
 	{
 		"id": "uikit",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "UIkit",
 		"terms": [],
@@ -7911,8 +7911,8 @@
 	},
 	{
 		"id": "umbrella",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Umbrella",
 		"terms": [],
@@ -7920,8 +7920,8 @@
 	},
 	{
 		"id": "underline",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Underline",
 		"terms": [],
@@ -7929,8 +7929,8 @@
 	},
 	{
 		"id": "undo",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Undo",
 		"terms": [
@@ -7940,8 +7940,8 @@
 	},
 	{
 		"id": "undo-alt",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Alternate Undo",
 		"terms": [
@@ -7951,8 +7951,8 @@
 	},
 	{
 		"id": "uniregistry",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Uniregistry",
 		"terms": [],
@@ -7960,8 +7960,8 @@
 	},
 	{
 		"id": "universal-access",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Universal Access",
 		"terms": [],
@@ -7969,8 +7969,8 @@
 	},
 	{
 		"id": "university",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "University",
 		"terms": [],
@@ -7978,8 +7978,8 @@
 	},
 	{
 		"id": "unlink",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "unlink",
 		"terms": [
@@ -7991,8 +7991,8 @@
 	},
 	{
 		"id": "unlock",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "unlock",
 		"terms": [
@@ -8005,8 +8005,8 @@
 	},
 	{
 		"id": "unlock-alt",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Alternate Unlock",
 		"terms": [
@@ -8019,8 +8019,8 @@
 	},
 	{
 		"id": "untappd",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Untappd",
 		"terms": [],
@@ -8028,8 +8028,8 @@
 	},
 	{
 		"id": "upload",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Upload",
 		"terms": [
@@ -8039,8 +8039,8 @@
 	},
 	{
 		"id": "usb",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "USB",
 		"terms": [],
@@ -8048,9 +8048,9 @@
 	},
 	{
 		"id": "user",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "User",
 		"terms": [
@@ -8063,9 +8063,9 @@
 	},
 	{
 		"id": "user-circle",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "User Circle",
 		"terms": [],
@@ -8073,8 +8073,8 @@
 	},
 	{
 		"id": "user-md",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "user-md",
 		"terms": [
@@ -8087,8 +8087,8 @@
 	},
 	{
 		"id": "user-plus",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Add User",
 		"terms": [
@@ -8099,8 +8099,8 @@
 	},
 	{
 		"id": "user-secret",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "User Secret",
 		"terms": [
@@ -8113,8 +8113,8 @@
 	},
 	{
 		"id": "user-times",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Remove User",
 		"terms": [],
@@ -8122,8 +8122,8 @@
 	},
 	{
 		"id": "users",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Users",
 		"terms": [
@@ -8135,8 +8135,8 @@
 	},
 	{
 		"id": "ussunnah",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "us-Sunnah Foundation",
 		"terms": [],
@@ -8144,8 +8144,8 @@
 	},
 	{
 		"id": "utensil-spoon",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Utensil Spoon",
 		"terms": [
@@ -8155,8 +8155,8 @@
 	},
 	{
 		"id": "utensils",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Utensils",
 		"terms": [
@@ -8172,8 +8172,8 @@
 	},
 	{
 		"id": "vaadin",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Vaadin",
 		"terms": [],
@@ -8181,8 +8181,8 @@
 	},
 	{
 		"id": "venus",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Venus",
 		"terms": [
@@ -8192,8 +8192,8 @@
 	},
 	{
 		"id": "venus-double",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Venus Double",
 		"terms": [],
@@ -8201,8 +8201,8 @@
 	},
 	{
 		"id": "venus-mars",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Venus Mars",
 		"terms": [],
@@ -8210,8 +8210,8 @@
 	},
 	{
 		"id": "viacoin",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Viacoin",
 		"terms": [],
@@ -8219,8 +8219,8 @@
 	},
 	{
 		"id": "viadeo",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Viadeo",
 		"terms": [],
@@ -8228,8 +8228,8 @@
 	},
 	{
 		"id": "viadeo-square",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Viadeo Square",
 		"terms": [],
@@ -8237,8 +8237,8 @@
 	},
 	{
 		"id": "viber",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Viber",
 		"terms": [],
@@ -8246,8 +8246,8 @@
 	},
 	{
 		"id": "video",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Video",
 		"terms": [
@@ -8261,8 +8261,8 @@
 	},
 	{
 		"id": "vimeo",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Vimeo",
 		"terms": [],
@@ -8270,8 +8270,8 @@
 	},
 	{
 		"id": "vimeo-square",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Vimeo Square",
 		"terms": [],
@@ -8279,8 +8279,8 @@
 	},
 	{
 		"id": "vimeo-v",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Vimeo",
 		"terms": [
@@ -8290,8 +8290,8 @@
 	},
 	{
 		"id": "vine",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Vine",
 		"terms": [],
@@ -8299,8 +8299,8 @@
 	},
 	{
 		"id": "vk",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "VK",
 		"terms": [],
@@ -8308,8 +8308,8 @@
 	},
 	{
 		"id": "vnv",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "VNV",
 		"terms": [],
@@ -8317,8 +8317,8 @@
 	},
 	{
 		"id": "volume-down",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "volume-down",
 		"terms": [
@@ -8332,8 +8332,8 @@
 	},
 	{
 		"id": "volume-off",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "volume-off",
 		"terms": [
@@ -8346,8 +8346,8 @@
 	},
 	{
 		"id": "volume-up",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "volume-up",
 		"terms": [
@@ -8361,8 +8361,8 @@
 	},
 	{
 		"id": "vuejs",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Vue.js",
 		"terms": [],
@@ -8370,8 +8370,8 @@
 	},
 	{
 		"id": "weibo",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Weibo",
 		"terms": [],
@@ -8379,8 +8379,8 @@
 	},
 	{
 		"id": "weixin",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Weixin (WeChat)",
 		"terms": [],
@@ -8388,8 +8388,8 @@
 	},
 	{
 		"id": "whatsapp",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "What's App",
 		"terms": [],
@@ -8397,8 +8397,8 @@
 	},
 	{
 		"id": "whatsapp-square",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "What's App Square",
 		"terms": [],
@@ -8406,8 +8406,8 @@
 	},
 	{
 		"id": "wheelchair",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Wheelchair",
 		"terms": [
@@ -8418,8 +8418,8 @@
 	},
 	{
 		"id": "whmcs",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "WHMCS",
 		"terms": [],
@@ -8427,8 +8427,8 @@
 	},
 	{
 		"id": "wifi",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "WiFi",
 		"terms": [],
@@ -8436,8 +8436,8 @@
 	},
 	{
 		"id": "wikipedia-w",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Wikipedia W",
 		"terms": [],
@@ -8445,9 +8445,9 @@
 	},
 	{
 		"id": "window-close",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Window Close",
 		"terms": [],
@@ -8455,9 +8455,9 @@
 	},
 	{
 		"id": "window-maximize",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Window Maximize",
 		"terms": [],
@@ -8465,9 +8465,9 @@
 	},
 	{
 		"id": "window-minimize",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Window Minimize",
 		"terms": [],
@@ -8475,9 +8475,9 @@
 	},
 	{
 		"id": "window-restore",
-		"prefixes": [
-			"fas",
-			"far"
+		"styles": [
+			"solid",
+			"regular"
 		],
 		"label": "Window Restore",
 		"terms": [],
@@ -8485,8 +8485,8 @@
 	},
 	{
 		"id": "windows",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Windows",
 		"terms": [
@@ -8496,8 +8496,8 @@
 	},
 	{
 		"id": "won-sign",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Won Sign",
 		"terms": [
@@ -8507,8 +8507,8 @@
 	},
 	{
 		"id": "wordpress",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "WordPress Logo",
 		"terms": [],
@@ -8516,8 +8516,8 @@
 	},
 	{
 		"id": "wordpress-simple",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Wordpress Simple",
 		"terms": [],
@@ -8525,8 +8525,8 @@
 	},
 	{
 		"id": "wpbeginner",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "WPBeginner",
 		"terms": [],
@@ -8534,8 +8534,8 @@
 	},
 	{
 		"id": "wpexplorer",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "WPExplorer",
 		"terms": [],
@@ -8543,8 +8543,8 @@
 	},
 	{
 		"id": "wpforms",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "WPForms",
 		"terms": [],
@@ -8552,8 +8552,8 @@
 	},
 	{
 		"id": "wrench",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Wrench",
 		"terms": [
@@ -8566,8 +8566,8 @@
 	},
 	{
 		"id": "xbox",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Xbox",
 		"terms": [],
@@ -8575,8 +8575,8 @@
 	},
 	{
 		"id": "xing",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Xing",
 		"terms": [],
@@ -8584,8 +8584,8 @@
 	},
 	{
 		"id": "xing-square",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Xing Square",
 		"terms": [],
@@ -8593,8 +8593,8 @@
 	},
 	{
 		"id": "y-combinator",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Y Combinator",
 		"terms": [],
@@ -8602,8 +8602,8 @@
 	},
 	{
 		"id": "yahoo",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Yahoo Logo",
 		"terms": [],
@@ -8611,8 +8611,8 @@
 	},
 	{
 		"id": "yandex",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Yandex",
 		"terms": [],
@@ -8620,8 +8620,8 @@
 	},
 	{
 		"id": "yandex-international",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Yandex International",
 		"terms": [],
@@ -8629,8 +8629,8 @@
 	},
 	{
 		"id": "yelp",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Yelp",
 		"terms": [],
@@ -8638,8 +8638,8 @@
 	},
 	{
 		"id": "yen-sign",
-		"prefixes": [
-			"fas"
+		"styles": [
+			"solid"
 		],
 		"label": "Yen Sign",
 		"terms": [
@@ -8649,8 +8649,8 @@
 	},
 	{
 		"id": "yoast",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "Yoast",
 		"terms": [],
@@ -8658,8 +8658,8 @@
 	},
 	{
 		"id": "youtube",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "YouTube",
 		"terms": [
@@ -8672,8 +8672,8 @@
 	},
 	{
 		"id": "youtube-square",
-		"prefixes": [
-			"fab"
+		"styles": [
+			"brands"
 		],
 		"label": "YouTube Square",
 		"terms": [],
