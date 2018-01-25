@@ -2,34 +2,62 @@
 
 // import version specific stylesheets into namespaces
 .aafa-v-4-7 { @import (less) 'v4.7/font-awesome.min.css'; }
-//.aafa-v-5-0 { @import (less) 'v5.0/font-awesome.min.css'; }
+.aafa-v-5-0 { @import (less) 'v5.0/fontawesome-all.css'; } // minified version has parsing error
 
 // Atom packages run in a different path on Linux, so it's safer to
 // use an absolute path for runtime assets to avoid relativity issues
 @styles-path: 'atom://autocomplete-font-awesome/styles';
 
 @font-face {
-    font-family: 'FontAwesome-v4.7';
+    font-family: 'FontAwesome-v4.7-fa';
     src: url('@{styles-path}/v4.7/fontawesome-webfont.woff2') format('woff2');
-    font-weight: normal;
+    font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'FontAwesome-v5.0';
-    src: url('@{styles-path}/v5.0/fontawesome-webfont.woff2') format('woff2');
-    font-weight: normal;
+    font-family: 'FontAwesome-v5.0-fas';
+    src: url('@{styles-path}/v5.0/fa-solid-900.woff2') format('woff2');
+    font-weight: 900;
     font-style: normal;
 }
 
-.aafa .fa {
-    transform: scale(1.2);
+@font-face {
+    font-family: 'FontAwesome-v5.0-far';
+    src: url('@{styles-path}/v5.0/fa-regular-400.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
 }
 
-.aafa-v-4-7 .fa {
-    font-family: 'FontAwesome-v4.7';
+@font-face {
+    font-family: 'FontAwesome-v5.0-fab';
+    src: url('@{styles-path}/v5.0/fa-brands-400.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
 }
 
-.aafa-v-5-0 .fa {
-    font-family: 'FontAwesome-v5.0';
+.aafa {
+    .fa, .fas, .far, .fab {
+        transform: scale(1.2);
+    }
+}
+
+.aafa-v-4-7 {
+    .fa {
+        font-family: 'FontAwesome-v4.7-fa';
+    }
+}
+
+.aafa-v-5-0 {
+    .fas {
+        font-family: 'FontAwesome-v5.0-fas';
+    }
+
+    .far {
+        font-family: 'FontAwesome-v5.0-far';
+    }
+
+    .fab {
+        font-family: 'FontAwesome-v5.0-fab';
+    }
 }
