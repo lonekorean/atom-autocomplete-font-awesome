@@ -1,0 +1,147 @@
+[
+	{
+		"id": "xs",
+		"description": "Decrease Font Awesome icon size by 25%",
+		"documentationURL": "https://fontawesome.com/how-to-use/svg-with-js#icon-sizes"
+	},
+	{
+		"id": "sm",
+		"description": "Decrease Font Awesome icon size by 12.5%",
+		"documentationURL": "https://fontawesome.com/how-to-use/svg-with-js#icon-sizes"
+	},
+	{
+		"id": "lg",
+		"description": "Increase Font Awesome icon size by 33%",
+		"documentationURL": "https://fontawesome.com/how-to-use/svg-with-js#icon-sizes"
+	},
+	{
+		"id": "2x",
+		"description": "Make Font Awesome icon 2x as large",
+		"documentationURL": "https://fontawesome.com/how-to-use/svg-with-js#icon-sizes"
+	},
+	{
+		"id": "3x",
+		"description": "Make Font Awesome icon 3x as large",
+		"documentationURL": "https://fontawesome.com/how-to-use/svg-with-js#icon-sizes"
+	},
+	{
+		"id": "4x",
+		"description": "Make Font Awesome icon 4x as large",
+		"documentationURL": "https://fontawesome.com/how-to-use/svg-with-js#icon-sizes"
+	},
+	{
+		"id": "5x",
+		"description": "Make Font Awesome icon 5x as large",
+		"documentationURL": "https://fontawesome.com/how-to-use/svg-with-js#icon-sizes"
+	},
+	{
+		"id": "6x",
+		"description": "Make Font Awesome icon 6x as large",
+		"documentationURL": "https://fontawesome.com/how-to-use/svg-with-js#icon-sizes"
+	},
+	{
+		"id": "7x",
+		"description": "Make Font Awesome icon 7x as large",
+		"documentationURL": "https://fontawesome.com/how-to-use/svg-with-js#icon-sizes"
+	},
+	{
+		"id": "8x",
+		"description": "Make Font Awesome icon 8x as large",
+		"documentationURL": "https://fontawesome.com/how-to-use/svg-with-js#icon-sizes"
+	},
+	{
+		"id": "9x",
+		"description": "Make Font Awesome icon 9x as large",
+		"documentationURL": "https://fontawesome.com/how-to-use/svg-with-js#icon-sizes"
+	},
+	{
+		"id": "10x",
+		"description": "Make Font Awesome icon 10x as large",
+		"documentationURL": "https://fontawesome.com/how-to-use/svg-with-js#icon-sizes"
+	},
+	{
+		"id": "fw",
+		"description": "Set fixed width for a Font Awesome icon",
+		"documentationURL": "https://fontawesome.com/how-to-use/svg-with-js#fixed-width-icons"
+	},
+	{
+		"id": "ul",
+		"description": "Declare a list that uses Font Awesome icons for bullets",
+		"documentationURL": "https://fontawesome.com/how-to-use/svg-with-js#list-icons"
+	},
+	{
+		"id": "li",
+		"description": "Declare a Font Awesome icon as the bullet for a list item",
+		"documentationURL": "https://fontawesome.com/how-to-use/svg-with-js#list-icons"
+	},
+	{
+		"id": "border",
+		"description": "Include a border around a Font Awesome icon",
+		"documentationURL": "https://fontawesome.com/how-to-use/svg-with-js#bordered-pulled-icons"
+	},
+	{
+		"id": "pull-left",
+		"description": "Pull a Font Awesome icon to the left of content",
+		"documentationURL": "https://fontawesome.com/how-to-use/svg-with-js#bordered-pulled-icons"
+	},
+	{
+		"id": "pull-right",
+		"description": "Pull a Font Awesome icon to the right of content",
+		"documentationURL": "https://fontawesome.com/how-to-use/svg-with-js#bordered-pulled-icons"
+	},
+	{
+		"id": "spin",
+		"description": "Make a Font Awesome icon smoothly rotate clockwise",
+		"documentationURL": "https://fontawesome.com/how-to-use/svg-with-js#animated-icons"
+	},
+	{
+		"id": "pulse",
+		"description": "Make a Font Awesome icon rotate clockwise in 8 steps per turn",
+		"documentationURL": "https://fontawesome.com/how-to-use/svg-with-js#animated-icons"
+	},
+	{
+		"id": "rotate-90",
+		"description": "Rotate a Font Awesome icon 90 degrees",
+		"documentationURL": "https://fontawesome.com/how-to-use/web-fonts-with-css#rotated-flipped-icons"
+	},
+	{
+		"id": "rotate-180",
+		"description": "Rotate a Font Awesome icon 180 degrees",
+		"documentationURL": "https://fontawesome.com/how-to-use/web-fonts-with-css#rotated-flipped-icons"
+	},
+	{
+		"id": "rotate-270",
+		"description": "Rotate a Font Awesome icon 270 degrees",
+		"documentationURL": "https://fontawesome.com/how-to-use/web-fonts-with-css#rotated-flipped-icons"
+	},
+	{
+		"id": "flip-horizontal",
+		"description": "Flip a Font Awesome icon horizontally",
+		"documentationURL": "https://fontawesome.com/how-to-use/web-fonts-with-css#rotated-flipped-icons"
+	},
+	{
+		"id": "flip-vertical",
+		"description": "Flip a Font Awesome icon vertically",
+		"documentationURL": "https://fontawesome.com/how-to-use/web-fonts-with-css#rotated-flipped-icons"
+	},
+	{
+		"id": "stack",
+		"description": "Set on the parent of stacked Font Awesome icons",
+		"documentationURL": "https://fontawesome.com/how-to-use/web-fonts-with-css#stacked-icons"
+	},
+	{
+		"id": "stack-1x",
+		"description": "Set on the normal sized Font Awesome icon when stacking",
+		"documentationURL": "https://fontawesome.com/how-to-use/web-fonts-with-css#stacked-icons"
+	},
+	{
+		"id": "stack-2x",
+		"description": "Set on the larger Font Awesome icon when stacking",
+		"documentationURL": "https://fontawesome.com/how-to-use/web-fonts-with-css#stacked-icons"
+	},
+	{
+		"id": "inverse",
+		"description": "Invert the color of a Font Awesome icon",
+		"documentationURL": "https://fontawesome.com/how-to-use/web-fonts-with-css#stacked-icons"
+	}
+]
