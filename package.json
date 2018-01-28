@@ -26,7 +26,7 @@
         }
     },
     "configSchema": {
-        "fontAwesomeVersion": {
+        "version": {
             "title": "Font Awesome Version",
             "description": "Which version of Font Awesome to use for suggestions.",
             "type": "string",

@@ -2,7 +2,7 @@
 	{
 		"id": "glass",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Glass",
 		"terms": [
@@ -17,7 +17,7 @@
 	{
 		"id": "music",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Music",
 		"terms": [
@@ -29,7 +29,7 @@
 	{
 		"id": "search",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Search",
 		"terms": [
@@ -43,7 +43,7 @@
 	{
 		"id": "envelope-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Envelope Outlined",
 		"terms": [
@@ -60,7 +60,7 @@
 	{
 		"id": "heart",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Heart",
 		"terms": [
@@ -73,7 +73,7 @@
 	{
 		"id": "star",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Star",
 		"terms": [
@@ -89,7 +89,7 @@
 	{
 		"id": "star-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Star Outlined",
 		"terms": [
@@ -105,7 +105,7 @@
 	{
 		"id": "user",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "User",
 		"terms": [
@@ -119,7 +119,7 @@
 	{
 		"id": "film",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Film",
 		"terms": [
@@ -130,7 +130,7 @@
 	{
 		"id": "th-large",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "th-large",
 		"terms": [
@@ -144,7 +144,7 @@
 	{
 		"id": "th",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "th",
 		"terms": [
@@ -158,7 +158,7 @@
 	{
 		"id": "th-list",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "th-list",
 		"terms": [
@@ -175,7 +175,7 @@
 	{
 		"id": "check",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Check",
 		"terms": [
@@ -193,7 +193,7 @@
 	{
 		"id": "times",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Times",
 		"terms": [
@@ -208,7 +208,7 @@
 	{
 		"id": "search-plus",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Search Plus",
 		"terms": [
@@ -222,7 +222,7 @@
 	{
 		"id": "search-minus",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Search Minus",
 		"terms": [
@@ -236,7 +236,7 @@
 	{
 		"id": "power-off",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Power Off",
 		"terms": [
@@ -247,7 +247,7 @@
 	{
 		"id": "signal",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "signal",
 		"terms": [
@@ -259,7 +259,7 @@
 	{
 		"id": "cog",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "cog",
 		"terms": [
@@ -271,7 +271,7 @@
 	{
 		"id": "trash-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Trash Outlined",
 		"terms": [
@@ -286,7 +286,7 @@
 	{
 		"id": "home",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "home",
 		"terms": [
@@ -298,7 +298,7 @@
 	{
 		"id": "file-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "File Outlined",
 		"terms": [
@@ -312,7 +312,7 @@
 	{
 		"id": "clock-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Clock Outlined",
 		"terms": [
@@ -326,7 +326,7 @@
 	{
 		"id": "road",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "road",
 		"terms": [
@@ -337,7 +337,7 @@
 	{
 		"id": "download",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Download",
 		"terms": [
@@ -348,7 +348,7 @@
 	{
 		"id": "arrow-circle-o-down",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Arrow Circle Outlined Down",
 		"terms": [
@@ -359,7 +359,7 @@
 	{
 		"id": "arrow-circle-o-up",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Arrow Circle Outlined Up",
 		"terms": [],
@@ -368,7 +368,7 @@
 	{
 		"id": "inbox",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "inbox",
 		"terms": [],
@@ -377,7 +377,7 @@
 	{
 		"id": "play-circle-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Play Circle Outlined",
 		"terms": [],
@@ -386,7 +386,7 @@
 	{
 		"id": "repeat",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Repeat",
 		"terms": [
@@ -399,7 +399,7 @@
 	{
 		"id": "refresh",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "refresh",
 		"terms": [
@@ -411,7 +411,7 @@
 	{
 		"id": "list-alt",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "list-alt",
 		"terms": [
@@ -428,7 +428,7 @@
 	{
 		"id": "lock",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "lock",
 		"terms": [
@@ -441,7 +441,7 @@
 	{
 		"id": "flag",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "flag",
 		"terms": [
@@ -454,7 +454,7 @@
 	{
 		"id": "headphones",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "headphones",
 		"terms": [
@@ -468,7 +468,7 @@
 	{
 		"id": "volume-off",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "volume-off",
 		"terms": [
@@ -482,7 +482,7 @@
 	{
 		"id": "volume-down",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "volume-down",
 		"terms": [
@@ -497,7 +497,7 @@
 	{
 		"id": "volume-up",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "volume-up",
 		"terms": [
@@ -512,7 +512,7 @@
 	{
 		"id": "qrcode",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "qrcode",
 		"terms": [
@@ -523,7 +523,7 @@
 	{
 		"id": "barcode",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "barcode",
 		"terms": [
@@ -534,7 +534,7 @@
 	{
 		"id": "tag",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "tag",
 		"terms": [
@@ -545,7 +545,7 @@
 	{
 		"id": "tags",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "tags",
 		"terms": [
@@ -556,7 +556,7 @@
 	{
 		"id": "book",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "book",
 		"terms": [
@@ -568,7 +568,7 @@
 	{
 		"id": "bookmark",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "bookmark",
 		"terms": [
@@ -579,7 +579,7 @@
 	{
 		"id": "print",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "print",
 		"terms": [],
@@ -588,7 +588,7 @@
 	{
 		"id": "camera",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "camera",
 		"terms": [
@@ -601,7 +601,7 @@
 	{
 		"id": "font",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "font",
 		"terms": [
@@ -612,7 +612,7 @@
 	{
 		"id": "bold",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "bold",
 		"terms": [],
@@ -621,7 +621,7 @@
 	{
 		"id": "italic",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "italic",
 		"terms": [
@@ -632,7 +632,7 @@
 	{
 		"id": "text-height",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "text-height",
 		"terms": [],
@@ -641,7 +641,7 @@
 	{
 		"id": "text-width",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "text-width",
 		"terms": [],
@@ -650,7 +650,7 @@
 	{
 		"id": "align-left",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "align-left",
 		"terms": [
@@ -661,7 +661,7 @@
 	{
 		"id": "align-center",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "align-center",
 		"terms": [
@@ -673,7 +673,7 @@
 	{
 		"id": "align-right",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "align-right",
 		"terms": [
@@ -684,7 +684,7 @@
 	{
 		"id": "align-justify",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "align-justify",
 		"terms": [
@@ -695,7 +695,7 @@
 	{
 		"id": "list",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "list",
 		"terms": [
@@ -712,7 +712,7 @@
 	{
 		"id": "outdent",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Outdent",
 		"terms": [
@@ -723,7 +723,7 @@
 	{
 		"id": "indent",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Indent",
 		"terms": [],
@@ -732,7 +732,7 @@
 	{
 		"id": "video-camera",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Video Camera",
 		"terms": [
@@ -745,7 +745,7 @@
 	{
 		"id": "picture-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Picture Outlined",
 		"terms": [
@@ -757,7 +757,7 @@
 	{
 		"id": "pencil",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "pencil",
 		"terms": [
@@ -770,7 +770,7 @@
 	{
 		"id": "map-marker",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "map-marker",
 		"terms": [
@@ -789,7 +789,7 @@
 	{
 		"id": "adjust",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "adjust",
 		"terms": [
@@ -800,7 +800,7 @@
 	{
 		"id": "tint",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "tint",
 		"terms": [
@@ -814,7 +814,7 @@
 	{
 		"id": "pencil-square-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Pencil Square Outlined",
 		"terms": [
@@ -827,7 +827,7 @@
 	{
 		"id": "share-square-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Share Square Outlined",
 		"terms": [
@@ -840,7 +840,7 @@
 	{
 		"id": "check-square-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Check Square Outlined",
 		"terms": [
@@ -856,7 +856,7 @@
 	{
 		"id": "arrows",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Arrows",
 		"terms": [
@@ -869,7 +869,7 @@
 	{
 		"id": "step-backward",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "step-backward",
 		"terms": [
@@ -884,7 +884,7 @@
 	{
 		"id": "fast-backward",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "fast-backward",
 		"terms": [
@@ -899,7 +899,7 @@
 	{
 		"id": "backward",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "backward",
 		"terms": [
@@ -911,7 +911,7 @@
 	{
 		"id": "play",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "play",
 		"terms": [
@@ -925,7 +925,7 @@
 	{
 		"id": "pause",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "pause",
 		"terms": [
@@ -936,7 +936,7 @@
 	{
 		"id": "stop",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "stop",
 		"terms": [
@@ -949,7 +949,7 @@
 	{
 		"id": "forward",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "forward",
 		"terms": [
@@ -961,7 +961,7 @@
 	{
 		"id": "fast-forward",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "fast-forward",
 		"terms": [
@@ -974,7 +974,7 @@
 	{
 		"id": "step-forward",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "step-forward",
 		"terms": [
@@ -987,7 +987,7 @@
 	{
 		"id": "eject",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "eject",
 		"terms": [],
@@ -996,7 +996,7 @@
 	{
 		"id": "chevron-left",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "chevron-left",
 		"terms": [
@@ -1009,7 +1009,7 @@
 	{
 		"id": "chevron-right",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "chevron-right",
 		"terms": [
@@ -1022,7 +1022,7 @@
 	{
 		"id": "plus-circle",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Plus Circle",
 		"terms": [
@@ -1036,7 +1036,7 @@
 	{
 		"id": "minus-circle",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Minus Circle",
 		"terms": [
@@ -1050,7 +1050,7 @@
 	{
 		"id": "times-circle",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Times Circle",
 		"terms": [
@@ -1063,7 +1063,7 @@
 	{
 		"id": "check-circle",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Check Circle",
 		"terms": [
@@ -1079,7 +1079,7 @@
 	{
 		"id": "question-circle",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Question Circle",
 		"terms": [
@@ -1093,7 +1093,7 @@
 	{
 		"id": "info-circle",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Info Circle",
 		"terms": [
@@ -1107,7 +1107,7 @@
 	{
 		"id": "crosshairs",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Crosshairs",
 		"terms": [
@@ -1118,7 +1118,7 @@
 	{
 		"id": "times-circle-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Times Circle Outlined",
 		"terms": [
@@ -1131,7 +1131,7 @@
 	{
 		"id": "check-circle-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Check Circle Outlined",
 		"terms": [
@@ -1147,7 +1147,7 @@
 	{
 		"id": "ban",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "ban",
 		"terms": [
@@ -1165,7 +1165,7 @@
 	{
 		"id": "arrow-left",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "arrow-left",
 		"terms": [
@@ -1177,7 +1177,7 @@
 	{
 		"id": "arrow-right",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "arrow-right",
 		"terms": [
@@ -1189,7 +1189,7 @@
 	{
 		"id": "arrow-up",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "arrow-up",
 		"terms": [],
@@ -1198,7 +1198,7 @@
 	{
 		"id": "arrow-down",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "arrow-down",
 		"terms": [
@@ -1209,7 +1209,7 @@
 	{
 		"id": "share",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Share",
 		"terms": [
@@ -1220,7 +1220,7 @@
 	{
 		"id": "expand",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Expand",
 		"terms": [
@@ -1233,7 +1233,7 @@
 	{
 		"id": "compress",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Compress",
 		"terms": [
@@ -1248,7 +1248,7 @@
 	{
 		"id": "plus",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "plus",
 		"terms": [
@@ -1262,7 +1262,7 @@
 	{
 		"id": "minus",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "minus",
 		"terms": [
@@ -1278,7 +1278,7 @@
 	{
 		"id": "asterisk",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "asterisk",
 		"terms": [
@@ -1289,7 +1289,7 @@
 	{
 		"id": "exclamation-circle",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Exclamation Circle",
 		"terms": [
@@ -1304,7 +1304,7 @@
 	{
 		"id": "gift",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "gift",
 		"terms": [
@@ -1315,7 +1315,7 @@
 	{
 		"id": "leaf",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "leaf",
 		"terms": [
@@ -1328,7 +1328,7 @@
 	{
 		"id": "fire",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "fire",
 		"terms": [
@@ -1341,7 +1341,7 @@
 	{
 		"id": "eye",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Eye",
 		"terms": [
@@ -1354,7 +1354,7 @@
 	{
 		"id": "eye-slash",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Eye Slash",
 		"terms": [
@@ -1370,7 +1370,7 @@
 	{
 		"id": "exclamation-triangle",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Exclamation Triangle",
 		"terms": [
@@ -1385,7 +1385,7 @@
 	{
 		"id": "plane",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "plane",
 		"terms": [
@@ -1402,7 +1402,7 @@
 	{
 		"id": "calendar",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "calendar",
 		"terms": [
@@ -1416,7 +1416,7 @@
 	{
 		"id": "random",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "random",
 		"terms": [
@@ -1428,7 +1428,7 @@
 	{
 		"id": "comment",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "comment",
 		"terms": [
@@ -1448,7 +1448,7 @@
 	{
 		"id": "magnet",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "magnet",
 		"terms": [],
@@ -1457,7 +1457,7 @@
 	{
 		"id": "chevron-up",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "chevron-up",
 		"terms": [],
@@ -1466,7 +1466,7 @@
 	{
 		"id": "chevron-down",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "chevron-down",
 		"terms": [],
@@ -1475,7 +1475,7 @@
 	{
 		"id": "retweet",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "retweet",
 		"terms": [
@@ -1488,7 +1488,7 @@
 	{
 		"id": "shopping-cart",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "shopping-cart",
 		"terms": [
@@ -1502,7 +1502,7 @@
 	{
 		"id": "folder",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Folder",
 		"terms": [],
@@ -1511,7 +1511,7 @@
 	{
 		"id": "folder-open",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Folder Open",
 		"terms": [],
@@ -1520,7 +1520,7 @@
 	{
 		"id": "arrows-v",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Arrows Vertical",
 		"terms": [
@@ -1531,7 +1531,7 @@
 	{
 		"id": "arrows-h",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Arrows Horizontal",
 		"terms": [
@@ -1542,7 +1542,7 @@
 	{
 		"id": "bar-chart",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Bar Chart",
 		"terms": [
@@ -1555,7 +1555,7 @@
 	{
 		"id": "twitter-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Twitter Square",
 		"terms": [
@@ -1567,7 +1567,7 @@
 	{
 		"id": "facebook-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Facebook Square",
 		"terms": [
@@ -1578,7 +1578,7 @@
 	{
 		"id": "camera-retro",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "camera-retro",
 		"terms": [
@@ -1591,7 +1591,7 @@
 	{
 		"id": "key",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "key",
 		"terms": [
@@ -1603,7 +1603,7 @@
 	{
 		"id": "cogs",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "cogs",
 		"terms": [
@@ -1615,7 +1615,7 @@
 	{
 		"id": "comments",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "comments",
 		"terms": [
@@ -1635,7 +1635,7 @@
 	{
 		"id": "thumbs-o-up",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Thumbs Up Outlined",
 		"terms": [
@@ -1650,7 +1650,7 @@
 	{
 		"id": "thumbs-o-down",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Thumbs Down Outlined",
 		"terms": [
@@ -1664,7 +1664,7 @@
 	{
 		"id": "star-half",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "star-half",
 		"terms": [
@@ -1678,7 +1678,7 @@
 	{
 		"id": "heart-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Heart Outlined",
 		"terms": [
@@ -1691,7 +1691,7 @@
 	{
 		"id": "sign-out",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Sign Out",
 		"terms": [
@@ -1706,7 +1706,7 @@
 	{
 		"id": "linkedin-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "LinkedIn Square",
 		"terms": [],
@@ -1715,7 +1715,7 @@
 	{
 		"id": "thumb-tack",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Thumb Tack",
 		"terms": [
@@ -1729,7 +1729,7 @@
 	{
 		"id": "external-link",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "External Link",
 		"terms": [
@@ -1741,7 +1741,7 @@
 	{
 		"id": "sign-in",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Sign In",
 		"terms": [
@@ -1760,7 +1760,7 @@
 	{
 		"id": "trophy",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "trophy",
 		"terms": [
@@ -1775,7 +1775,7 @@
 	{
 		"id": "github-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "GitHub Square",
 		"terms": [
@@ -1786,7 +1786,7 @@
 	{
 		"id": "upload",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Upload",
 		"terms": [
@@ -1797,7 +1797,7 @@
 	{
 		"id": "lemon-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Lemon Outlined",
 		"terms": [
@@ -1808,7 +1808,7 @@
 	{
 		"id": "phone",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Phone",
 		"terms": [
@@ -1824,7 +1824,7 @@
 	{
 		"id": "square-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Square Outlined",
 		"terms": [
@@ -1837,7 +1837,7 @@
 	{
 		"id": "bookmark-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Bookmark Outlined",
 		"terms": [
@@ -1848,7 +1848,7 @@
 	{
 		"id": "phone-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Phone Square",
 		"terms": [
@@ -1863,7 +1863,7 @@
 	{
 		"id": "twitter",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Twitter",
 		"terms": [
@@ -1875,7 +1875,7 @@
 	{
 		"id": "facebook",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Facebook",
 		"terms": [
@@ -1887,7 +1887,7 @@
 	{
 		"id": "github",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "GitHub",
 		"terms": [
@@ -1898,7 +1898,7 @@
 	{
 		"id": "unlock",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "unlock",
 		"terms": [
@@ -1912,7 +1912,7 @@
 	{
 		"id": "credit-card",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "credit-card",
 		"terms": [
@@ -1928,7 +1928,7 @@
 	{
 		"id": "rss",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "rss",
 		"terms": [
@@ -1940,7 +1940,7 @@
 	{
 		"id": "hdd-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "HDD",
 		"terms": [
@@ -1954,7 +1954,7 @@
 	{
 		"id": "bullhorn",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "bullhorn",
 		"terms": [
@@ -1969,7 +1969,7 @@
 	{
 		"id": "bell",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "bell",
 		"terms": [
@@ -1982,7 +1982,7 @@
 	{
 		"id": "certificate",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "certificate",
 		"terms": [
@@ -1994,7 +1994,7 @@
 	{
 		"id": "hand-o-right",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Hand Outlined Right",
 		"terms": [
@@ -2009,7 +2009,7 @@
 	{
 		"id": "hand-o-left",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Hand Outlined Left",
 		"terms": [
@@ -2024,7 +2024,7 @@
 	{
 		"id": "hand-o-up",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Hand Outlined Up",
 		"terms": [
@@ -2036,7 +2036,7 @@
 	{
 		"id": "hand-o-down",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Hand Outlined Down",
 		"terms": [
@@ -2048,7 +2048,7 @@
 	{
 		"id": "arrow-circle-left",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Arrow Circle Left",
 		"terms": [
@@ -2060,7 +2060,7 @@
 	{
 		"id": "arrow-circle-right",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Arrow Circle Right",
 		"terms": [
@@ -2072,7 +2072,7 @@
 	{
 		"id": "arrow-circle-up",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Arrow Circle Up",
 		"terms": [],
@@ -2081,7 +2081,7 @@
 	{
 		"id": "arrow-circle-down",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Arrow Circle Down",
 		"terms": [
@@ -2092,7 +2092,7 @@
 	{
 		"id": "globe",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Globe",
 		"terms": [
@@ -2116,7 +2116,7 @@
 	{
 		"id": "wrench",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Wrench",
 		"terms": [
@@ -2130,7 +2130,7 @@
 	{
 		"id": "tasks",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Tasks",
 		"terms": [
@@ -2145,7 +2145,7 @@
 	{
 		"id": "filter",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Filter",
 		"terms": [
@@ -2157,7 +2157,7 @@
 	{
 		"id": "briefcase",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Briefcase",
 		"terms": [
@@ -2172,7 +2172,7 @@
 	{
 		"id": "arrows-alt",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Arrows Alt",
 		"terms": [
@@ -2190,7 +2190,7 @@
 	{
 		"id": "users",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Users",
 		"terms": [
@@ -2204,7 +2204,7 @@
 	{
 		"id": "link",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Link",
 		"terms": [
@@ -2215,7 +2215,7 @@
 	{
 		"id": "cloud",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Cloud",
 		"terms": [
@@ -2226,7 +2226,7 @@
 	{
 		"id": "flask",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Flask",
 		"terms": [
@@ -2240,7 +2240,7 @@
 	{
 		"id": "scissors",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Scissors",
 		"terms": [
@@ -2251,7 +2251,7 @@
 	{
 		"id": "files-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Files Outlined",
 		"terms": [
@@ -2264,7 +2264,7 @@
 	{
 		"id": "paperclip",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Paperclip",
 		"terms": [
@@ -2275,7 +2275,7 @@
 	{
 		"id": "floppy-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Floppy Outlined",
 		"terms": [
@@ -2286,7 +2286,7 @@
 	{
 		"id": "square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Square",
 		"terms": [
@@ -2298,7 +2298,7 @@
 	{
 		"id": "bars",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Bars",
 		"terms": [
@@ -2319,7 +2319,7 @@
 	{
 		"id": "list-ul",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "list-ul",
 		"terms": [
@@ -2334,7 +2334,7 @@
 	{
 		"id": "list-ol",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "list-ol",
 		"terms": [
@@ -2350,7 +2350,7 @@
 	{
 		"id": "strikethrough",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Strikethrough",
 		"terms": [],
@@ -2359,7 +2359,7 @@
 	{
 		"id": "underline",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Underline",
 		"terms": [],
@@ -2368,7 +2368,7 @@
 	{
 		"id": "table",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "table",
 		"terms": [
@@ -2381,7 +2381,7 @@
 	{
 		"id": "magic",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "magic",
 		"terms": [
@@ -2394,7 +2394,7 @@
 	{
 		"id": "truck",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "truck",
 		"terms": [
@@ -2405,7 +2405,7 @@
 	{
 		"id": "pinterest",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Pinterest",
 		"terms": [],
@@ -2414,7 +2414,7 @@
 	{
 		"id": "pinterest-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Pinterest Square",
 		"terms": [],
@@ -2423,7 +2423,7 @@
 	{
 		"id": "google-plus-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Google Plus Square",
 		"terms": [
@@ -2434,7 +2434,7 @@
 	{
 		"id": "google-plus",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Google Plus",
 		"terms": [
@@ -2445,7 +2445,7 @@
 	{
 		"id": "money",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Money",
 		"terms": [
@@ -2461,7 +2461,7 @@
 	{
 		"id": "caret-down",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Caret Down",
 		"terms": [
@@ -2476,7 +2476,7 @@
 	{
 		"id": "caret-up",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Caret Up",
 		"terms": [
@@ -2488,7 +2488,7 @@
 	{
 		"id": "caret-left",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Caret Left",
 		"terms": [
@@ -2502,7 +2502,7 @@
 	{
 		"id": "caret-right",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Caret Right",
 		"terms": [
@@ -2516,7 +2516,7 @@
 	{
 		"id": "columns",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Columns",
 		"terms": [
@@ -2528,7 +2528,7 @@
 	{
 		"id": "sort",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Sort",
 		"terms": [
@@ -2540,7 +2540,7 @@
 	{
 		"id": "sort-desc",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Sort Descending",
 		"terms": [
@@ -2555,7 +2555,7 @@
 	{
 		"id": "sort-asc",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Sort Ascending",
 		"terms": [
@@ -2567,7 +2567,7 @@
 	{
 		"id": "envelope",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Envelope",
 		"terms": [
@@ -2584,7 +2584,7 @@
 	{
 		"id": "linkedin",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "LinkedIn",
 		"terms": [],
@@ -2593,7 +2593,7 @@
 	{
 		"id": "undo",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Undo",
 		"terms": [
@@ -2605,7 +2605,7 @@
 	{
 		"id": "gavel",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Gavel",
 		"terms": [
@@ -2619,7 +2619,7 @@
 	{
 		"id": "tachometer",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Tachometer",
 		"terms": [
@@ -2632,7 +2632,7 @@
 	{
 		"id": "comment-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "comment-o",
 		"terms": [
@@ -2652,7 +2652,7 @@
 	{
 		"id": "comments-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "comments-o",
 		"terms": [
@@ -2672,7 +2672,7 @@
 	{
 		"id": "bolt",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Lightning Bolt",
 		"terms": [
@@ -2685,7 +2685,7 @@
 	{
 		"id": "sitemap",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Sitemap",
 		"terms": [
@@ -2698,7 +2698,7 @@
 	{
 		"id": "umbrella",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Umbrella",
 		"terms": [],
@@ -2707,7 +2707,7 @@
 	{
 		"id": "clipboard",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Clipboard",
 		"terms": [
@@ -2719,7 +2719,7 @@
 	{
 		"id": "lightbulb-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Lightbulb Outlined",
 		"terms": [
@@ -2731,7 +2731,7 @@
 	{
 		"id": "exchange",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Exchange",
 		"terms": [
@@ -2744,7 +2744,7 @@
 	{
 		"id": "cloud-download",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Cloud Download",
 		"terms": [
@@ -2755,7 +2755,7 @@
 	{
 		"id": "cloud-upload",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Cloud Upload",
 		"terms": [
@@ -2766,7 +2766,7 @@
 	{
 		"id": "user-md",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "user-md",
 		"terms": [
@@ -2780,7 +2780,7 @@
 	{
 		"id": "stethoscope",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Stethoscope",
 		"terms": [],
@@ -2789,7 +2789,7 @@
 	{
 		"id": "suitcase",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Suitcase",
 		"terms": [
@@ -2804,7 +2804,7 @@
 	{
 		"id": "bell-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Bell Outlined",
 		"terms": [
@@ -2817,7 +2817,7 @@
 	{
 		"id": "coffee",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Coffee",
 		"terms": [
@@ -2833,7 +2833,7 @@
 	{
 		"id": "cutlery",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Cutlery",
 		"terms": [
@@ -2849,7 +2849,7 @@
 	{
 		"id": "file-text-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "File Text Outlined",
 		"terms": [
@@ -2863,7 +2863,7 @@
 	{
 		"id": "building-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Building Outlined",
 		"terms": [
@@ -2878,7 +2878,7 @@
 	{
 		"id": "hospital-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "hospital Outlined",
 		"terms": [
@@ -2889,7 +2889,7 @@
 	{
 		"id": "ambulance",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "ambulance",
 		"terms": [
@@ -2902,7 +2902,7 @@
 	{
 		"id": "medkit",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "medkit",
 		"terms": [
@@ -2917,7 +2917,7 @@
 	{
 		"id": "fighter-jet",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "fighter-jet",
 		"terms": [
@@ -2933,7 +2933,7 @@
 	{
 		"id": "beer",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "beer",
 		"terms": [
@@ -2949,7 +2949,7 @@
 	{
 		"id": "h-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "H Square",
 		"terms": [
@@ -2961,7 +2961,7 @@
 	{
 		"id": "plus-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Plus Square",
 		"terms": [
@@ -2975,7 +2975,7 @@
 	{
 		"id": "angle-double-left",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Angle Double Left",
 		"terms": [
@@ -2990,7 +2990,7 @@
 	{
 		"id": "angle-double-right",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Angle Double Right",
 		"terms": [
@@ -3005,7 +3005,7 @@
 	{
 		"id": "angle-double-up",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Angle Double Up",
 		"terms": [
@@ -3016,7 +3016,7 @@
 	{
 		"id": "angle-double-down",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Angle Double Down",
 		"terms": [
@@ -3027,7 +3027,7 @@
 	{
 		"id": "angle-left",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "angle-left",
 		"terms": [
@@ -3040,7 +3040,7 @@
 	{
 		"id": "angle-right",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "angle-right",
 		"terms": [
@@ -3053,7 +3053,7 @@
 	{
 		"id": "angle-up",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "angle-up",
 		"terms": [
@@ -3064,7 +3064,7 @@
 	{
 		"id": "angle-down",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "angle-down",
 		"terms": [
@@ -3075,7 +3075,7 @@
 	{
 		"id": "desktop",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Desktop",
 		"terms": [
@@ -3091,7 +3091,7 @@
 	{
 		"id": "laptop",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Laptop",
 		"terms": [
@@ -3104,7 +3104,7 @@
 	{
 		"id": "tablet",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "tablet",
 		"terms": [
@@ -3116,7 +3116,7 @@
 	{
 		"id": "mobile",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Mobile Phone",
 		"terms": [
@@ -3134,7 +3134,7 @@
 	{
 		"id": "circle-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Circle Outlined",
 		"terms": [],
@@ -3143,7 +3143,7 @@
 	{
 		"id": "quote-left",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "quote-left",
 		"terms": [],
@@ -3152,7 +3152,7 @@
 	{
 		"id": "quote-right",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "quote-right",
 		"terms": [],
@@ -3161,7 +3161,7 @@
 	{
 		"id": "spinner",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Spinner",
 		"terms": [
@@ -3173,7 +3173,7 @@
 	{
 		"id": "circle",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Circle",
 		"terms": [
@@ -3185,7 +3185,7 @@
 	{
 		"id": "reply",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Reply",
 		"terms": [
@@ -3196,7 +3196,7 @@
 	{
 		"id": "github-alt",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "GitHub Alt",
 		"terms": [
@@ -3207,7 +3207,7 @@
 	{
 		"id": "folder-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Folder Outlined",
 		"terms": [],
@@ -3216,7 +3216,7 @@
 	{
 		"id": "folder-open-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Folder Open Outlined",
 		"terms": [],
@@ -3225,7 +3225,7 @@
 	{
 		"id": "smile-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Smile Outlined",
 		"terms": [
@@ -3241,7 +3241,7 @@
 	{
 		"id": "frown-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Frown Outlined",
 		"terms": [
@@ -3256,7 +3256,7 @@
 	{
 		"id": "meh-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Meh Outlined",
 		"terms": [
@@ -3270,7 +3270,7 @@
 	{
 		"id": "gamepad",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Gamepad",
 		"terms": [
@@ -3281,7 +3281,7 @@
 	{
 		"id": "keyboard-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Keyboard Outlined",
 		"terms": [
@@ -3293,7 +3293,7 @@
 	{
 		"id": "flag-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Flag Outlined",
 		"terms": [
@@ -3305,7 +3305,7 @@
 	{
 		"id": "flag-checkered",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "flag-checkered",
 		"terms": [
@@ -3318,7 +3318,7 @@
 	{
 		"id": "terminal",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Terminal",
 		"terms": [
@@ -3331,7 +3331,7 @@
 	{
 		"id": "code",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Code",
 		"terms": [
@@ -3343,7 +3343,7 @@
 	{
 		"id": "reply-all",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "reply-all",
 		"terms": [
@@ -3354,7 +3354,7 @@
 	{
 		"id": "star-half-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Star Half Outlined",
 		"terms": [
@@ -3370,7 +3370,7 @@
 	{
 		"id": "location-arrow",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "location-arrow",
 		"terms": [
@@ -3386,7 +3386,7 @@
 	{
 		"id": "crop",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "crop",
 		"terms": [],
@@ -3395,7 +3395,7 @@
 	{
 		"id": "code-fork",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "code-fork",
 		"terms": [
@@ -3413,7 +3413,7 @@
 	{
 		"id": "chain-broken",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Chain Broken",
 		"terms": [
@@ -3425,7 +3425,7 @@
 	{
 		"id": "question",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Question",
 		"terms": [
@@ -3439,7 +3439,7 @@
 	{
 		"id": "info",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Info",
 		"terms": [
@@ -3453,7 +3453,7 @@
 	{
 		"id": "exclamation",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "exclamation",
 		"terms": [
@@ -3469,7 +3469,7 @@
 	{
 		"id": "superscript",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "superscript",
 		"terms": [
@@ -3480,7 +3480,7 @@
 	{
 		"id": "subscript",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "subscript",
 		"terms": [],
@@ -3489,7 +3489,7 @@
 	{
 		"id": "eraser",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "eraser",
 		"terms": [
@@ -3501,7 +3501,7 @@
 	{
 		"id": "puzzle-piece",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Puzzle Piece",
 		"terms": [
@@ -3514,7 +3514,7 @@
 	{
 		"id": "microphone",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "microphone",
 		"terms": [
@@ -3527,7 +3527,7 @@
 	{
 		"id": "microphone-slash",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Microphone Slash",
 		"terms": [
@@ -3541,7 +3541,7 @@
 	{
 		"id": "shield",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "shield",
 		"terms": [
@@ -3555,7 +3555,7 @@
 	{
 		"id": "calendar-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "calendar-o",
 		"terms": [
@@ -3569,7 +3569,7 @@
 	{
 		"id": "fire-extinguisher",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "fire-extinguisher",
 		"terms": [],
@@ -3578,7 +3578,7 @@
 	{
 		"id": "rocket",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "rocket",
 		"terms": [
@@ -3589,7 +3589,7 @@
 	{
 		"id": "maxcdn",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "MaxCDN",
 		"terms": [],
@@ -3598,7 +3598,7 @@
 	{
 		"id": "chevron-circle-left",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Chevron Circle Left",
 		"terms": [
@@ -3611,7 +3611,7 @@
 	{
 		"id": "chevron-circle-right",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Chevron Circle Right",
 		"terms": [
@@ -3624,7 +3624,7 @@
 	{
 		"id": "chevron-circle-up",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Chevron Circle Up",
 		"terms": [
@@ -3635,7 +3635,7 @@
 	{
 		"id": "chevron-circle-down",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Chevron Circle Down",
 		"terms": [
@@ -3649,7 +3649,7 @@
 	{
 		"id": "html5",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "HTML 5 Logo",
 		"terms": [],
@@ -3658,7 +3658,7 @@
 	{
 		"id": "css3",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "CSS 3 Logo",
 		"terms": [
@@ -3669,7 +3669,7 @@
 	{
 		"id": "anchor",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Anchor",
 		"terms": [
@@ -3680,7 +3680,7 @@
 	{
 		"id": "unlock-alt",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Unlock Alt",
 		"terms": [
@@ -3694,7 +3694,7 @@
 	{
 		"id": "bullseye",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Bullseye",
 		"terms": [
@@ -3705,7 +3705,7 @@
 	{
 		"id": "ellipsis-h",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Ellipsis Horizontal",
 		"terms": [
@@ -3716,7 +3716,7 @@
 	{
 		"id": "ellipsis-v",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Ellipsis Vertical",
 		"terms": [
@@ -3727,7 +3727,7 @@
 	{
 		"id": "rss-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "RSS Square",
 		"terms": [
@@ -3739,7 +3739,7 @@
 	{
 		"id": "play-circle",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Play Circle",
 		"terms": [
@@ -3751,7 +3751,7 @@
 	{
 		"id": "ticket",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Ticket",
 		"terms": [
@@ -3764,7 +3764,7 @@
 	{
 		"id": "minus-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Minus Square",
 		"terms": [
@@ -3780,7 +3780,7 @@
 	{
 		"id": "minus-square-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Minus Square Outlined",
 		"terms": [
@@ -3796,7 +3796,7 @@
 	{
 		"id": "level-up",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Level Up",
 		"terms": [
@@ -3807,7 +3807,7 @@
 	{
 		"id": "level-down",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Level Down",
 		"terms": [
@@ -3818,7 +3818,7 @@
 	{
 		"id": "check-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Check Square",
 		"terms": [
@@ -3835,7 +3835,7 @@
 	{
 		"id": "pencil-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Pencil Square",
 		"terms": [
@@ -3848,7 +3848,7 @@
 	{
 		"id": "external-link-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "External Link Square",
 		"terms": [
@@ -3860,7 +3860,7 @@
 	{
 		"id": "share-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Share Square",
 		"terms": [
@@ -3872,7 +3872,7 @@
 	{
 		"id": "compass",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Compass",
 		"terms": [
@@ -3886,7 +3886,7 @@
 	{
 		"id": "caret-square-o-down",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Caret Square Outlined Down",
 		"terms": [
@@ -3900,7 +3900,7 @@
 	{
 		"id": "caret-square-o-up",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Caret Square Outlined Up",
 		"terms": [
@@ -3911,7 +3911,7 @@
 	{
 		"id": "caret-square-o-right",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Caret Square Outlined Right",
 		"terms": [
@@ -3924,7 +3924,7 @@
 	{
 		"id": "eur",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Euro (EUR)",
 		"terms": [
@@ -3935,7 +3935,7 @@
 	{
 		"id": "gbp",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "GBP",
 		"terms": [],
@@ -3944,7 +3944,7 @@
 	{
 		"id": "usd",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "US Dollar",
 		"terms": [
@@ -3955,7 +3955,7 @@
 	{
 		"id": "inr",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Indian Rupee (INR)",
 		"terms": [
@@ -3966,7 +3966,7 @@
 	{
 		"id": "jpy",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Japanese Yen (JPY)",
 		"terms": [
@@ -3979,7 +3979,7 @@
 	{
 		"id": "rub",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Russian Ruble (RUB)",
 		"terms": [
@@ -3991,7 +3991,7 @@
 	{
 		"id": "krw",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Korean Won (KRW)",
 		"terms": [
@@ -4002,7 +4002,7 @@
 	{
 		"id": "btc",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Bitcoin (BTC)",
 		"terms": [
@@ -4013,7 +4013,7 @@
 	{
 		"id": "file",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "File",
 		"terms": [
@@ -4027,7 +4027,7 @@
 	{
 		"id": "file-text",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "File Text",
 		"terms": [
@@ -4041,7 +4041,7 @@
 	{
 		"id": "sort-alpha-asc",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Sort Alpha Ascending",
 		"terms": [],
@@ -4050,7 +4050,7 @@
 	{
 		"id": "sort-alpha-desc",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Sort Alpha Descending",
 		"terms": [],
@@ -4059,7 +4059,7 @@
 	{
 		"id": "sort-amount-asc",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Sort Amount Ascending",
 		"terms": [],
@@ -4068,7 +4068,7 @@
 	{
 		"id": "sort-amount-desc",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Sort Amount Descending",
 		"terms": [],
@@ -4077,7 +4077,7 @@
 	{
 		"id": "sort-numeric-asc",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Sort Numeric Ascending",
 		"terms": [
@@ -4088,7 +4088,7 @@
 	{
 		"id": "sort-numeric-desc",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Sort Numeric Descending",
 		"terms": [
@@ -4099,7 +4099,7 @@
 	{
 		"id": "thumbs-up",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "thumbs-up",
 		"terms": [
@@ -4114,7 +4114,7 @@
 	{
 		"id": "thumbs-down",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "thumbs-down",
 		"terms": [
@@ -4128,7 +4128,7 @@
 	{
 		"id": "youtube-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "YouTube Square",
 		"terms": [
@@ -4140,7 +4140,7 @@
 	{
 		"id": "youtube",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "YouTube",
 		"terms": [
@@ -4152,7 +4152,7 @@
 	{
 		"id": "xing",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Xing",
 		"terms": [],
@@ -4161,7 +4161,7 @@
 	{
 		"id": "xing-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Xing Square",
 		"terms": [],
@@ -4170,7 +4170,7 @@
 	{
 		"id": "youtube-play",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "YouTube Play",
 		"terms": [
@@ -4182,7 +4182,7 @@
 	{
 		"id": "dropbox",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Dropbox",
 		"terms": [],
@@ -4191,7 +4191,7 @@
 	{
 		"id": "stack-overflow",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Stack Overflow",
 		"terms": [],
@@ -4200,7 +4200,7 @@
 	{
 		"id": "instagram",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Instagram",
 		"terms": [],
@@ -4209,7 +4209,7 @@
 	{
 		"id": "flickr",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Flickr",
 		"terms": [],
@@ -4218,7 +4218,7 @@
 	{
 		"id": "adn",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "App.net",
 		"terms": [],
@@ -4227,7 +4227,7 @@
 	{
 		"id": "bitbucket",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Bitbucket",
 		"terms": [
@@ -4238,7 +4238,7 @@
 	{
 		"id": "bitbucket-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Bitbucket Square",
 		"terms": [
@@ -4249,7 +4249,7 @@
 	{
 		"id": "tumblr",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Tumblr",
 		"terms": [],
@@ -4258,7 +4258,7 @@
 	{
 		"id": "tumblr-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Tumblr Square",
 		"terms": [],
@@ -4267,7 +4267,7 @@
 	{
 		"id": "long-arrow-down",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Long Arrow Down",
 		"terms": [],
@@ -4276,7 +4276,7 @@
 	{
 		"id": "long-arrow-up",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Long Arrow Up",
 		"terms": [],
@@ -4285,7 +4285,7 @@
 	{
 		"id": "long-arrow-left",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Long Arrow Left",
 		"terms": [
@@ -4297,7 +4297,7 @@
 	{
 		"id": "long-arrow-right",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Long Arrow Right",
 		"terms": [],
@@ -4306,7 +4306,7 @@
 	{
 		"id": "apple",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Apple",
 		"terms": [
@@ -4318,7 +4318,7 @@
 	{
 		"id": "windows",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Windows",
 		"terms": [
@@ -4329,7 +4329,7 @@
 	{
 		"id": "android",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Android",
 		"terms": [
@@ -4340,7 +4340,7 @@
 	{
 		"id": "linux",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Linux",
 		"terms": [
@@ -4351,7 +4351,7 @@
 	{
 		"id": "dribbble",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Dribbble",
 		"terms": [],
@@ -4360,7 +4360,7 @@
 	{
 		"id": "skype",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Skype",
 		"terms": [],
@@ -4369,7 +4369,7 @@
 	{
 		"id": "foursquare",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Foursquare",
 		"terms": [],
@@ -4378,7 +4378,7 @@
 	{
 		"id": "trello",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Trello",
 		"terms": [],
@@ -4387,7 +4387,7 @@
 	{
 		"id": "female",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Female",
 		"terms": [
@@ -4401,7 +4401,7 @@
 	{
 		"id": "male",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Male",
 		"terms": [
@@ -4415,7 +4415,7 @@
 	{
 		"id": "gratipay",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Gratipay (Gittip)",
 		"terms": [
@@ -4430,7 +4430,7 @@
 	{
 		"id": "sun-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Sun Outlined",
 		"terms": [
@@ -4445,7 +4445,7 @@
 	{
 		"id": "moon-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Moon Outlined",
 		"terms": [
@@ -4458,7 +4458,7 @@
 	{
 		"id": "archive",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Archive",
 		"terms": [
@@ -4470,7 +4470,7 @@
 	{
 		"id": "bug",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Bug",
 		"terms": [
@@ -4482,7 +4482,7 @@
 	{
 		"id": "vk",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "VK",
 		"terms": [],
@@ -4491,7 +4491,7 @@
 	{
 		"id": "weibo",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Weibo",
 		"terms": [],
@@ -4500,7 +4500,7 @@
 	{
 		"id": "renren",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Renren",
 		"terms": [],
@@ -4509,7 +4509,7 @@
 	{
 		"id": "pagelines",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Pagelines",
 		"terms": [
@@ -4525,7 +4525,7 @@
 	{
 		"id": "stack-exchange",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Stack Exchange",
 		"terms": [],
@@ -4534,7 +4534,7 @@
 	{
 		"id": "arrow-circle-o-right",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Arrow Circle Outlined Right",
 		"terms": [
@@ -4546,7 +4546,7 @@
 	{
 		"id": "arrow-circle-o-left",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Arrow Circle Outlined Left",
 		"terms": [
@@ -4558,7 +4558,7 @@
 	{
 		"id": "caret-square-o-left",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Caret Square Outlined Left",
 		"terms": [
@@ -4571,7 +4571,7 @@
 	{
 		"id": "dot-circle-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Dot Circle Outlined",
 		"terms": [
@@ -4584,7 +4584,7 @@
 	{
 		"id": "wheelchair",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Wheelchair",
 		"terms": [
@@ -4596,7 +4596,7 @@
 	{
 		"id": "vimeo-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Vimeo Square",
 		"terms": [],
@@ -4605,7 +4605,7 @@
 	{
 		"id": "try",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Turkish Lira (TRY)",
 		"terms": [
@@ -4616,7 +4616,7 @@
 	{
 		"id": "plus-square-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Plus Square Outlined",
 		"terms": [
@@ -4630,7 +4630,7 @@
 	{
 		"id": "space-shuttle",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Space Shuttle",
 		"terms": [],
@@ -4639,7 +4639,7 @@
 	{
 		"id": "slack",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Slack Logo",
 		"terms": [
@@ -4652,7 +4652,7 @@
 	{
 		"id": "envelope-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Envelope Square",
 		"terms": [
@@ -4669,7 +4669,7 @@
 	{
 		"id": "wordpress",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "WordPress Logo",
 		"terms": [],
@@ -4678,7 +4678,7 @@
 	{
 		"id": "openid",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "OpenID",
 		"terms": [],
@@ -4687,7 +4687,7 @@
 	{
 		"id": "university",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "University",
 		"terms": [
@@ -4699,7 +4699,7 @@
 	{
 		"id": "graduation-cap",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Graduation Cap",
 		"terms": [
@@ -4713,7 +4713,7 @@
 	{
 		"id": "yahoo",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Yahoo Logo",
 		"terms": [],
@@ -4722,7 +4722,7 @@
 	{
 		"id": "google",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Google Logo",
 		"terms": [],
@@ -4731,7 +4731,7 @@
 	{
 		"id": "reddit",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "reddit Logo",
 		"terms": [],
@@ -4740,7 +4740,7 @@
 	{
 		"id": "reddit-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "reddit Square",
 		"terms": [],
@@ -4749,7 +4749,7 @@
 	{
 		"id": "stumbleupon-circle",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "StumbleUpon Circle",
 		"terms": [],
@@ -4758,7 +4758,7 @@
 	{
 		"id": "stumbleupon",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "StumbleUpon Logo",
 		"terms": [],
@@ -4767,7 +4767,7 @@
 	{
 		"id": "delicious",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Delicious Logo",
 		"terms": [],
@@ -4776,7 +4776,7 @@
 	{
 		"id": "digg",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Digg Logo",
 		"terms": [],
@@ -4785,7 +4785,7 @@
 	{
 		"id": "pied-piper-pp",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Pied Piper PP Logo (Old)",
 		"terms": [],
@@ -4794,7 +4794,7 @@
 	{
 		"id": "pied-piper-alt",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Pied Piper Alternate Logo",
 		"terms": [],
@@ -4803,7 +4803,7 @@
 	{
 		"id": "drupal",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Drupal Logo",
 		"terms": [],
@@ -4812,7 +4812,7 @@
 	{
 		"id": "joomla",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Joomla Logo",
 		"terms": [],
@@ -4821,7 +4821,7 @@
 	{
 		"id": "language",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Language",
 		"terms": [],
@@ -4830,7 +4830,7 @@
 	{
 		"id": "fax",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Fax",
 		"terms": [],
@@ -4839,7 +4839,7 @@
 	{
 		"id": "building",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Building",
 		"terms": [
@@ -4854,7 +4854,7 @@
 	{
 		"id": "child",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Child",
 		"terms": [],
@@ -4863,7 +4863,7 @@
 	{
 		"id": "paw",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Paw",
 		"terms": [
@@ -4874,7 +4874,7 @@
 	{
 		"id": "spoon",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "spoon",
 		"terms": [],
@@ -4883,7 +4883,7 @@
 	{
 		"id": "cube",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Cube",
 		"terms": [],
@@ -4892,7 +4892,7 @@
 	{
 		"id": "cubes",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Cubes",
 		"terms": [],
@@ -4901,7 +4901,7 @@
 	{
 		"id": "behance",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Behance",
 		"terms": [],
@@ -4910,7 +4910,7 @@
 	{
 		"id": "behance-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Behance Square",
 		"terms": [],
@@ -4919,7 +4919,7 @@
 	{
 		"id": "steam",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Steam",
 		"terms": [],
@@ -4928,7 +4928,7 @@
 	{
 		"id": "steam-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Steam Square",
 		"terms": [],
@@ -4937,7 +4937,7 @@
 	{
 		"id": "recycle",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Recycle",
 		"terms": [],
@@ -4946,7 +4946,7 @@
 	{
 		"id": "car",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Car",
 		"terms": [
@@ -4958,7 +4958,7 @@
 	{
 		"id": "taxi",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Taxi",
 		"terms": [
@@ -4970,7 +4970,7 @@
 	{
 		"id": "tree",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Tree",
 		"terms": [],
@@ -4979,7 +4979,7 @@
 	{
 		"id": "spotify",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Spotify",
 		"terms": [],
@@ -4988,7 +4988,7 @@
 	{
 		"id": "deviantart",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "deviantART",
 		"terms": [],
@@ -4997,7 +4997,7 @@
 	{
 		"id": "soundcloud",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "SoundCloud",
 		"terms": [],
@@ -5006,7 +5006,7 @@
 	{
 		"id": "database",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Database",
 		"terms": [],
@@ -5015,7 +5015,7 @@
 	{
 		"id": "file-pdf-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "PDF File Outlined",
 		"terms": [],
@@ -5024,7 +5024,7 @@
 	{
 		"id": "file-word-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Word File Outlined",
 		"terms": [],
@@ -5033,7 +5033,7 @@
 	{
 		"id": "file-excel-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Excel File Outlined",
 		"terms": [],
@@ -5042,7 +5042,7 @@
 	{
 		"id": "file-powerpoint-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Powerpoint File Outlined",
 		"terms": [],
@@ -5051,7 +5051,7 @@
 	{
 		"id": "file-image-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Image File Outlined",
 		"terms": [
@@ -5063,7 +5063,7 @@
 	{
 		"id": "file-archive-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Archive File Outlined",
 		"terms": [
@@ -5074,7 +5074,7 @@
 	{
 		"id": "file-audio-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Audio File Outlined",
 		"terms": [
@@ -5085,7 +5085,7 @@
 	{
 		"id": "file-video-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Video File Outlined",
 		"terms": [
@@ -5096,7 +5096,7 @@
 	{
 		"id": "file-code-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Code File Outlined",
 		"terms": [],
@@ -5105,7 +5105,7 @@
 	{
 		"id": "vine",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Vine",
 		"terms": [],
@@ -5114,7 +5114,7 @@
 	{
 		"id": "codepen",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Codepen",
 		"terms": [],
@@ -5123,7 +5123,7 @@
 	{
 		"id": "jsfiddle",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "jsFiddle",
 		"terms": [],
@@ -5132,7 +5132,7 @@
 	{
 		"id": "life-ring",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Life Ring",
 		"terms": [
@@ -5145,7 +5145,7 @@
 	{
 		"id": "circle-o-notch",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Circle Outlined Notched",
 		"terms": [],
@@ -5154,7 +5154,7 @@
 	{
 		"id": "rebel",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Rebel Alliance",
 		"terms": [
@@ -5166,7 +5166,7 @@
 	{
 		"id": "empire",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Galactic Empire",
 		"terms": [
@@ -5177,7 +5177,7 @@
 	{
 		"id": "git-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Git Square",
 		"terms": [],
@@ -5186,7 +5186,7 @@
 	{
 		"id": "git",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Git",
 		"terms": [],
@@ -5195,7 +5195,7 @@
 	{
 		"id": "hacker-news",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Hacker News",
 		"terms": [
@@ -5207,7 +5207,7 @@
 	{
 		"id": "tencent-weibo",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Tencent Weibo",
 		"terms": [],
@@ -5216,7 +5216,7 @@
 	{
 		"id": "qq",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "QQ",
 		"terms": [],
@@ -5225,7 +5225,7 @@
 	{
 		"id": "weixin",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Weixin (WeChat)",
 		"terms": [
@@ -5236,7 +5236,7 @@
 	{
 		"id": "paper-plane",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Paper Plane",
 		"terms": [
@@ -5247,7 +5247,7 @@
 	{
 		"id": "paper-plane-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Paper Plane Outlined",
 		"terms": [
@@ -5258,7 +5258,7 @@
 	{
 		"id": "history",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "History",
 		"terms": [],
@@ -5267,7 +5267,7 @@
 	{
 		"id": "circle-thin",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Circle Outlined Thin",
 		"terms": [],
@@ -5276,7 +5276,7 @@
 	{
 		"id": "header",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "header",
 		"terms": [
@@ -5287,7 +5287,7 @@
 	{
 		"id": "paragraph",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "paragraph",
 		"terms": [],
@@ -5296,7 +5296,7 @@
 	{
 		"id": "sliders",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Sliders",
 		"terms": [
@@ -5307,7 +5307,7 @@
 	{
 		"id": "share-alt",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Share Alt",
 		"terms": [],
@@ -5316,7 +5316,7 @@
 	{
 		"id": "share-alt-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Share Alt Square",
 		"terms": [],
@@ -5325,7 +5325,7 @@
 	{
 		"id": "bomb",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Bomb",
 		"terms": [],
@@ -5334,7 +5334,7 @@
 	{
 		"id": "futbol-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Futbol Outlined",
 		"terms": [
@@ -5345,7 +5345,7 @@
 	{
 		"id": "tty",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "TTY",
 		"terms": [],
@@ -5354,7 +5354,7 @@
 	{
 		"id": "binoculars",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Binoculars",
 		"terms": [],
@@ -5363,7 +5363,7 @@
 	{
 		"id": "plug",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Plug",
 		"terms": [
@@ -5375,7 +5375,7 @@
 	{
 		"id": "slideshare",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Slideshare",
 		"terms": [],
@@ -5384,7 +5384,7 @@
 	{
 		"id": "twitch",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Twitch",
 		"terms": [],
@@ -5393,7 +5393,7 @@
 	{
 		"id": "yelp",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Yelp",
 		"terms": [],
@@ -5402,7 +5402,7 @@
 	{
 		"id": "newspaper-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Newspaper Outlined",
 		"terms": [
@@ -5413,7 +5413,7 @@
 	{
 		"id": "wifi",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "WiFi",
 		"terms": [],
@@ -5422,7 +5422,7 @@
 	{
 		"id": "calculator",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Calculator",
 		"terms": [],
@@ -5431,7 +5431,7 @@
 	{
 		"id": "paypal",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Paypal",
 		"terms": [],
@@ -5440,7 +5440,7 @@
 	{
 		"id": "google-wallet",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Google Wallet",
 		"terms": [],
@@ -5449,7 +5449,7 @@
 	{
 		"id": "cc-visa",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Visa Credit Card",
 		"terms": [],
@@ -5458,7 +5458,7 @@
 	{
 		"id": "cc-mastercard",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "MasterCard Credit Card",
 		"terms": [],
@@ -5467,7 +5467,7 @@
 	{
 		"id": "cc-discover",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Discover Credit Card",
 		"terms": [],
@@ -5476,7 +5476,7 @@
 	{
 		"id": "cc-amex",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "American Express Credit Card",
 		"terms": [
@@ -5487,7 +5487,7 @@
 	{
 		"id": "cc-paypal",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Paypal Credit Card",
 		"terms": [],
@@ -5496,7 +5496,7 @@
 	{
 		"id": "cc-stripe",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Stripe Credit Card",
 		"terms": [],
@@ -5505,7 +5505,7 @@
 	{
 		"id": "bell-slash",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Bell Slash",
 		"terms": [],
@@ -5514,7 +5514,7 @@
 	{
 		"id": "bell-slash-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Bell Slash Outlined",
 		"terms": [],
@@ -5523,7 +5523,7 @@
 	{
 		"id": "trash",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Trash",
 		"terms": [
@@ -5537,7 +5537,7 @@
 	{
 		"id": "copyright",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Copyright",
 		"terms": [],
@@ -5546,7 +5546,7 @@
 	{
 		"id": "at",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "At",
 		"terms": [],
@@ -5555,7 +5555,7 @@
 	{
 		"id": "eyedropper",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Eyedropper",
 		"terms": [],
@@ -5564,7 +5564,7 @@
 	{
 		"id": "paint-brush",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Paint Brush",
 		"terms": [],
@@ -5573,7 +5573,7 @@
 	{
 		"id": "birthday-cake",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Birthday Cake",
 		"terms": [],
@@ -5582,7 +5582,7 @@
 	{
 		"id": "area-chart",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Area Chart",
 		"terms": [
@@ -5594,7 +5594,7 @@
 	{
 		"id": "pie-chart",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Pie Chart",
 		"terms": [
@@ -5606,7 +5606,7 @@
 	{
 		"id": "line-chart",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Line Chart",
 		"terms": [
@@ -5618,7 +5618,7 @@
 	{
 		"id": "lastfm",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "last.fm",
 		"terms": [],
@@ -5627,7 +5627,7 @@
 	{
 		"id": "lastfm-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "last.fm Square",
 		"terms": [],
@@ -5636,7 +5636,7 @@
 	{
 		"id": "toggle-off",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Toggle Off",
 		"terms": [],
@@ -5645,7 +5645,7 @@
 	{
 		"id": "toggle-on",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Toggle On",
 		"terms": [],
@@ -5654,7 +5654,7 @@
 	{
 		"id": "bicycle",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Bicycle",
 		"terms": [
@@ -5666,7 +5666,7 @@
 	{
 		"id": "bus",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Bus",
 		"terms": [
@@ -5677,7 +5677,7 @@
 	{
 		"id": "ioxhost",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "ioxhost",
 		"terms": [],
@@ -5686,7 +5686,7 @@
 	{
 		"id": "angellist",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "AngelList",
 		"terms": [],
@@ -5695,7 +5695,7 @@
 	{
 		"id": "cc",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Closed Captions",
 		"terms": [],
@@ -5704,7 +5704,7 @@
 	{
 		"id": "ils",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Shekel (ILS)",
 		"terms": [
@@ -5716,7 +5716,7 @@
 	{
 		"id": "meanpath",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "meanpath",
 		"terms": [],
@@ -5725,7 +5725,7 @@
 	{
 		"id": "buysellads",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "BuySellAds",
 		"terms": [],
@@ -5734,7 +5734,7 @@
 	{
 		"id": "connectdevelop",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Connect Develop",
 		"terms": [],
@@ -5743,7 +5743,7 @@
 	{
 		"id": "dashcube",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "DashCube",
 		"terms": [],
@@ -5752,7 +5752,7 @@
 	{
 		"id": "forumbee",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Forumbee",
 		"terms": [],
@@ -5761,7 +5761,7 @@
 	{
 		"id": "leanpub",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Leanpub",
 		"terms": [],
@@ -5770,7 +5770,7 @@
 	{
 		"id": "sellsy",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Sellsy",
 		"terms": [],
@@ -5779,7 +5779,7 @@
 	{
 		"id": "shirtsinbulk",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Shirts in Bulk",
 		"terms": [],
@@ -5788,7 +5788,7 @@
 	{
 		"id": "simplybuilt",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "SimplyBuilt",
 		"terms": [],
@@ -5797,7 +5797,7 @@
 	{
 		"id": "skyatlas",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "skyatlas",
 		"terms": [],
@@ -5806,7 +5806,7 @@
 	{
 		"id": "cart-plus",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Add to Shopping Cart",
 		"terms": [
@@ -5818,7 +5818,7 @@
 	{
 		"id": "cart-arrow-down",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Shopping Cart Arrow Down",
 		"terms": [
@@ -5829,7 +5829,7 @@
 	{
 		"id": "diamond",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Diamond",
 		"terms": [
@@ -5841,7 +5841,7 @@
 	{
 		"id": "ship",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Ship",
 		"terms": [
@@ -5853,7 +5853,7 @@
 	{
 		"id": "user-secret",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "User Secret",
 		"terms": [
@@ -5867,7 +5867,7 @@
 	{
 		"id": "motorcycle",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Motorcycle",
 		"terms": [
@@ -5879,7 +5879,7 @@
 	{
 		"id": "street-view",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Street View",
 		"terms": [
@@ -5890,7 +5890,7 @@
 	{
 		"id": "heartbeat",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Heartbeat",
 		"terms": [
@@ -5901,7 +5901,7 @@
 	{
 		"id": "venus",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Venus",
 		"terms": [
@@ -5912,7 +5912,7 @@
 	{
 		"id": "mars",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Mars",
 		"terms": [
@@ -5923,7 +5923,7 @@
 	{
 		"id": "mercury",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Mercury",
 		"terms": [
@@ -5934,7 +5934,7 @@
 	{
 		"id": "transgender",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Transgender",
 		"terms": [
@@ -5945,7 +5945,7 @@
 	{
 		"id": "transgender-alt",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Transgender Alt",
 		"terms": [],
@@ -5954,7 +5954,7 @@
 	{
 		"id": "venus-double",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Venus Double",
 		"terms": [],
@@ -5963,7 +5963,7 @@
 	{
 		"id": "mars-double",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Mars Double",
 		"terms": [],
@@ -5972,7 +5972,7 @@
 	{
 		"id": "venus-mars",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Venus Mars",
 		"terms": [],
@@ -5981,7 +5981,7 @@
 	{
 		"id": "mars-stroke",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Mars Stroke",
 		"terms": [],
@@ -5990,7 +5990,7 @@
 	{
 		"id": "mars-stroke-v",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Mars Stroke Vertical",
 		"terms": [],
@@ -5999,7 +5999,7 @@
 	{
 		"id": "mars-stroke-h",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Mars Stroke Horizontal",
 		"terms": [],
@@ -6008,7 +6008,7 @@
 	{
 		"id": "neuter",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Neuter",
 		"terms": [],
@@ -6017,7 +6017,7 @@
 	{
 		"id": "genderless",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Genderless",
 		"terms": [],
@@ -6026,7 +6026,7 @@
 	{
 		"id": "facebook-official",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Facebook Official",
 		"terms": [],
@@ -6035,7 +6035,7 @@
 	{
 		"id": "pinterest-p",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Pinterest P",
 		"terms": [],
@@ -6044,7 +6044,7 @@
 	{
 		"id": "whatsapp",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "What's App",
 		"terms": [],
@@ -6053,7 +6053,7 @@
 	{
 		"id": "server",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Server",
 		"terms": [],
@@ -6062,7 +6062,7 @@
 	{
 		"id": "user-plus",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Add User",
 		"terms": [
@@ -6074,7 +6074,7 @@
 	{
 		"id": "user-times",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Remove User",
 		"terms": [],
@@ -6083,7 +6083,7 @@
 	{
 		"id": "bed",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Bed",
 		"terms": [
@@ -6095,7 +6095,7 @@
 	{
 		"id": "viacoin",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Viacoin",
 		"terms": [],
@@ -6104,7 +6104,7 @@
 	{
 		"id": "train",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Train",
 		"terms": [],
@@ -6113,7 +6113,7 @@
 	{
 		"id": "subway",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Subway",
 		"terms": [],
@@ -6122,7 +6122,7 @@
 	{
 		"id": "medium",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Medium",
 		"terms": [],
@@ -6131,7 +6131,7 @@
 	{
 		"id": "y-combinator",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Y Combinator",
 		"terms": [
@@ -6142,7 +6142,7 @@
 	{
 		"id": "optin-monster",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Optin Monster",
 		"terms": [],
@@ -6151,7 +6151,7 @@
 	{
 		"id": "opencart",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "OpenCart",
 		"terms": [],
@@ -6160,7 +6160,7 @@
 	{
 		"id": "expeditedssl",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "ExpeditedSSL",
 		"terms": [],
@@ -6169,7 +6169,7 @@
 	{
 		"id": "battery-full",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Battery Full",
 		"terms": [
@@ -6182,7 +6182,7 @@
 	{
 		"id": "battery-three-quarters",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Battery 3/4 Full",
 		"terms": [
@@ -6194,7 +6194,7 @@
 	{
 		"id": "battery-half",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Battery 1/2 Full",
 		"terms": [
@@ -6206,7 +6206,7 @@
 	{
 		"id": "battery-quarter",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Battery 1/4 Full",
 		"terms": [
@@ -6218,7 +6218,7 @@
 	{
 		"id": "battery-empty",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Battery Empty",
 		"terms": [
@@ -6230,7 +6230,7 @@
 	{
 		"id": "mouse-pointer",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Mouse Pointer",
 		"terms": [],
@@ -6239,7 +6239,7 @@
 	{
 		"id": "i-cursor",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "I Beam Cursor",
 		"terms": [],
@@ -6248,7 +6248,7 @@
 	{
 		"id": "object-group",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Object Group",
 		"terms": [],
@@ -6257,7 +6257,7 @@
 	{
 		"id": "object-ungroup",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Object Ungroup",
 		"terms": [],
@@ -6266,7 +6266,7 @@
 	{
 		"id": "sticky-note",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Sticky Note",
 		"terms": [],
@@ -6275,7 +6275,7 @@
 	{
 		"id": "sticky-note-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Sticky Note Outlined",
 		"terms": [],
@@ -6284,7 +6284,7 @@
 	{
 		"id": "cc-jcb",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "JCB Credit Card",
 		"terms": [],
@@ -6293,7 +6293,7 @@
 	{
 		"id": "cc-diners-club",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Diner's Club Credit Card",
 		"terms": [],
@@ -6302,7 +6302,7 @@
 	{
 		"id": "clone",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Clone",
 		"terms": [
@@ -6313,7 +6313,7 @@
 	{
 		"id": "balance-scale",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Balance Scale",
 		"terms": [],
@@ -6322,7 +6322,7 @@
 	{
 		"id": "hourglass-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Hourglass Outlined",
 		"terms": [],
@@ -6331,7 +6331,7 @@
 	{
 		"id": "hourglass-start",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Hourglass Start",
 		"terms": [
@@ -6342,7 +6342,7 @@
 	{
 		"id": "hourglass-half",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Hourglass Half",
 		"terms": [
@@ -6353,7 +6353,7 @@
 	{
 		"id": "hourglass-end",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Hourglass End",
 		"terms": [
@@ -6364,7 +6364,7 @@
 	{
 		"id": "hourglass",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Hourglass",
 		"terms": [],
@@ -6373,7 +6373,7 @@
 	{
 		"id": "hand-rock-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Rock (Hand)",
 		"terms": [
@@ -6384,7 +6384,7 @@
 	{
 		"id": "hand-paper-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Paper (Hand)",
 		"terms": [
@@ -6396,7 +6396,7 @@
 	{
 		"id": "hand-scissors-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Scissors (Hand)",
 		"terms": [],
@@ -6405,7 +6405,7 @@
 	{
 		"id": "hand-lizard-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Lizard (Hand)",
 		"terms": [],
@@ -6414,7 +6414,7 @@
 	{
 		"id": "hand-spock-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Spock (Hand)",
 		"terms": [],
@@ -6423,7 +6423,7 @@
 	{
 		"id": "hand-pointer-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Hand Pointer",
 		"terms": [],
@@ -6432,7 +6432,7 @@
 	{
 		"id": "hand-peace-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Hand Peace",
 		"terms": [],
@@ -6441,7 +6441,7 @@
 	{
 		"id": "trademark",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Trademark",
 		"terms": [],
@@ -6450,7 +6450,7 @@
 	{
 		"id": "registered",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Registered Trademark",
 		"terms": [],
@@ -6459,7 +6459,7 @@
 	{
 		"id": "creative-commons",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Creative Commons",
 		"terms": [],
@@ -6468,7 +6468,7 @@
 	{
 		"id": "gg",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "GG Currency",
 		"terms": [],
@@ -6477,7 +6477,7 @@
 	{
 		"id": "gg-circle",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "GG Currency Circle",
 		"terms": [],
@@ -6486,7 +6486,7 @@
 	{
 		"id": "tripadvisor",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "TripAdvisor",
 		"terms": [],
@@ -6495,7 +6495,7 @@
 	{
 		"id": "odnoklassniki",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Odnoklassniki",
 		"terms": [],
@@ -6504,7 +6504,7 @@
 	{
 		"id": "odnoklassniki-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Odnoklassniki Square",
 		"terms": [],
@@ -6513,7 +6513,7 @@
 	{
 		"id": "get-pocket",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Get Pocket",
 		"terms": [],
@@ -6522,7 +6522,7 @@
 	{
 		"id": "wikipedia-w",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Wikipedia W",
 		"terms": [],
@@ -6531,7 +6531,7 @@
 	{
 		"id": "safari",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Safari",
 		"terms": [
@@ -6542,7 +6542,7 @@
 	{
 		"id": "chrome",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Chrome",
 		"terms": [
@@ -6553,7 +6553,7 @@
 	{
 		"id": "firefox",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Firefox",
 		"terms": [
@@ -6564,7 +6564,7 @@
 	{
 		"id": "opera",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Opera",
 		"terms": [],
@@ -6573,7 +6573,7 @@
 	{
 		"id": "internet-explorer",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Internet-explorer",
 		"terms": [
@@ -6585,7 +6585,7 @@
 	{
 		"id": "television",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Television",
 		"terms": [
@@ -6599,7 +6599,7 @@
 	{
 		"id": "contao",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Contao",
 		"terms": [],
@@ -6608,7 +6608,7 @@
 	{
 		"id": "500px",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "500px",
 		"terms": [],
@@ -6617,7 +6617,7 @@
 	{
 		"id": "amazon",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Amazon",
 		"terms": [],
@@ -6626,7 +6626,7 @@
 	{
 		"id": "calendar-plus-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Calendar Plus Outlined",
 		"terms": [],
@@ -6635,7 +6635,7 @@
 	{
 		"id": "calendar-minus-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Calendar Minus Outlined",
 		"terms": [],
@@ -6644,7 +6644,7 @@
 	{
 		"id": "calendar-times-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Calendar Times Outlined",
 		"terms": [],
@@ -6653,7 +6653,7 @@
 	{
 		"id": "calendar-check-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Calendar Check Outlined",
 		"terms": [
@@ -6664,7 +6664,7 @@
 	{
 		"id": "industry",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Industry",
 		"terms": [
@@ -6675,7 +6675,7 @@
 	{
 		"id": "map-pin",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Map Pin",
 		"terms": [],
@@ -6684,7 +6684,7 @@
 	{
 		"id": "map-signs",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Map Signs",
 		"terms": [],
@@ -6693,7 +6693,7 @@
 	{
 		"id": "map-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Map Outlined",
 		"terms": [],
@@ -6702,7 +6702,7 @@
 	{
 		"id": "map",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Map",
 		"terms": [],
@@ -6711,7 +6711,7 @@
 	{
 		"id": "commenting",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Commenting",
 		"terms": [
@@ -6731,7 +6731,7 @@
 	{
 		"id": "commenting-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Commenting Outlined",
 		"terms": [
@@ -6751,7 +6751,7 @@
 	{
 		"id": "houzz",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Houzz",
 		"terms": [],
@@ -6760,7 +6760,7 @@
 	{
 		"id": "vimeo",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Vimeo",
 		"terms": [],
@@ -6769,7 +6769,7 @@
 	{
 		"id": "black-tie",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Font Awesome Black Tie",
 		"terms": [],
@@ -6778,7 +6778,7 @@
 	{
 		"id": "fonticons",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Fonticons",
 		"terms": [],
@@ -6787,7 +6787,7 @@
 	{
 		"id": "reddit-alien",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "reddit Alien",
 		"terms": [],
@@ -6796,7 +6796,7 @@
 	{
 		"id": "edge",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Edge Browser",
 		"terms": [
@@ -6808,7 +6808,7 @@
 	{
 		"id": "credit-card-alt",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Credit Card",
 		"terms": [
@@ -6825,7 +6825,7 @@
 	{
 		"id": "codiepie",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Codie Pie",
 		"terms": [],
@@ -6834,7 +6834,7 @@
 	{
 		"id": "modx",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "MODX",
 		"terms": [],
@@ -6843,7 +6843,7 @@
 	{
 		"id": "fort-awesome",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Fort Awesome",
 		"terms": [],
@@ -6852,7 +6852,7 @@
 	{
 		"id": "usb",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "USB",
 		"terms": [],
@@ -6861,7 +6861,7 @@
 	{
 		"id": "product-hunt",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Product Hunt",
 		"terms": [],
@@ -6870,7 +6870,7 @@
 	{
 		"id": "mixcloud",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Mixcloud",
 		"terms": [],
@@ -6879,7 +6879,7 @@
 	{
 		"id": "scribd",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Scribd",
 		"terms": [],
@@ -6888,7 +6888,7 @@
 	{
 		"id": "pause-circle",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Pause Circle",
 		"terms": [],
@@ -6897,7 +6897,7 @@
 	{
 		"id": "pause-circle-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Pause Circle Outlined",
 		"terms": [],
@@ -6906,7 +6906,7 @@
 	{
 		"id": "stop-circle",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Stop Circle",
 		"terms": [],
@@ -6915,7 +6915,7 @@
 	{
 		"id": "stop-circle-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Stop Circle Outlined",
 		"terms": [],
@@ -6924,7 +6924,7 @@
 	{
 		"id": "shopping-bag",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Shopping Bag",
 		"terms": [],
@@ -6933,7 +6933,7 @@
 	{
 		"id": "shopping-basket",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Shopping Basket",
 		"terms": [],
@@ -6942,7 +6942,7 @@
 	{
 		"id": "hashtag",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Hashtag",
 		"terms": [],
@@ -6951,7 +6951,7 @@
 	{
 		"id": "bluetooth",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Bluetooth",
 		"terms": [],
@@ -6960,7 +6960,7 @@
 	{
 		"id": "bluetooth-b",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Bluetooth",
 		"terms": [],
@@ -6969,7 +6969,7 @@
 	{
 		"id": "percent",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Percent",
 		"terms": [],
@@ -6978,7 +6978,7 @@
 	{
 		"id": "gitlab",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "GitLab",
 		"terms": [],
@@ -6987,7 +6987,7 @@
 	{
 		"id": "wpbeginner",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "WPBeginner",
 		"terms": [],
@@ -6996,7 +6996,7 @@
 	{
 		"id": "wpforms",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "WPForms",
 		"terms": [],
@@ -7005,7 +7005,7 @@
 	{
 		"id": "envira",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Envira Gallery",
 		"terms": [
@@ -7016,7 +7016,7 @@
 	{
 		"id": "universal-access",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Universal Access",
 		"terms": [],
@@ -7025,7 +7025,7 @@
 	{
 		"id": "wheelchair-alt",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Wheelchair Alt",
 		"terms": [
@@ -7037,7 +7037,7 @@
 	{
 		"id": "question-circle-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Question Circle Outlined",
 		"terms": [],
@@ -7046,7 +7046,7 @@
 	{
 		"id": "blind",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Blind",
 		"terms": [],
@@ -7055,7 +7055,7 @@
 	{
 		"id": "audio-description",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Audio Description",
 		"terms": [],
@@ -7064,7 +7064,7 @@
 	{
 		"id": "volume-control-phone",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Volume Control Phone",
 		"terms": [
@@ -7075,7 +7075,7 @@
 	{
 		"id": "braille",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Braille",
 		"terms": [],
@@ -7084,7 +7084,7 @@
 	{
 		"id": "assistive-listening-systems",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Assistive Listening Systems",
 		"terms": [],
@@ -7093,7 +7093,7 @@
 	{
 		"id": "american-sign-language-interpreting",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "American Sign Language Interpreting",
 		"terms": [
@@ -7104,7 +7104,7 @@
 	{
 		"id": "deaf",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Deaf",
 		"terms": [
@@ -7116,7 +7116,7 @@
 	{
 		"id": "glide",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Glide",
 		"terms": [],
@@ -7125,7 +7125,7 @@
 	{
 		"id": "glide-g",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Glide G",
 		"terms": [],
@@ -7134,7 +7134,7 @@
 	{
 		"id": "sign-language",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Sign Language",
 		"terms": [
@@ -7145,7 +7145,7 @@
 	{
 		"id": "low-vision",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Low Vision",
 		"terms": [],
@@ -7154,7 +7154,7 @@
 	{
 		"id": "viadeo",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Viadeo",
 		"terms": [],
@@ -7163,7 +7163,7 @@
 	{
 		"id": "viadeo-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Viadeo Square",
 		"terms": [],
@@ -7172,7 +7172,7 @@
 	{
 		"id": "snapchat",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Snapchat",
 		"terms": [],
@@ -7181,7 +7181,7 @@
 	{
 		"id": "snapchat-ghost",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Snapchat Ghost",
 		"terms": [],
@@ -7190,7 +7190,7 @@
 	{
 		"id": "snapchat-square",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Snapchat Square",
 		"terms": [],
@@ -7199,7 +7199,7 @@
 	{
 		"id": "pied-piper",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Pied Piper Logo",
 		"terms": [],
@@ -7208,7 +7208,7 @@
 	{
 		"id": "first-order",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "First Order",
 		"terms": [],
@@ -7217,7 +7217,7 @@
 	{
 		"id": "yoast",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Yoast",
 		"terms": [],
@@ -7226,7 +7226,7 @@
 	{
 		"id": "themeisle",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "ThemeIsle",
 		"terms": [],
@@ -7235,7 +7235,7 @@
 	{
 		"id": "google-plus-official",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Google Plus Official",
 		"terms": [
@@ -7246,7 +7246,7 @@
 	{
 		"id": "font-awesome",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Font Awesome",
 		"terms": [
@@ -7257,7 +7257,7 @@
 	{
 		"id": "handshake-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Handshake Outlined",
 		"terms": [],
@@ -7266,7 +7266,7 @@
 	{
 		"id": "envelope-open",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Envelope Open",
 		"terms": [
@@ -7283,7 +7283,7 @@
 	{
 		"id": "envelope-open-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Envelope Open Outlined",
 		"terms": [
@@ -7300,7 +7300,7 @@
 	{
 		"id": "linode",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Linode",
 		"terms": [],
@@ -7309,7 +7309,7 @@
 	{
 		"id": "address-book",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Address Book",
 		"terms": [],
@@ -7318,7 +7318,7 @@
 	{
 		"id": "address-book-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Address Book Outlined",
 		"terms": [],
@@ -7327,7 +7327,7 @@
 	{
 		"id": "address-card",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Address Card",
 		"terms": [
@@ -7338,7 +7338,7 @@
 	{
 		"id": "address-card-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Address Card Outlined",
 		"terms": [
@@ -7349,7 +7349,7 @@
 	{
 		"id": "user-circle",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "User Circle",
 		"terms": [],
@@ -7358,7 +7358,7 @@
 	{
 		"id": "user-circle-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "User Circle Outlined",
 		"terms": [],
@@ -7367,7 +7367,7 @@
 	{
 		"id": "user-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "User Outlined",
 		"terms": [],
@@ -7376,7 +7376,7 @@
 	{
 		"id": "id-badge",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Identification Badge",
 		"terms": [],
@@ -7385,7 +7385,7 @@
 	{
 		"id": "id-card",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Identification Card",
 		"terms": [
@@ -7396,7 +7396,7 @@
 	{
 		"id": "id-card-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Identification Card Outlined",
 		"terms": [
@@ -7407,7 +7407,7 @@
 	{
 		"id": "quora",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Quora",
 		"terms": [],
@@ -7416,7 +7416,7 @@
 	{
 		"id": "free-code-camp",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Free Code Camp",
 		"terms": [],
@@ -7425,7 +7425,7 @@
 	{
 		"id": "telegram",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Telegram",
 		"terms": [],
@@ -7434,7 +7434,7 @@
 	{
 		"id": "thermometer-full",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Thermometer Full",
 		"terms": [
@@ -7446,7 +7446,7 @@
 	{
 		"id": "thermometer-three-quarters",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Thermometer 3/4 Full",
 		"terms": [
@@ -7457,7 +7457,7 @@
 	{
 		"id": "thermometer-half",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Thermometer 1/2 Full",
 		"terms": [
@@ -7468,7 +7468,7 @@
 	{
 		"id": "thermometer-quarter",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Thermometer 1/4 Full",
 		"terms": [
@@ -7479,7 +7479,7 @@
 	{
 		"id": "thermometer-empty",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Thermometer Empty",
 		"terms": [
@@ -7490,7 +7490,7 @@
 	{
 		"id": "shower",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Shower",
 		"terms": [],
@@ -7499,7 +7499,7 @@
 	{
 		"id": "bath",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Bath",
 		"terms": [
@@ -7511,7 +7511,7 @@
 	{
 		"id": "podcast",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Podcast",
 		"terms": [],
@@ -7520,7 +7520,7 @@
 	{
 		"id": "window-maximize",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Window Maximize",
 		"terms": [],
@@ -7529,7 +7529,7 @@
 	{
 		"id": "window-minimize",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Window Minimize",
 		"terms": [],
@@ -7538,7 +7538,7 @@
 	{
 		"id": "window-restore",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Window Restore",
 		"terms": [],
@@ -7547,7 +7547,7 @@
 	{
 		"id": "window-close",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Window Close",
 		"terms": [
@@ -7558,7 +7558,7 @@
 	{
 		"id": "window-close-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Window Close Outline",
 		"terms": [
@@ -7569,7 +7569,7 @@
 	{
 		"id": "bandcamp",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Bandcamp",
 		"terms": [],
@@ -7578,7 +7578,7 @@
 	{
 		"id": "grav",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Grav",
 		"terms": [],
@@ -7587,7 +7587,7 @@
 	{
 		"id": "etsy",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Etsy",
 		"terms": [],
@@ -7596,7 +7596,7 @@
 	{
 		"id": "imdb",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "IMDB",
 		"terms": [],
@@ -7605,7 +7605,7 @@
 	{
 		"id": "ravelry",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Ravelry",
 		"terms": [],
@@ -7614,7 +7614,7 @@
 	{
 		"id": "eercast",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Eercast",
 		"terms": [],
@@ -7623,7 +7623,7 @@
 	{
 		"id": "microchip",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Microchip",
 		"terms": [],
@@ -7632,7 +7632,7 @@
 	{
 		"id": "snowflake-o",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Snowflake Outlined",
 		"terms": [],
@@ -7641,7 +7641,7 @@
 	{
 		"id": "superpowers",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Superpowers",
 		"terms": [],
@@ -7650,7 +7650,7 @@
 	{
 		"id": "wpexplorer",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "WPExplorer",
 		"terms": [],
@@ -7659,7 +7659,7 @@
 	{
 		"id": "meetup",
 		"styles": [
-			"default"
+			""
 		],
 		"label": "Meetup",
 		"terms": [],
