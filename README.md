@@ -2,15 +2,22 @@
 
 Font Awesome autocomplete and icon previews for Atom.
 
-![Demo](https://cloud.githubusercontent.com/assets/1245573/25317343/213b610a-2845-11e7-9e28-f4c1dc54e118.gif)
+![Demo](https://user-images.githubusercontent.com/1245573/35697669-e38c0f8c-0758-11e8-912a-782bb257bb6d.gif)
 
 ## Features
 
-- Shows icon previews with suggestions
+- Shows icon previews alongside suggestions
+- Supports Font Awesome versions 4.7 and 5.0
 - Includes HTML snippets for using icons
 - Also searches aliases so icons are easier to find
 - Displays the unicode value for each icon
+- Provides links to documentation for each Font Awesome icon
 - Includes suggestions for modifiers (such as `fa-2x`) with helper text
+- Intelligently switches out style prefixes (such as `fas` to `far`) when necessary
+
+## Versions
+
+The default is Font Awesome version 5.0. To switch between Font Awesome versions, go into Atom's Settings/Preferences &gt; Packages &gt; autocomplete-font-awesome &gt; Settings &gt; Font Awesome Version.
 
 ## Installation
 
