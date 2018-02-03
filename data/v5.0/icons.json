@@ -761,6 +761,24 @@
 		"unicode": "f0c9"
 	},
 	{
+		"id": "baseball-ball",
+		"styles": [
+			"solid"
+		],
+		"label": "Baseball Ball",
+		"terms": [],
+		"unicode": "f433"
+	},
+	{
+		"id": "basketball-ball",
+		"styles": [
+			"solid"
+		],
+		"label": "Basketball Ball",
+		"terms": [],
+		"unicode": "f434"
+	},
+	{
 		"id": "bath",
 		"styles": [
 			"solid"
@@ -1078,6 +1096,15 @@
 			"save"
 		],
 		"unicode": "f02e"
+	},
+	{
+		"id": "bowling-ball",
+		"styles": [
+			"solid"
+		],
+		"label": "Bowling Ball",
+		"terms": [],
+		"unicode": "f436"
 	},
 	{
 		"id": "braille",
@@ -1666,6 +1693,78 @@
 			"ok"
 		],
 		"unicode": "f14a"
+	},
+	{
+		"id": "chess",
+		"styles": [
+			"solid"
+		],
+		"label": "Chess",
+		"terms": [],
+		"unicode": "f439"
+	},
+	{
+		"id": "chess-bishop",
+		"styles": [
+			"solid"
+		],
+		"label": "Chess Bishop",
+		"terms": [],
+		"unicode": "f43a"
+	},
+	{
+		"id": "chess-board",
+		"styles": [
+			"solid"
+		],
+		"label": "Chess Board",
+		"terms": [],
+		"unicode": "f43c"
+	},
+	{
+		"id": "chess-king",
+		"styles": [
+			"solid"
+		],
+		"label": "Chess King",
+		"terms": [],
+		"unicode": "f43f"
+	},
+	{
+		"id": "chess-knight",
+		"styles": [
+			"solid"
+		],
+		"label": "Chess Knight",
+		"terms": [],
+		"unicode": "f441"
+	},
+	{
+		"id": "chess-pawn",
+		"styles": [
+			"solid"
+		],
+		"label": "Chess Pawn",
+		"terms": [],
+		"unicode": "f443"
+	},
+	{
+		"id": "chess-queen",
+		"styles": [
+			"solid"
+		],
+		"label": "Chess Queen",
+		"terms": [],
+		"unicode": "f445"
+	},
+	{
+		"id": "chess-rook",
+		"styles": [
+			"solid"
+		],
+		"label": "Chess Rook",
+		"terms": [],
+		"unicode": "f447"
 	},
 	{
 		"id": "chevron-circle-down",
@@ -3232,6 +3331,15 @@
 		"unicode": "f16e"
 	},
 	{
+		"id": "flipboard",
+		"styles": [
+			"brands"
+		],
+		"label": "Flipboard",
+		"terms": [],
+		"unicode": "f44d"
+	},
+	{
 		"id": "fly",
 		"styles": [
 			"brands"
@@ -3317,6 +3425,15 @@
 		"label": "Fonticons Fi",
 		"terms": [],
 		"unicode": "f3a2"
+	},
+	{
+		"id": "football-ball",
+		"styles": [
+			"solid"
+		],
+		"label": "Football Ball",
+		"terms": [],
+		"unicode": "f44e"
 	},
 	{
 		"id": "fort-awesome",
@@ -3639,6 +3756,15 @@
 		"label": "Gofore",
 		"terms": [],
 		"unicode": "f3a7"
+	},
+	{
+		"id": "golf-ball",
+		"styles": [
+			"solid"
+		],
+		"label": "Golf Ball",
+		"terms": [],
+		"unicode": "f450"
 	},
 	{
 		"id": "goodreads",
@@ -4041,6 +4167,15 @@
 		"unicode": "f21e"
 	},
 	{
+		"id": "hips",
+		"styles": [
+			"brands"
+		],
+		"label": "Hips",
+		"terms": [],
+		"unicode": "f452"
+	},
+	{
 		"id": "hire-a-helper",
 		"styles": [
 			"brands"
@@ -4057,6 +4192,15 @@
 		"label": "History",
 		"terms": [],
 		"unicode": "f1da"
+	},
+	{
+		"id": "hockey-puck",
+		"styles": [
+			"solid"
+		],
+		"label": "Hockey Puck",
+		"terms": [],
+		"unicode": "f453"
 	},
 	{
 		"id": "home",
@@ -5736,6 +5880,15 @@
 		"unicode": "f2a0"
 	},
 	{
+		"id": "php",
+		"styles": [
+			"brands"
+		],
+		"label": "PHP",
+		"terms": [],
+		"unicode": "f457"
+	},
+	{
 		"id": "pied-piper",
 		"styles": [
 			"brands"
@@ -6025,6 +6178,24 @@
 			"support"
 		],
 		"unicode": "f059"
+	},
+	{
+		"id": "quidditch",
+		"styles": [
+			"solid"
+		],
+		"label": "Quidditch",
+		"terms": [],
+		"unicode": "f458"
+	},
+	{
+		"id": "quinscape",
+		"styles": [
+			"brands"
+		],
+		"label": "QuinScape",
+		"terms": [],
+		"unicode": "f459"
 	},
 	{
 		"id": "quora",
@@ -6593,7 +6764,7 @@
 		"styles": [
 			"solid"
 		],
-		"label": "Alernate Sign In",
+		"label": "Alternate Sign In",
 		"terms": [
 			"enter",
 			"join",
@@ -6622,7 +6793,7 @@
 		"styles": [
 			"solid"
 		],
-		"label": "Alernate Sign Out",
+		"label": "Alternate Sign Out",
 		"terms": [
 			"log out",
 			"logout",
@@ -6960,6 +7131,15 @@
 			"box"
 		],
 		"unicode": "f0c8"
+	},
+	{
+		"id": "square-full",
+		"styles": [
+			"solid"
+		],
+		"label": "Square Full",
+		"terms": [],
+		"unicode": "f45c"
 	},
 	{
 		"id": "stack-exchange",
@@ -7329,6 +7509,15 @@
 		"unicode": "f0ce"
 	},
 	{
+		"id": "table-tennis",
+		"styles": [
+			"solid"
+		],
+		"label": "Table Tennis",
+		"terms": [],
+		"unicode": "f45d"
+	},
+	{
 		"id": "tablet",
 		"styles": [
 			"solid"
@@ -7620,7 +7809,7 @@
 		"styles": [
 			"solid"
 		],
-		"label": "Alernate Ticket",
+		"label": "Alternate Ticket",
 		"terms": [
 			"ticket"
 		],
@@ -8314,6 +8503,15 @@
 		"label": "VNV",
 		"terms": [],
 		"unicode": "f40b"
+	},
+	{
+		"id": "volleyball-ball",
+		"styles": [
+			"solid"
+		],
+		"label": "Volleyball Ball",
+		"terms": [],
+		"unicode": "f45f"
 	},
 	{
 		"id": "volume-down",
