@@ -1,40 +1,46 @@
 {
-    "name": "autocomplete-font-awesome",
-    "main": "./lib/main",
-    "version": "0.2.4",
-    "description": "Font Awesome autocomplete and icon previews for Atom.",
-    "keywords": [
-        "autocomplete",
-        "provider",
-        "font",
-        "awesome",
-        "fontawesome",
-        "icons",
-        "preview"
-    ],
-    "repository": "https://github.com/lonekorean/atom-autocomplete-font-awesome",
-    "author": "Will Boyd <will@codersblock.com> (http://codersblock.com)",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.15.0 <2.0.0"
-    },
-    "providedServices": {
-        "autocomplete.provider": {
-            "versions": {
-                "2.0.0": "getProvider"
-            }
-        }
-    },
-    "configSchema": {
-        "version": {
-            "title": "Font Awesome Version",
-            "description": "Which version of Font Awesome to use for suggestions.",
-            "type": "string",
-            "default": "5.0",
-            "enum": [
-                { "value": "4.7", "description": "Version 4.7"},
-                { "value": "5.0", "description": "Version 5.0"}
-            ]
-        }
+  "name": "autocomplete-font-awesome",
+  "main": "./lib/main",
+  "version": "1.0.0",
+  "description": "Font Awesome autocomplete and icon previews for Atom.",
+  "keywords": [
+    "autocomplete",
+    "provider",
+    "font",
+    "awesome",
+    "fontawesome",
+    "icons",
+    "preview"
+  ],
+  "repository": "https://github.com/lonekorean/atom-autocomplete-font-awesome",
+  "author": "Will Boyd <will@codersblock.com> (http://codersblock.com)",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.15.0 <2.0.0"
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "getProvider"
+      }
     }
+  },
+  "configSchema": {
+    "version": {
+      "title": "Font Awesome Version",
+      "description": "Which version of Font Awesome to use for suggestions.",
+      "type": "string",
+      "default": "5.0",
+      "enum": [
+        {
+          "value": "4.7",
+          "description": "Version 4.7"
+        },
+        {
+          "value": "5.0",
+          "description": "Version 5.0"
+        }
+      ]
+    }
+  }
 }
