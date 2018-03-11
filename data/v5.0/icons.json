@@ -398,7 +398,8 @@
 		"label": "Archive",
 		"terms": [
 			"box",
-			"storage"
+			"storage",
+			"package"
 		],
 		"unicode": "f187"
 	},
@@ -716,9 +717,24 @@
 			"block",
 			"stop",
 			"abort",
-			"cancel"
+			"cancel",
+			"ban",
+			"prohibit"
 		],
 		"unicode": "f05e"
+	},
+	{
+		"id": "band-aid",
+		"styles": [
+			"solid"
+		],
+		"label": "Band-Aid",
+		"terms": [
+			"bandage",
+			"ouch",
+			"boo boo"
+		],
+		"unicode": "f462"
 	},
 	{
 		"id": "bandcamp",
@@ -794,7 +810,8 @@
 		],
 		"label": "Battery Empty",
 		"terms": [
-			"power"
+			"power",
+			"status"
 		],
 		"unicode": "f244"
 	},
@@ -805,7 +822,8 @@
 		],
 		"label": "Battery Full",
 		"terms": [
-			"power"
+			"power",
+			"status"
 		],
 		"unicode": "f240"
 	},
@@ -816,7 +834,8 @@
 		],
 		"label": "Battery 1/2 Full",
 		"terms": [
-			"power"
+			"power",
+			"status"
 		],
 		"unicode": "f242"
 	},
@@ -827,7 +846,8 @@
 		],
 		"label": "Battery 1/4 Full",
 		"terms": [
-			"power"
+			"power",
+			"status"
 		],
 		"unicode": "f243"
 	},
@@ -838,7 +858,8 @@
 		],
 		"label": "Battery 3/4 Full",
 		"terms": [
-			"power"
+			"power",
+			"status"
 		],
 		"unicode": "f241"
 	},
@@ -919,7 +940,8 @@
 		"label": "Bicycle",
 		"terms": [
 			"vehicle",
-			"bike"
+			"bike",
+			"gears"
 		],
 		"unicode": "f206"
 	},
@@ -1105,6 +1127,24 @@
 		"label": "Bowling Ball",
 		"terms": [],
 		"unicode": "f436"
+	},
+	{
+		"id": "box",
+		"styles": [
+			"solid"
+		],
+		"label": "Box",
+		"terms": [],
+		"unicode": "f466"
+	},
+	{
+		"id": "boxes",
+		"styles": [
+			"solid"
+		],
+		"label": "Boxes",
+		"terms": [],
+		"unicode": "f468"
 	},
 	{
 		"id": "braille",
@@ -1624,7 +1664,8 @@
 		"terms": [
 			"graph",
 			"analytics",
-			"line-chart"
+			"line-chart",
+			"dashboard"
 		],
 		"unicode": "f201"
 	},
@@ -1655,7 +1696,8 @@
 			"accept",
 			"confirm",
 			"tick",
-			"ok"
+			"ok",
+			"select"
 		],
 		"unicode": "f00c"
 	},
@@ -1672,7 +1714,8 @@
 			"agree",
 			"accept",
 			"confirm",
-			"ok"
+			"ok",
+			"select"
 		],
 		"unicode": "f058"
 	},
@@ -1690,7 +1733,8 @@
 			"agree",
 			"accept",
 			"confirm",
-			"ok"
+			"ok",
+			"select"
 		],
 		"unicode": "f14a"
 	},
@@ -1919,6 +1963,24 @@
 		"unicode": "f328"
 	},
 	{
+		"id": "clipboard-check",
+		"styles": [
+			"solid"
+		],
+		"label": "Clipboard Check",
+		"terms": [],
+		"unicode": "f46c"
+	},
+	{
+		"id": "clipboard-list",
+		"styles": [
+			"solid"
+		],
+		"label": "Clipboard List",
+		"terms": [],
+		"unicode": "f46d"
+	},
+	{
 		"id": "clock",
 		"styles": [
 			"solid",
@@ -1974,7 +2036,7 @@
 		"styles": [
 			"solid"
 		],
-		"label": "Cloud Download-alt",
+		"label": "Cloud Download Alternate",
 		"terms": [
 			"cloud-download"
 		],
@@ -1985,7 +2047,7 @@
 		"styles": [
 			"solid"
 		],
-		"label": "Cloud Upload-alt",
+		"label": "Cloud Upload Alternate",
 		"terms": [
 			"cloud-upload"
 		],
@@ -2101,7 +2163,8 @@
 		],
 		"label": "cogs",
 		"terms": [
-			"settings"
+			"settings",
+			"gears"
 		],
 		"unicode": "f085"
 	},
@@ -2113,7 +2176,8 @@
 		"label": "Columns",
 		"terms": [
 			"split",
-			"panes"
+			"panes",
+			"dashboard"
 		],
 		"unicode": "f0db"
 	},
@@ -2296,7 +2360,9 @@
 			"solid"
 		],
 		"label": "crop",
-		"terms": [],
+		"terms": [
+			"design"
+		],
 		"unicode": "f125"
 	},
 	{
@@ -2306,7 +2372,8 @@
 		],
 		"label": "Crosshairs",
 		"terms": [
-			"picker"
+			"picker",
+			"gpd"
 		],
 		"unicode": "f05b"
 	},
@@ -2336,7 +2403,9 @@
 			"solid"
 		],
 		"label": "Cube",
-		"terms": [],
+		"terms": [
+			"package"
+		],
 		"unicode": "f1b2"
 	},
 	{
@@ -2345,7 +2414,9 @@
 			"solid"
 		],
 		"label": "Cubes",
-		"terms": [],
+		"terms": [
+			"packages"
+		],
 		"unicode": "f1b3"
 	},
 	{
@@ -2443,7 +2514,8 @@
 			"desktop",
 			"computer",
 			"demo",
-			"device"
+			"device",
+			"pc"
 		],
 		"unicode": "f108"
 	},
@@ -2493,6 +2565,18 @@
 		"unicode": "f393"
 	},
 	{
+		"id": "dna",
+		"styles": [
+			"solid"
+		],
+		"label": "DNA",
+		"terms": [
+			"double helix",
+			"helix"
+		],
+		"unicode": "f471"
+	},
+	{
 		"id": "dochub",
 		"styles": [
 			"brands"
@@ -2517,9 +2601,28 @@
 		],
 		"label": "Dollar Sign",
 		"terms": [
-			"usd"
+			"usd",
+			"price"
 		],
 		"unicode": "f155"
+	},
+	{
+		"id": "dolly",
+		"styles": [
+			"solid"
+		],
+		"label": "Dolly",
+		"terms": [],
+		"unicode": "f472"
+	},
+	{
+		"id": "dolly-flatbed",
+		"styles": [
+			"solid"
+		],
+		"label": "Dolly Flatbed",
+		"terms": [],
+		"unicode": "f474"
 	},
 	{
 		"id": "dot-circle",
@@ -2819,7 +2922,8 @@
 			"transfer",
 			"arrows",
 			"arrow",
-			"exchange"
+			"exchange",
+			"swap"
 		],
 		"unicode": "f362"
 	},
@@ -2835,7 +2939,8 @@
 			"problem",
 			"notification",
 			"notify",
-			"alert"
+			"alert",
+			"danger"
 		],
 		"unicode": "f12a"
 	},
@@ -2851,7 +2956,8 @@
 			"problem",
 			"notification",
 			"notify",
-			"alert"
+			"alert",
+			"danger"
 		],
 		"unicode": "f06a"
 	},
@@ -2867,7 +2973,8 @@
 			"problem",
 			"notification",
 			"notify",
-			"alert"
+			"alert",
+			"danger"
 		],
 		"unicode": "f071"
 	},
@@ -3063,6 +3170,7 @@
 		"label": "Female",
 		"terms": [
 			"woman",
+			"human",
 			"user",
 			"person",
 			"profile"
@@ -3263,6 +3371,15 @@
 		"unicode": "f269"
 	},
 	{
+		"id": "first-aid",
+		"styles": [
+			"solid"
+		],
+		"label": "First Aid",
+		"terms": [],
+		"unicode": "f479"
+	},
+	{
 		"id": "first-order",
 		"styles": [
 			"brands"
@@ -3441,7 +3558,9 @@
 			"brands"
 		],
 		"label": "Fort Awesome",
-		"terms": [],
+		"terms": [
+			"castle"
+		],
 		"unicode": "f286"
 	},
 	{
@@ -3450,7 +3569,9 @@
 			"brands"
 		],
 		"label": "Alternate Fort Awesome",
-		"terms": [],
+		"terms": [
+			"castle"
+		],
 		"unicode": "f3a3"
 	},
 	{
@@ -3547,7 +3668,8 @@
 		"terms": [
 			"judge",
 			"lawyer",
-			"opinion"
+			"opinion",
+			"hammer"
 		],
 		"unicode": "f0e3"
 	},
@@ -3744,7 +3866,8 @@
 			"localize",
 			"location",
 			"coordinates",
-			"country"
+			"country",
+			"gps"
 		],
 		"unicode": "f0ac"
 	},
@@ -4049,7 +4172,9 @@
 			"regular"
 		],
 		"label": "Pointer (Hand)",
-		"terms": [],
+		"terms": [
+			"select"
+		],
 		"unicode": "f25a"
 	},
 	{
@@ -4162,7 +4287,8 @@
 		],
 		"label": "Heartbeat",
 		"terms": [
-			"ekg"
+			"ekg",
+			"vital signs"
 		],
 		"unicode": "f21e"
 	},
@@ -4231,9 +4357,20 @@
 		],
 		"label": "hospital",
 		"terms": [
-			"building"
+			"building",
+			"medical center",
+			"emergency room"
 		],
 		"unicode": "f0f8"
+	},
+	{
+		"id": "hospital-symbol",
+		"styles": [
+			"solid"
+		],
+		"label": "Hospital Symbol",
+		"terms": [],
+		"unicode": "f47e"
 	},
 	{
 		"id": "hotjar",
@@ -4623,7 +4760,8 @@
 		"terms": [
 			"demo",
 			"computer",
-			"device"
+			"device",
+			"pc"
 		],
 		"unicode": "f109"
 	},
@@ -4702,7 +4840,7 @@
 		"styles": [
 			"solid"
 		],
-		"label": "Level Down-alt",
+		"label": "Level Down Alternate",
 		"terms": [
 			"level-down"
 		],
@@ -4713,7 +4851,7 @@
 		"styles": [
 			"solid"
 		],
-		"label": "Level Up-alt",
+		"label": "Level Up Alternate",
 		"terms": [
 			"level-up"
 		],
@@ -4823,7 +4961,7 @@
 		"styles": [
 			"solid"
 		],
-		"label": "list",
+		"label": "List",
 		"terms": [
 			"ul",
 			"ol",
@@ -4841,7 +4979,7 @@
 			"solid",
 			"regular"
 		],
-		"label": "list-alt",
+		"label": "List Alternate",
 		"terms": [
 			"ul",
 			"ol",
@@ -4896,7 +5034,8 @@
 			"location",
 			"address",
 			"place",
-			"where"
+			"where",
+			"gps"
 		],
 		"unicode": "f124"
 	},
@@ -5031,6 +5170,7 @@
 		"label": "Male",
 		"terms": [
 			"man",
+			"human",
 			"user",
 			"person",
 			"profile"
@@ -5062,7 +5202,8 @@
 			"address",
 			"travel",
 			"where",
-			"place"
+			"place",
+			"gps"
 		],
 		"unicode": "f041"
 	},
@@ -5071,9 +5212,10 @@
 		"styles": [
 			"solid"
 		],
-		"label": "Map Marker-alt",
+		"label": "Map Marker Alternate",
 		"terms": [
-			"map-marker"
+			"map-marker",
+			"gps"
 		],
 		"unicode": "f3c5"
 	},
@@ -5408,9 +5550,15 @@
 			"solid",
 			"regular"
 		],
-		"label": "Money Bill-alt",
+		"label": "Money Bill Alternate",
 		"terms": [
-			"money"
+			"cash",
+			"money",
+			"buy",
+			"checkout",
+			"purchase",
+			"payment",
+			"price"
 		],
 		"unicode": "f3d1"
 	},
@@ -5446,7 +5594,9 @@
 			"solid"
 		],
 		"label": "Mouse Pointer",
-		"terms": [],
+		"terms": [
+			"select"
+		],
 		"unicode": "f245"
 	},
 	{
@@ -5487,7 +5637,8 @@
 		],
 		"label": "Newspaper",
 		"terms": [
-			"press"
+			"press",
+			"article"
 		],
 		"unicode": "f1ea"
 	},
@@ -5552,7 +5703,9 @@
 			"regular"
 		],
 		"label": "Object Group",
-		"terms": [],
+		"terms": [
+			"design"
+		],
 		"unicode": "f247"
 	},
 	{
@@ -5562,7 +5715,9 @@
 			"regular"
 		],
 		"label": "Object Ungroup",
-		"terms": [],
+		"terms": [
+			"design"
+		],
 		"unicode": "f248"
 	},
 	{
@@ -5681,6 +5836,15 @@
 		"unicode": "f3d8"
 	},
 	{
+		"id": "pallet",
+		"styles": [
+			"solid"
+		],
+		"label": "Pallet",
+		"terms": [],
+		"unicode": "f482"
+	},
+	{
 		"id": "paper-plane",
 		"styles": [
 			"solid",
@@ -5796,7 +5960,8 @@
 			"write",
 			"edit",
 			"update",
-			"pencil"
+			"pencil",
+			"design"
 		],
 		"unicode": "f303"
 	},
@@ -5914,6 +6079,18 @@
 		"label": "Pied Piper PP Logo (Old)",
 		"terms": [],
 		"unicode": "f1a7"
+	},
+	{
+		"id": "pills",
+		"styles": [
+			"solid"
+		],
+		"label": "Pills",
+		"terms": [
+			"medicine",
+			"drugs"
+		],
+		"unicode": "f484"
 	},
 	{
 		"id": "pinterest",
@@ -6405,7 +6582,8 @@
 		"terms": [
 			"refresh",
 			"reload",
-			"share"
+			"share",
+			"swap"
 		],
 		"unicode": "f079"
 	},
@@ -6710,6 +6888,15 @@
 		"unicode": "f21a"
 	},
 	{
+		"id": "shipping-fast",
+		"styles": [
+			"solid"
+		],
+		"label": "Shipping Fast",
+		"terms": [],
+		"unicode": "f48b"
+	},
+	{
 		"id": "shirtsinbulk",
 		"styles": [
 			"brands"
@@ -6812,7 +6999,8 @@
 		"label": "signal",
 		"terms": [
 			"graph",
-			"bars"
+			"bars",
+			"status"
 		],
 		"unicode": "f012"
 	},
@@ -7496,6 +7684,18 @@
 		"unicode": "f2f1"
 	},
 	{
+		"id": "syringe",
+		"styles": [
+			"solid"
+		],
+		"label": "Syringe",
+		"terms": [
+			"immunizations",
+			"needle"
+		],
+		"unicode": "f48e"
+	},
+	{
 		"id": "table",
 		"styles": [
 			"solid"
@@ -7547,7 +7747,8 @@
 		],
 		"label": "Alternate Tachometer",
 		"terms": [
-			"tachometer"
+			"tachometer",
+			"dashboard"
 		],
 		"unicode": "f3fd"
 	},
@@ -7712,12 +7913,26 @@
 		"unicode": "f2b2"
 	},
 	{
+		"id": "thermometer",
+		"styles": [
+			"solid"
+		],
+		"label": "Thermometer",
+		"terms": [
+			"temperature",
+			"fever"
+		],
+		"unicode": "f491"
+	},
+	{
 		"id": "thermometer-empty",
 		"styles": [
 			"solid"
 		],
 		"label": "Thermometer Empty",
-		"terms": [],
+		"terms": [
+			"status"
+		],
 		"unicode": "f2cb"
 	},
 	{
@@ -7726,7 +7941,9 @@
 			"solid"
 		],
 		"label": "Thermometer Full",
-		"terms": [],
+		"terms": [
+			"status"
+		],
 		"unicode": "f2c7"
 	},
 	{
@@ -7735,7 +7952,9 @@
 			"solid"
 		],
 		"label": "Thermometer 1/2 Full",
-		"terms": [],
+		"terms": [
+			"status"
+		],
 		"unicode": "f2c9"
 	},
 	{
@@ -7744,7 +7963,9 @@
 			"solid"
 		],
 		"label": "Thermometer 1/4 Full",
-		"terms": [],
+		"terms": [
+			"status"
+		],
 		"unicode": "f2ca"
 	},
 	{
@@ -7753,7 +7974,9 @@
 			"solid"
 		],
 		"label": "Thermometer 3/4 Full",
-		"terms": [],
+		"terms": [
+			"status"
+		],
 		"unicode": "f2c8"
 	},
 	{
@@ -7863,7 +8086,9 @@
 			"solid"
 		],
 		"label": "Toggle Off",
-		"terms": [],
+		"terms": [
+			"switch"
+		],
 		"unicode": "f204"
 	},
 	{
@@ -7872,7 +8097,9 @@
 			"solid"
 		],
 		"label": "Toggle On",
-		"terms": [],
+		"terms": [
+			"switch"
+		],
 		"unicode": "f205"
 	},
 	{
@@ -8162,7 +8389,10 @@
 			"solid"
 		],
 		"label": "University",
-		"terms": [],
+		"terms": [
+			"bank",
+			"institution"
+		],
 		"unicode": "f19c"
 	},
 	{
@@ -8246,7 +8476,8 @@
 			"person",
 			"man",
 			"head",
-			"profile"
+			"profile",
+			"account"
 		],
 		"unicode": "f007"
 	},
@@ -8257,7 +8488,13 @@
 			"regular"
 		],
 		"label": "User Circle",
-		"terms": [],
+		"terms": [
+			"person",
+			"man",
+			"head",
+			"profile",
+			"account"
+		],
 		"unicode": "f2bd"
 	},
 	{
@@ -8270,7 +8507,9 @@
 			"doctor",
 			"profile",
 			"medical",
-			"nurse"
+			"nurse",
+			"job",
+			"occupation"
 		],
 		"unicode": "f0f0"
 	},
@@ -8567,6 +8806,15 @@
 		"unicode": "f41f"
 	},
 	{
+		"id": "warehouse",
+		"styles": [
+			"solid"
+		],
+		"label": "Warehouse",
+		"terms": [],
+		"unicode": "f494"
+	},
+	{
 		"id": "weibo",
 		"styles": [
 			"brands"
@@ -8574,6 +8822,17 @@
 		"label": "Weibo",
 		"terms": [],
 		"unicode": "f18a"
+	},
+	{
+		"id": "weight",
+		"styles": [
+			"solid"
+		],
+		"label": "Weight",
+		"terms": [
+			"scale"
+		],
+		"unicode": "f496"
 	},
 	{
 		"id": "weixin",
@@ -8758,7 +9017,8 @@
 			"settings",
 			"fix",
 			"update",
-			"spanner"
+			"spanner",
+			"tool"
 		],
 		"unicode": "f0ad"
 	},
