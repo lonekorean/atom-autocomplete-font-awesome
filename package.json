@@ -1,7 +1,7 @@
 {
   "name": "autocomplete-font-awesome",
   "main": "./lib/main",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Font Awesome autocomplete and icon previews for Atom.",
   "keywords": [
     "autocomplete",
